@@ -1,3 +1,3 @@
-# Sources
+# APRIL-native references
 
-See `../april-04-analysis/methods/` for execution cards.
+- `./prisma-notes.md`

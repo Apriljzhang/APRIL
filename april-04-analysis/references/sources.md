@@ -1,3 +1,5 @@
-# Sources
+# APRIL-native references
 
-Method cards under `../methods/` are authoritative inside APRIL.
+- `./method-index.md`
+- `./rta/` (full RTA guide)
+- `../methods/*.md`

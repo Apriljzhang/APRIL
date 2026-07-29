@@ -1,3 +1,4 @@
-# Sources
+# APRIL-native references
 
-Self-contained APRIL defaults.
+- `./apa-caption-notes.md`
+- JARS hub: `../../references/jars/`

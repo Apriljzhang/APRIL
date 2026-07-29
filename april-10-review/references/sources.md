@@ -1,3 +1,5 @@
-# Sources
+# APRIL-native references
 
-Self-contained APRIL review checklists; apply april-08/09 standards.
+- `./ssci-editor-bar.md`
+- `./persona-cards.md`
+- `./revision-roadmap.md`

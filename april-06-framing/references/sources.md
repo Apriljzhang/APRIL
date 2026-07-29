@@ -1,3 +1,6 @@
-# Sources
+# APRIL-native references
 
-Self-contained APRIL stage.
+- `./prompt-bank.md`
+- `./purpose-in-introduction.md`
+- Purpose layers: `../../april-01-ideation/references/purpose-statements.md`
+- JARS: `../../references/jars/`

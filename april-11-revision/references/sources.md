@@ -1,3 +1,3 @@
-# Sources
+# APRIL-native references
 
-Self-contained APRIL revision protocol.
+- `./response-letter-template.md`

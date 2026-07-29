@@ -1,64 +1,49 @@
 ---
 name: april
 description: >-
-  APRIL — Academic Paper Research & Inquiry Lab.
-  Route manuscript work through staged skills: ideation, literature, methodology,
-  analysis/findings, discussion, introduction/conclusion, abstract, language,
-  formatting, review, and revision. Use for academic papers, journal submissions,
-  methods design, data analysis, British-English style polishing, APA formatting,
-  peer review, and reviewer responses.
+  APRIL — Academic Paper Research & Inquiry Lab (Academic Research Skills by April).
+  Full academic paper pipeline: ideation, literature, methodology, analysis,
+  discussion, framing, abstract, language, formatting, review, revision.
+  Includes APA Style JARS reporting standards, purpose-statement guidance,
+  Discussion phrase functions, and Manchester-inspired academic phrase moves.
 ---
 
-# APRIL — Academic Paper Research & Inquiry Lab
+# APRIL
 
-**APRIL** = **A**cademic **P**aper **R**esearch & **I**nquiry **L**ab. Author: April.
+**Academic Paper Research & Inquiry Lab** — Academic Research Skills by April.
 
-Do not load every stage at once. Pick the smallest matching child skill and read its `SKILL.md` first.
+## Stages
+| # | Skill | Role |
+|---|---|---|
+| 01 | `april-01-ideation` | Socratic RQs; problem / purpose / delimitations |
+| 02 | `april-02-literature` | Search, Zotero/`pz`, PDF quotes, synthesis; JARS–REC citation praxis |
+| 03 | `april-03-methodology` | Design + JARS Method reporting plan |
+| 04 | `april-04-analysis` | One method card; JARS Results/Findings |
+| 05 | `april-05-discussion` | Interpret vs literature; APA Discussion phrase functions; JARS Discussion |
+| 06 | `april-06-framing` | Introduction & conclusion; purpose in Intro |
+| 07 | `april-07-abstract` | 200–300 word abstract; JARS Abstract items |
+| 08 | `april-08-language` | British house style; Manchester-inspired moves; humanizer |
+| 09 | `april-09-formatting` | 6–8k, TNR 12 double, APA; **JARS pre-submission gate** |
+| 10 | `april-10-review` | Multi-persona + editor bar + JARS compliance |
+| 11 | `april-11-revision` | Edits + response letter; close JARS gaps |
 
-## Default manuscript contract
+## Shared references
+- `references/jars/` — APA Style JARS (Quant, Qual, Mixed, REC)
+- Stage phrase/purpose packs under each stage’s `references/`
 
-Unless the user overrides:
+## How to use
+Load **one stage skill** at a time. For analysis, also open **one** method card under `april-04-analysis/methods/`.
 
-- Journal article length: **6000–8000** words
-- Abstract: **200–300** words
-- Font: **Times New Roman 12pt**, **double-spaced**
-- References: **APA**
-- Table/figure captions: **APA two-line** style
-- Language: **British English**; see `april-08-language`
+## Tools (APRIL-owned)
+- `tools/pdf-quote-finder/` — page-accurate PDF quote recovery
 
-## Routing
+## Separate (not APRIL)
+- `ai-for-grant-writing` — grants
+- `claude-prism` — Prism workflows
 
-| Need | Load |
-|---|---|
-| Topic, RQs, hypotheses, scope | `april-01-ideation/SKILL.md` |
-| Literature search, synthesis, citations, local PDF quotes | `april-02-literature/SKILL.md` |
-| Study design, method critique, diagrams | `april-03-methodology/SKILL.md` |
-| Analyse data / write findings (RTA, LPA, time series, CLPM, …) | `april-04-analysis/SKILL.md` |
-| Discussion linked to literature / local PDFs | `april-05-discussion/SKILL.md` |
-| Introduction + conclusion | `april-06-framing/SKILL.md` |
-| Abstract | `april-07-abstract/SKILL.md` |
-| Style, British English, humanizer | `april-08-language/SKILL.md` |
-| Word count, APA, captions, layout | `april-09-formatting/SKILL.md` |
-| Author self-critique or peer-review simulation | `april-10-review/SKILL.md` |
-| Point-by-point response to reviewers | `april-11-revision/SKILL.md` |
-
-## Typical pipeline
-
-1. Ideation → 2. Literature → 3. Methodology → 4. Analysis → 5. Discussion → 6. Framing → 7. Abstract → 8. Language → 9. Formatting → 10. Review → 11. Revision (as needed).
-
-## Operating principles
-
-1. Keep the human researcher in control of questions, methods, interpretation, and final prose.
-2. Verify citations and claims before calling output publication-ready.
-3. Prefer staged checkpoints over one-shot full papers.
-4. For analysis, load **one** method card under `april-04-analysis/methods/`.
-5. Language house rules beat humanizer when they conflict.
-
-## Related skills kept outside APRIL
-
-- `~/.cursor/skills/ai-for-grant-writing` — grant proposals (not journal manuscripts)
-- `~/.cursor/skills/claude-prism` — ClaudePrism desktop workspace guidance
+## Defaults
+British English; no em dashes; no default “not X but Y”; Manchester-style moves; topic-sentence paragraphs; Toulmin when claims are contested; abstract 200–300 words; paper 6–8k unless overridden; APA; two-line captions; report to JARS for the study type.
 
 
 ---
-Part of **APRIL — Academic Paper Research & Inquiry Lab**.
+**APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab)

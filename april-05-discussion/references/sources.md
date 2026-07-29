@@ -1,3 +1,6 @@
-# Sources
+# APRIL-native references
 
-Self-contained; verify citations against user-provided PDFs/library.
+- `./discussion-phrases.md` — APA Discussion Phrases Guide–inspired functions
+- JARS Discussion: `../../references/jars/`
+- Language / Phrasebank: `../../april-08-language/references/manchester-phrasebank.md`
+- PDF tool: `../../tools/pdf-quote-finder/`

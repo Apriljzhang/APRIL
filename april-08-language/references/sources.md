@@ -1,4 +1,9 @@
-# Sources
+# APRIL-native references
 
-- `./house-style.md` (authoritative)
-- `./humanizer_academic/SKILL.md` (bundled from matsuikentaro1/humanizer_academic)
+- `./sentence-bridging.md` — inter-sentence cohesion (concept overlap, anaphora, semicolon/relative clause)
+- `./manchester-phrasebank.md` — Manchester Academic Phrasebank–inspired functions
+- `./phrasebank-notes.md` — short stem cheat sheet
+- `./humanizer_academic/`
+- Discussion phrases: `../../april-05-discussion/references/discussion-phrases.md`
+- JARS–REC language: `../../references/jars/jars-rec.md`
+- Phrasebank site: https://www.phrasebank.manchester.ac.uk/

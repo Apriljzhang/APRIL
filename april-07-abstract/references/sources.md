@@ -1,3 +1,4 @@
-# Sources
+# APRIL-native references
 
-See april-08-language and april-09-formatting.
+- `../april-08-language/SKILL.md`
+- `../april-09-formatting/SKILL.md`

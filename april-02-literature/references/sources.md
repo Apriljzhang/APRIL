@@ -1,3 +1,4 @@
-# Sources
+# APRIL-native references
 
-Self-contained in APRIL. Optional tools (Zotero MCP, pdf-quote-finder) may be reinstalled if needed.
+- `./prompt-bank.md`
+- Tooling: `../../tools/pdf-quote-finder/`

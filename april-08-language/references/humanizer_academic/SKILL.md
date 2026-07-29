@@ -1,18 +1,8 @@
 ---
-name: humanizer_academic
-version: 2.1.0
-description: |
-  Remove signs of AI-generated writing from academic medical papers. Use when editing
-  or reviewing manuscripts to make them sound more natural and professionally written.
-  Based on Wikipedia's "Signs of AI writing" guide, adapted for medical literature.
-allowed-tools:
-  - Read
-  - Write
-  - Edit
-  - Grep
-  - Glob
-  - AskUserQuestion
+name: april-humanizer
+description: APRIL anti-AI prose patterns for academic writing.
 ---
+
 
 # Humanizer Academic: Remove AI Writing Patterns from Medical Papers
 

@@ -1,17 +1,18 @@
-# Method index
+# APRIL method index
 
 | Goal | Card |
 |---|---|
-| Reflexive thematic analysis | qualitative-rta |
-| Topic modeling | topic-modeling |
-| Latent profile (incl. multilevel) | latent-profile-lpa |
-| Latent class | latent-class-lca |
-| Time series | time-series |
-| Cross-lagged / RI-CLPM | cross-lagged |
-| Lag sequential | lag-sequential |
-| Multilevel / panel | multilevel-regression |
-| Causal DiD/IV | causal-did-iv |
-| SEM / CFA | sem-cfa |
-| Network | network-analysis |
-| Bayesian | bayesian |
-| Stata/R/Python tooling | tooling-stata-r-python |
+| Reflexive thematic analysis (Braun & Clarke) | qualitative-rta.md |
+| Topic modeling (STM/LDA/BERTopic) | topic-modeling.md |
+| Latent profile (+ multilevel LPA) | latent-profile-lpa.md |
+| Latent class | latent-class-lca.md |
+| Time series | time-series.md |
+| Cross-lagged / RI-CLPM | cross-lagged.md |
+| Lag sequential | lag-sequential.md |
+| Multilevel / panel regression | multilevel-regression.md |
+| Causal DiD / IV | causal-did-iv.md |
+| fsQCA / set-theoretic QCA | fsqca.md |
+| SEM / CFA | sem-cfa.md |
+| Network | network-analysis.md |
+| Bayesian | bayesian.md |
+| Tooling Stata/R/Python | tooling-stata-r-python.md |

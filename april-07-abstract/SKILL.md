@@ -1,19 +1,25 @@
 ---
 name: april-07-abstract
 description: >-
-  APRIL stage 07: journal abstracts. Default 200–300 words unless user/journal states otherwise.
+  APRIL stage 07: abstract writer. Default 200–300 words unless user/journal states otherwise.
 ---
 
 # april-07-abstract
 
-APRIL — Academic Paper Research & Inquiry Lab.
-
 ## Defaults
-**200–300 words** unless overridden. British English via `april-08-language`.
+**200–300 words** unless overridden. Structured or unstructured per journal.
 
-## Structure
-Background → aim → method → key results → implication/contribution. Match numbers to Results.
+## Spine
+Background → aim → method → key results → implication/contribution.
+
+## Rules
+- Match numbers to Results exactly.
+- No citations unless the journal requires them.
+- Apply `april-08-language` and check length with `april-09-formatting`.
+
+## JARS (Abstract)
+Include applicable Abstract elements from `../references/jars/` (objectives; participants; method; findings with effect sizes/CIs when Quant; design/analytic strategy when Qual; mixed-design label when Mixed; REC heterogeneity when relevant). Stay within 200–300 words unless overridden.
 
 
 ---
-Part of **APRIL — Academic Paper Research & Inquiry Lab**.
+**APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab)
