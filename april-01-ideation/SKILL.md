@@ -8,7 +8,7 @@ description: >-
 
 # april-01-ideation
 
-APRIL — Academic Research Skills by April.
+APRIL — Academic Paper Research & Inquiry Lab.
 
 ## Goal
 Turn a vague interest into a workable research agenda: topic → gap → RQs/hypotheses → scope boundaries.
@@ -25,4 +25,4 @@ Topic statement; gap statement; RQ list (± hypotheses); scope note; open questi
 
 
 ---
-Part of **APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab).
+Part of **APRIL — Academic Paper Research & Inquiry Lab**.

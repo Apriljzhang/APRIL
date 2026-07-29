@@ -7,7 +7,7 @@ description: >-
 
 # april-09-formatting
 
-APRIL — Academic Research Skills by April.
+APRIL — Academic Paper Research & Inquiry Lab.
 
 ## Defaults (override only if stated)
 - Total length: **6000–8000** words
@@ -19,4 +19,4 @@ APRIL — Academic Research Skills by April.
 
 
 ---
-Part of **APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab).
+Part of **APRIL — Academic Paper Research & Inquiry Lab**.

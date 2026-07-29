@@ -6,7 +6,7 @@ description: >-
 
 # april-10-review
 
-APRIL — Academic Research Skills by April.
+APRIL — Academic Paper Research & Inquiry Lab.
 
 ## Modes
 1. As author (self-critique against RQs, methods, evidence, house style, formatting).
@@ -17,4 +17,4 @@ Hand revision work to `april-11-revision`.
 
 
 ---
-Part of **APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab).
+Part of **APRIL — Academic Paper Research & Inquiry Lab**.

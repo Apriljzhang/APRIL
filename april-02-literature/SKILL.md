@@ -7,7 +7,7 @@ description: >-
 
 # april-02-literature
 
-APRIL — Academic Research Skills by April.
+APRIL — Academic Paper Research & Inquiry Lab.
 
 ## Goal
 Build a credible evidence base: find, triage, synthesise, and cite honestly.
@@ -24,4 +24,4 @@ Search log; inclusion decisions; synthesis matrix; citation risk list.
 
 
 ---
-Part of **APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab).
+Part of **APRIL — Academic Paper Research & Inquiry Lab**.

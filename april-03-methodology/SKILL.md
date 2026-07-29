@@ -7,7 +7,7 @@ description: >-
 
 # april-03-methodology
 
-APRIL — Academic Research Skills by April.
+APRIL — Academic Paper Research & Inquiry Lab.
 
 ## Goal
 Decide **whether** a design fits the RQs; critique weaknesses; produce design diagrams. Execution → `april-04-analysis`.
@@ -21,4 +21,4 @@ Decide **whether** a design fits the RQs; critique weaknesses; produce design di
 
 
 ---
-Part of **APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab).
+Part of **APRIL — Academic Paper Research & Inquiry Lab**.

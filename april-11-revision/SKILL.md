@@ -6,7 +6,7 @@ description: >-
 
 # april-11-revision
 
-APRIL — Academic Research Skills by April.
+APRIL — Academic Paper Research & Inquiry Lab.
 
 ## Workflow
 1. Number each reviewer comment.
@@ -17,4 +17,4 @@ APRIL — Academic Research Skills by April.
 
 
 ---
-Part of **APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab).
+Part of **APRIL — Academic Paper Research & Inquiry Lab**.

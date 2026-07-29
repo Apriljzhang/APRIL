@@ -7,7 +7,7 @@ description: >-
 
 # april-06-framing
 
-APRIL — Academic Research Skills by April.
+APRIL — Academic Paper Research & Inquiry Lab.
 
 ## Introduction
 Problem/context → debate/gap → aims/RQs → contribution preview → roadmap.
@@ -17,4 +17,4 @@ Answer RQs → contribution → limitations → forward agenda (not a repeat abs
 
 
 ---
-Part of **APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab).
+Part of **APRIL — Academic Paper Research & Inquiry Lab**.

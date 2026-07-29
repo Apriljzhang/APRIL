@@ -8,7 +8,7 @@ description: >-
 
 # april-08-language
 
-APRIL — Academic Research Skills by April.
+APRIL — Academic Paper Research & Inquiry Lab.
 
 ## Order of operations
 1. **House style gate (authoritative)** — rules below.
@@ -28,4 +28,4 @@ APRIL — Academic Research Skills by April.
 
 
 ---
-Part of **APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab).
+Part of **APRIL — Academic Paper Research & Inquiry Lab**.

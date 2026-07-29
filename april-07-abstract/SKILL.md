@@ -6,7 +6,7 @@ description: >-
 
 # april-07-abstract
 
-APRIL — Academic Research Skills by April.
+APRIL — Academic Paper Research & Inquiry Lab.
 
 ## Defaults
 **200–300 words** unless overridden. British English via `april-08-language`.
@@ -16,4 +16,4 @@ Background → aim → method → key results → implication/contribution. Matc
 
 
 ---
-Part of **APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab).
+Part of **APRIL — Academic Paper Research & Inquiry Lab**.

@@ -8,7 +8,7 @@ description: >-
 
 # april-04-analysis
 
-APRIL — Academic Research Skills by April.
+APRIL — Academic Paper Research & Inquiry Lab.
 
 ## Routing
 1. Classify analytic goal via `references/method-index.md`.
@@ -18,4 +18,4 @@ APRIL — Academic Research Skills by April.
 
 
 ---
-Part of **APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab).
+Part of **APRIL — Academic Paper Research & Inquiry Lab**.

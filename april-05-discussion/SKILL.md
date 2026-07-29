@@ -7,7 +7,7 @@ description: >-
 
 # april-05-discussion
 
-APRIL — Academic Research Skills by April.
+APRIL — Academic Paper Research & Inquiry Lab.
 
 ## Workflow
 1. Restate key findings (no new analyses).
@@ -18,4 +18,4 @@ APRIL — Academic Research Skills by April.
 
 
 ---
-Part of **APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab).
+Part of **APRIL — Academic Paper Research & Inquiry Lab**.

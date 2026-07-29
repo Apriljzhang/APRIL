@@ -1,7 +1,7 @@
 ---
 name: april
 description: >-
-  APRIL (Academic Paper Research & Inquiry Lab) — Academic Research Skills by April.
+  APRIL — Academic Paper Research & Inquiry Lab.
   Route manuscript work through staged skills: ideation, literature, methodology,
   analysis/findings, discussion, introduction/conclusion, abstract, language,
   formatting, review, and revision. Use for academic papers, journal submissions,
@@ -9,7 +9,7 @@ description: >-
   peer review, and reviewer responses.
 ---
 
-# APRIL — Academic Research Skills by April
+# APRIL — Academic Paper Research & Inquiry Lab
 
 **APRIL** = **A**cademic **P**aper **R**esearch & **I**nquiry **L**ab. Author: April.
 
@@ -61,4 +61,4 @@ Unless the user overrides:
 
 
 ---
-Part of **APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab).
+Part of **APRIL — Academic Paper Research & Inquiry Lab**.
