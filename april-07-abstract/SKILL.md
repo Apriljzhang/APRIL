@@ -20,6 +20,11 @@ Background → aim → method → key results → implication/contribution.
 ## JARS (Abstract)
 Include applicable Abstract elements from `../references/jars/` (objectives; participants; method; findings with effect sizes/CIs when Quant; design/analytic strategy when Qual; mixed-design label when Mixed; REC heterogeneity when relevant). Stay within 200–300 words unless overridden.
 
+## Genre calibration
+Assume a journal-article abstract by default. Use `../references/academic-genres.md` only when the user needs a nearby genre variant.
+
+Journal-article default: full background → aim → method → results → implication spine. Only alter that shape when the target text is clearly not an article.
+
 
 ---
 **APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab)

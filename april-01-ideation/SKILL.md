@@ -31,6 +31,14 @@ Use prompt patterns in `references/prompt-bank.md` for topic brainstorming, RQ w
 - In/out scope note
 - Next-stage recommendation
 
+## Genre calibration
+Default to journal-article scope. Use `../references/academic-genres.md` only when the user is clearly writing another academic genre.
+
+At ideation stage, journal-article scope means:
+- narrow enough for one publishable paper
+- contribution-focused rather than topic-broad
+- shaped toward defensible RQs that can support a real article, not a general project theme
+
 ## Problem / purpose / RQs
 Distinguish **problem**, **purpose**, and **RQs/hypotheses**. Follow `references/purpose-statements.md`. Tag primary / secondary / exploratory aims (JARS–Quant) when confirmatory.
 

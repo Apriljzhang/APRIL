@@ -54,6 +54,11 @@ Match modes: auto (default), exact, compact, punctuation, fuzzy. No embeddings/L
 ## Outputs
 Search log; inclusion table; synthesis matrix; quote pins (file + page); citation risk list.
 
+## Genre calibration
+Keep the literature workflow article-oriented by default. Use `../references/academic-genres.md` only for light genre adjustments when needed.
+
+For journal articles, compress toward debate, gap, and contribution. Only expand the scaffolding when the user explicitly needs a non-article genre.
+
 ## Prompt aids
 See `references/prompt-bank.md`.
 

@@ -6,4 +6,5 @@
 - `./humanizer_academic/`
 - Discussion phrases: `../../april-05-discussion/references/discussion-phrases.md`
 - JARS–REC language: `../../references/jars/jars-rec.md`
+- Genre calibration: `../../references/academic-genres.md`
 - Phrasebank site: https://www.phrasebank.manchester.ac.uk/

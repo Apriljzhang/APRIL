@@ -46,6 +46,11 @@ Target AI tells (formulaic transitions, hollow intensifiers, stacked hedging, em
 ## Order relative to other stages
 Apply language after substantive content is stable; before final formatting polish if length/structure still moves.
 
+## Genre calibration
+Academic style is not identical across genres, but APRIL should still default to journal-article prose. Use `../references/academic-genres.md` only for small adjustments when needed.
+
+Journal-article default: higher compression, stronger contribution signalling, tighter paragraph economy, and less expository drift. Only relax that profile when the user is clearly writing another genre.
+
 
 ---
 **APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab)

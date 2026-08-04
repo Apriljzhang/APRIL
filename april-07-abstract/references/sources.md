@@ -2,3 +2,4 @@
 
 - `../april-08-language/SKILL.md`
 - `../april-09-formatting/SKILL.md`
+- `../references/academic-genres.md`

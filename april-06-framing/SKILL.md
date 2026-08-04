@@ -33,6 +33,11 @@ See `references/prompt-bank.md`.
 ## Purpose in the Introduction
 Polish the ideation purpose into the Introduction using `references/purpose-in-introduction.md` and `../april-01-ideation/references/purpose-statements.md`. Meet JARS Introduction items in `../references/jars/`.
 
+## Genre calibration
+Before drafting the Introduction or Conclusion, assume a journal article unless the user says otherwise. For non-article cases, check `../references/academic-genres.md` only for light calibration.
+
+For journal articles, compress quickly to gap, purpose, contribution, and roadmap. Expand beyond that only when the user clearly needs a non-article structure.
+
 
 ---
 **APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab)

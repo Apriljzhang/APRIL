@@ -28,6 +28,11 @@ Persona prompts: `references/persona-cards.md`.
 Do not rewrite the whole paper here. Flag; leave drafting to revision.
 Do not invent missing data or citations.
 
+## Genre-fit review
+Review against journal-article expectations first. Only use `../references/academic-genres.md` when the draft is clearly for another genre.
+
+Primary flag here: article prose that is too chapter-like, too diffuse, too expository, or too weak on contribution. Use non-article checks only when the draft is explicitly not a journal article.
+
 ## JARS compliance (reviewer lens)
 Score the manuscript against `../references/jars/` for the declared design. Do not stop at generic compliance; check the relevant module level as well.
 

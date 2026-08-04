@@ -29,6 +29,11 @@ If the user uses Office CLI patterns, keep formatting instructions journal-agnos
 ## JARS pre-submission gate
 Before export, run the applicable pack in `../references/jars/` (Quant and/or Qual and/or Mixed, always REC). Confirm title/author-note items, abstract completeness, Method/Results/Discussion coverage, and caption/APA consistency. Prefer official APA checklist PDFs when a journal requires formal JARS attestation.
 
+## Genre calibration
+Formatting rules are genre-dependent, but APRIL should enforce journal-article assumptions unless the user is working in another genre. Check `../references/academic-genres.md` only when needed.
+
+Journal-article default: prioritise the target journal's author guidelines over APRIL house defaults. Only switch to institution, sponsor, or publisher rules when the task is explicitly non-article.
+
 
 ---
 **APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab)

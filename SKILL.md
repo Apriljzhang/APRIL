@@ -11,6 +11,8 @@ description: >-
 
 **APRIL** (Academic Paper Research & Inquiry Lab) is a skill suite that helps you write academic journal papers step by step—from research questions to a submission-ready manuscript and reviewer responses.
 
+APRIL is **for journal articles**. Adjacent genres such as thesis/dissertation chapters, research proposals, literature reviews, or book chapters are only handled as minor transfer cases when relevant. See `references/academic-genres.md`.
+
 ## Stages
 
 | # | Skill | Helps you… |
@@ -31,6 +33,12 @@ description: >-
 
 Load **one stage** at a time. For analysis, also open **one** method card under `april-04-analysis/methods/`.
 
+## Genre scope
+
+Default assumption: you are writing a **journal article** for submission, review, or revision.
+
+If the user is actually writing a proposal, thesis/dissertation chapter, literature review, or book chapter, use `references/academic-genres.md` only to make the smallest necessary calibration without changing APRIL's article core.
+
 ## Defaults
 
 British English; paper about 6–8k words; abstract 200–300 words; APA; Times New Roman 12pt double-spaced; two-line captions—unless you or the journal say otherwise.
@@ -41,7 +49,7 @@ British English; paper about 6–8k words; abstract 200–300 words; APA; Times 
 
 ## Separate skills
 
-- `ai-for-grant-writing` — grants  
+- `ai-for-grant-writing` — use instead when the task is primarily a grant or funding package
 - `claude-prism` — Prism workflows
 
 
