@@ -1,50 +1,212 @@
-# APRIL — JARS–Quant (general)
+# APRIL — JARS–Quant
 
-Adapted from Appelbaum et al. (2018), *American Psychologist* (APA Style JARS–Quant Table 1 and related modules). Use items that apply. For specialised designs (random assignment, clinical trials, longitudinal, N-of-1, replication, SEM, Bayesian, meta-analysis), also consult the matching checklist on [apastyle.apa.org/jars](https://apastyle.apa.org/jars).
+Adapted from APA Style JARS–Quant Table 1 plus the design modules currently present in the vault source PDFs:
 
-## Title / author note
-- Title: main variables/theoretical issues and relationships; populations studied.
-- Author note: registration (if any); prior use of data; dissertation/conference prior reports; funding; conflicts; prior affiliations; corresponding author.
+- `JARS_quant-table-1.pdf` — general quantitative reporting
+- `JARS_quant-table-2.pdf` — experimental manipulation
+- `JARS_quant-table-2a.pdf` — random assignment
+- `JARS_quant-table-2b.pdf` — nonrandom assignment
+- `JARS_quant-table-2c.pdf` — clinical trials
+- `JARS_quant-table-3.pdf` — no experimental manipulation
+- `JARS_quant-table-4.pdf` — longitudinal studies
+- `JARS_quant-table-5.pdf` — N-of-1 studies
+- `JARS_quant-table-7.pdf` — structural equation modeling
+- `JARS_quant-table-8.pdf` — Bayesian techniques
+- `JARS_quant-table-9.pdf` — quantitative meta-analysis
 
-## Abstract
-- Objectives / problem; main hypotheses.
-- Participants (pertinent characteristics; genus/species if animals).
-- Study method: design, sample size, materials, outcomes, procedures (flag secondary data).
-- Findings with effect sizes and CIs (or significance levels).
-- Conclusions / implications beyond restating results.
+Use the general checklist first, then add the relevant module(s).
 
-## Introduction
-- Importance of the problem (theoretical or practical).
-- Succinct review of relevant scholarship; relation to prior work; differences if aspects reported previously.
-- Hypotheses/aims/objectives; theories used to derive them; **primary vs secondary** hypotheses and other planned analyses; how hypotheses relate to design.
+## General checklist (Table 1)
 
-## Method
-- Inclusion/exclusion (incl. demographic restrictions).
-- Participant characteristics (major demographics + topic-specific; animal detail if relevant).
-- Sampling: method, % approached who participated, self-selection, settings/locations/dates, payments, IRB/ethics/safety.
-- Sample size, power, precision: intended vs achieved; determination (power/precision); interim analyses/stopping rules.
-- Measures/covariates (incl. collected but not reported).
-- Data collection; measurement quality (training, reliability, multiple observations).
-- Instrumentation / psychometrics: reliability of **scores in this sample** when possible; convergent/discriminant validity; interrater / test–retest / internal consistency as appropriate; compare external coefficients to this sample.
-- Masking / blinding if applicable.
-- Conditions and design type (name experimental/nonexperimental/longitudinal/etc.; point to specialised JARS modules).
-- **Data diagnostics (planned):** post-collection exclusions; missing-data rules/imputation; outliers; distributions; transformations.
-- **Analytic strategy:** inferential plan and multiplicity protection for **primary / secondary / exploratory** hypotheses.
+### Title / author note
+- Title: main variables, theoretical issues, relationships, and populations studied.
+- Author note: registration if any; prior use of data; dissertation or conference versions; funding; conflicts; prior affiliations; corresponding author.
 
-## Results
-- Participant flow (n per group/stage; flowchart when possible); recruitment/follow-up dates.
-- Missing data: rates; MCAR/MAR/MNAR rationale; methods used.
-- Descriptive characterisation (n, means, SDs, etc.) for outcomes and subgroups.
-- Inferential results: exact statistics as needed; **effect sizes and CIs** when possible; clear primary vs secondary vs exploratory.
-- Complex models: model details, software, convergence/estimation problems, diagnostics.
-- Flag assumption/distribution problems affecting validity; distinguish planned vs unplanned adjusted analyses.
+### Abstract
+- Objectives or problem and main hypotheses.
+- Participants or data source characteristics.
+- Study method: design, sample size, materials, outcomes, procedures, and whether secondary data were used.
+- Findings with effect sizes and confidence intervals when possible.
+- Conclusions or implications beyond repeating the results.
 
-## Discussion
-- Support/nonsupport for hypotheses (primary vs secondary); implications of exploratory analyses (incl. error-rate caveats).
-- Similarity/difference vs prior work.
-- Interpretation: bias, internal/statistical validity threats, measurement imprecision, multiplicity/overlap, sample adequacy.
-- Generalizability: target population; setting/measurement/time (ecological validity).
-- Implications for research, programme, or policy.
+### Introduction
+- Importance of the problem in theoretical, empirical, or practical terms.
+- Succinct review of relevant scholarship and relation to prior work.
+- Hypotheses, aims, and objectives, with theory where applicable.
+- Mark **primary**, **secondary**, and other planned analyses explicitly.
 
-## APRIL note
-Pair with `jars-rec.md`. Method cards (SEM, Bayesian, CLPM, etc.) should satisfy both this general list and design-specific modules.
+### Method
+- Inclusion and exclusion criteria, including demographic restrictions if any.
+- Participant characteristics and relevant contextual information.
+- Sampling procedures: recruitment source, participation rate, self-selection, settings, dates, incentives, and ethics oversight.
+- Sample size, power, precision, and stopping rules where relevant.
+- Measures and covariates, including collected-but-unreported measures if relevant.
+- Data collection procedures and measurement quality controls.
+- Instrumentation and psychometrics, with reliability of **scores in this sample** when possible.
+- Masking or blinding if applicable.
+- Conditions and design type.
+- Planned data diagnostics: exclusions, missingness handling, outliers, distributions, transformations.
+- Analytic strategy, including multiplicity protection and separation of primary, secondary, and exploratory analyses.
+
+### Results
+- Participant flow, recruitment dates, follow-up, and attrition where relevant.
+- Missing data rates, assumed mechanism, and analytic handling.
+- Descriptive summaries for outcomes and subgroups.
+- Inferential results with exact statistics, effect sizes, and confidence intervals where possible.
+- Clear distinction between planned and unplanned or adjusted analyses.
+- For complex models, report software, convergence issues, diagnostics, and assumption problems.
+
+### Discussion
+- Support or nonsupport for original hypotheses, separated by primary versus secondary claims.
+- Similarity and difference relative to prior work.
+- Interpretation in light of bias, validity threats, imprecision, multiplicity, and sample adequacy.
+- Generalizability across population, setting, measurement, and time.
+- Implications for research, programme design, policy, or practice.
+
+## Module map
+
+### Table 2: Experimental manipulation
+Use when the study includes an intervention or manipulation.
+
+Add:
+- exact content of the manipulation and comparison conditions
+- delivery method, apparatus, materials, and setting
+- deliverer qualifications and number of deliverers
+- exposure quantity, duration, and total time span
+- adherence or compliance supports
+- unit of delivery versus unit of analysis
+- participant flow by condition
+- treatment fidelity
+- baseline group data
+- adverse events or side effects
+- discussion of intended causal mechanism and alternatives
+
+### Table 2A: Random assignment
+Use for randomized experiments.
+
+Add:
+- unit of randomization
+- sequence generation method and restrictions such as blocking or stratification
+- concealment process
+- who generated the sequence, enrolled participants, and assigned groups
+- masking status and how masking success was evaluated
+- statistical methods for group comparison, subgroup analyses, and mediation or moderation
+
+### Table 2B: Nonrandom assignment
+Use for quasi-experiments or allocated comparison groups without randomization.
+
+Add:
+- unit and method of assignment
+- restrictions such as blocking, stratification, or minimization
+- bias-reduction procedures such as matching or propensity scores
+- masking details if used
+- statistical adjustment for pretest differences or correlated data
+
+### Table 2C: Clinical trials
+Use for clinical or health intervention trials.
+
+Add:
+- trial registration status and location
+- public health implications
+- method of confirming inclusion and exclusion, especially diagnosis
+- multisite similarities and differences
+- assessor masking at post-treatment and follow-up
+- public availability of protocol and materials
+- protocol changes, safety board, and stopping rules
+- therapist adherence and competence
+- participant adherence and understanding
+- rationale for follow-up length
+- relation of fidelity and adherence to outcomes
+- clinical significance assessment and prespecification
+
+### Table 3: No experimental manipulation
+Use for observational, single-group, archival, or natural-group comparison designs.
+
+Add:
+- participant selection method for each group
+- data source identification and selection algorithms where relevant
+- definition of exposures, predictors, confounders, and effect modifiers
+- comparability of assessment across groups
+- analytic handling of predictors, confounders, and effect modifiers
+- discussion of misclassification, unmeasured confounding, and changing eligibility criteria
+
+### Table 4: Longitudinal studies
+Use for repeated-wave or cohort designs.
+
+Add:
+- reporting unit such as individual, dyad, family, class, or site
+- wave-by-wave sample characteristics where appropriate
+- attrition at each wave and reasons
+- differential attrition by sociodemographic characteristic or condition
+- contextual changes across waves
+- variables measured at each wave
+- years of each wave
+- amount of missing data and analytic handling
+- longitudinal analytic assumptions
+- prior publications and overlap with current report
+
+### Table 5: N-of-1 studies
+Use for single-case experimental designs.
+
+Add:
+- design type such as withdrawal-reversal, multiple-baseline, alternating-treatments, changing-criterion, adaptive, or combination forms
+- phase structure, sequence, and criteria for phase changes
+- procedural changes after study start
+- planned replication
+- whether randomization was used and what was randomized
+- actual sequence completed by each participant
+- stopping point and reason for incomplete sequences
+- raw data for each participant and target behavior
+
+### Table 7: Structural equation modeling
+Use for SEM, CFA, or latent-variable path models.
+
+Add:
+- title signal for the main mechanism or process modeled
+- at least two global fit statistics from different classes plus local fit commentary in the abstract
+- theory supporting the primary model and important path directions
+- whether respecification was planned
+- indicator sources, item versus scale handling, and psychometrics
+- target sample size rationale or power analysis details
+- missing data mechanism and handling
+- normality checks and nonnormality response
+- data summary sufficient to understand the model
+- specification, estimation method, model fit, respecification steps, and parameter estimates
+
+### Table 8: Bayesian techniques
+Use for Bayesian estimation, model comparison, or Bayesian decision frameworks.
+
+Add:
+- full specification of the systematic and stochastic model
+- prior distributions and rationale
+- posterior distributions and HPD intervals where feasible
+- joint distributions when parameters are correlated
+- predictive distributions if predictions are made
+- likelihood description when informative priors are used
+- triplot when relevant
+- utilities or decision costs if decisions are based on the model
+- special-case reporting for multilevel, meta-analytic, or adaptive Bayesian designs
+- MCMC details, convergence checks, and model-fit checks
+- Bayes factors and sensitivity to priors if used
+- Bayesian model averaging details if used
+
+### Table 9: Quantitative meta-analysis
+Use for meta-analysis or quantitative research synthesis.
+
+Add:
+- synthesis type in the title
+- funding, conflicts, registration, and corresponding-author details
+- eligibility criteria for designs, interventions, outcomes, and variables
+- methods of synthesis, including effect-size metric and integration method
+- historical background and rationale for study design and moderator coding
+- protocol reference
+- information sources and study-selection procedure
+- data collection and internal-validity appraisal methods
+- synthesis results, individual-study results, publication bias, and adverse effects
+- summary of evidence, generalizability, and implications
+
+## APRIL routing note
+- Pair all quantitative work with `jars-rec.md`.
+- `april-03-methodology` should name the relevant JARS–Quant module when a design is specialized.
+- `april-04-analysis` should reflect module-specific reporting in the Results section.
+- `april-10-review` should flag missing module-specific reporting, not just Table 1 omissions.

@@ -29,7 +29,15 @@ Do not rewrite the whole paper here. Flag; leave drafting to revision.
 Do not invent missing data or citations.
 
 ## JARS compliance (reviewer lens)
-Score the manuscript against `../references/jars/` for the declared design. Flag missing effect sizes/CIs, unmarked exploratory analyses, absent qualitative integrity/reflexivity, missing mixed-methods integration, and REC reporting gaps. Feed gaps into the revision roadmap.
+Score the manuscript against `../references/jars/` for the declared design. Do not stop at generic compliance; check the relevant module level as well.
+
+Flag, where applicable:
+- missing effect sizes/CIs, missing participant-flow details, unmarked exploratory analyses, absent diagnostics, or missing module-specific reporting in Quant
+- absent reflexivity, weak data-source description, thin analytic-process reporting, or unsupported integrity claims in Qual
+- missing mixed-design naming, missing strand-specific goals, or absent integration products in Mixed
+- REC terminology, sampling, measurement, subgroup, or interpretation gaps from `jars-rec.md`
+
+Feed JARS gaps into the revision roadmap with the exact section where the repair belongs.
 
 
 ---

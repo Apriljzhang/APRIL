@@ -32,7 +32,22 @@ If SLR/scoping: follow `references/prisma-notes.md` before analysis/synthesis wr
 Design rationale; threats table; diagram; pointer to one analysis method card.
 
 ## JARS (Method)
-Before locking the design write-up, run the Method checklist for the study type in `../references/jars/` (`jars-quant.md`, `jars-qual.md`, and/or `jars-mixed.md`, always plus `jars-rec.md`). Plan data diagnostics and primary/secondary/exploratory analytic strategy (Quant); researcher description and methodological integrity (Qual).
+Before locking the design write-up, run the Method checklist for the study type in `../references/jars/` (`jars-quant.md`, `jars-qual.md`, and/or `jars-mixed.md`, always plus `jars-rec.md`).
+
+- **Quant:** name the relevant JARS–Quant module when the design is specialised, not only the general Table 1 checklist:
+  - experimental manipulation (`Table 2`)
+  - random assignment (`Table 2A`)
+  - nonrandom assignment (`Table 2B`)
+  - clinical trial (`Table 2C`)
+  - no experimental manipulation / observational (`Table 3`)
+  - longitudinal (`Table 4`)
+  - N-of-1 (`Table 5`)
+  - SEM (`Table 7`)
+  - Bayesian (`Table 8`)
+  - quantitative meta-analysis (`Table 9`)
+- **Qual:** plan researcher description, reflexivity, data-source selection, analytic transparency, and methodological integrity.
+- **Mixed:** name the mixed design explicitly and state the qualitative, quantitative, and integration goals separately.
+- **All designs:** carry REC terminology, sampling, and measurement issues forward from `jars-rec.md`.
 
 
 ---
