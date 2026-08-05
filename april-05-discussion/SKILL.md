@@ -19,9 +19,9 @@ Interpret findings against prior work without overclaiming.
    `../tools/pdf-quote-finder/` (same commands as april-02).
 5. Optional Zotero search (`pz search`) to locate items in the user’s library.
 6. Alternative explanations; specific limitations; proportionate implications.
-7. Check Discussion items in `../references/jars/` (Quant/Qual/Mixed + REC).
+7. Read `../references/jars/SKILL.md`; check the Discussion items in the complete applicable Quant, Qual, or Mixed pack, plus relevant REC items.
 8. Optional Toulmin structure for contested claims (claim–data–warrant–backing–qualifier–rebuttal).
-9. Finish with `april-08-language` (hedging, Phrasebank discussing-findings moves, humanizer).
+9. Finish with `april-08-language` for hedging, natural language dynamics, and Phrasebank discussing-findings moves.
 
 ## Integrity
 Never invent citations or pages. Do not introduce new results.

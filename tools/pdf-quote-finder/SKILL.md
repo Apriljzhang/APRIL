@@ -24,14 +24,16 @@ Search, extract, and page pinning stay on disk — no vector DB, embeddings, or 
 Always run scripts with the skill venv (has PyMuPDF):
 
 ```bash
-PYTHON="$HOME/.cursor/skills/pdf-quote-finder/.venv/bin/python"
-SCRIPT="$HOME/.cursor/skills/pdf-quote-finder/scripts/pdf_quote_finder.py"
+APRIL_ROOT="${CODEX_HOME:-$HOME/.codex}/skills/APRIL"
+TOOL_ROOT="$APRIL_ROOT/tools/pdf-quote-finder"
+PYTHON="$TOOL_ROOT/.venv/bin/python"
+SCRIPT="$TOOL_ROOT/scripts/pdf_quote_finder.py"
 ```
 
 If the venv is missing:
 
 ```bash
-cd "$HOME/.cursor/skills/pdf-quote-finder"
+cd "$TOOL_ROOT"
 uv venv .venv
 uv pip install --python .venv/bin/python -r requirements.txt
 ```

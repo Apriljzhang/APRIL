@@ -9,7 +9,7 @@ description: >-
 
 ## Defaults (override if journal/user specifies)
 - Length: **6,000–8,000 words** (body; exclude refs unless asked).
-- Abstract: **200–300 words** (see april-07).
+- Abstract: **200–300 words** unless the journal specifies otherwise (see `../april-06-framing/SKILL.md`).
 - Typeface: Times New Roman **12 pt**, **double** spacing (or journal equivalent).
 - Citations/refs: **APA** (latest edition the user names; default APA 7).
 - Tables/figures: **two-line captions** (title line + note/legend line as needed).
@@ -27,7 +27,7 @@ description: >-
 If the user uses Office CLI patterns, keep formatting instructions journal-agnostic; do not invent vendor-specific macros unless they ask.
 
 ## JARS pre-submission gate
-Before export, run the applicable pack in `../references/jars/` (Quant and/or Qual and/or Mixed, always REC). Confirm title/author-note items, abstract completeness, Method/Results/Discussion coverage, and caption/APA consistency. Prefer official APA checklist PDFs when a journal requires formal JARS attestation.
+Before export, read `../references/jars/SKILL.md` and run the complete applicable pack. For Mixed, run all three design files; consider REC for every manuscript and apply its relevant items. Mark each item met, not met, not applicable, or unclear; record the manuscript location. Prefer official APA checklist PDFs when a journal requires formal JARS attestation.
 
 ## Genre calibration
 Formatting rules are genre-dependent, but APRIL should enforce journal-article assumptions unless the user is working in another genre. Check `../references/academic-genres.md` only when needed.

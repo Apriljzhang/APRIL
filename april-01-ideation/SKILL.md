@@ -43,7 +43,7 @@ At ideation stage, journal-article scope means:
 Distinguish **problem**, **purpose**, and **RQs/hypotheses**. Follow `references/purpose-statements.md`. Tag primary / secondary / exploratory aims (JARS–Quant) when confirmatory.
 
 ## JARS
-When framing questions that involve race, ethnicity, or culture, skim `../references/jars/jars-rec.md` early so sampling and theory choices stay coherent.
+When the study is empirical, read `../references/jars/SKILL.md` and identify the likely reporting pack early. When questions involve race, ethnicity, culture, language, nationality, or population comparisons, also read `../references/jars/jars-rec.md` so theory, sampling, measurement, and generality choices stay coherent.
 
 ## Integrity
 Do not invent literatures to “prove” a gap. If evidence is missing, say so and route to literature search.

@@ -34,8 +34,7 @@ It works as a **staged skill suite** in Cursor: you load one stage at a time so 
 | 03 | [`april-03-methodology`](april-03-methodology/SKILL.md) | Design the study |
 | 04 | [`april-04-analysis`](april-04-analysis/SKILL.md) | Analyse data and write findings |
 | 05 | [`april-05-discussion`](april-05-discussion/SKILL.md) | Interpret results |
-| 06 | [`april-06-framing`](april-06-framing/SKILL.md) | Write Introduction and Conclusion |
-| 07 | [`april-07-abstract`](april-07-abstract/SKILL.md) | Write the abstract |
+| 06 | [`april-06-framing`](april-06-framing/SKILL.md) | Write Introduction, Conclusion, and Abstract |
 | 08 | [`april-08-language`](april-08-language/SKILL.md) | Improve clarity and academic style |
 | 09 | [`april-09-formatting`](april-09-formatting/SKILL.md) | Format for submission |
 | 10 | [`april-10-review`](april-10-review/SKILL.md) | Review like an editor/referee |

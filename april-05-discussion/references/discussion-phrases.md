@@ -4,7 +4,7 @@ Inspired by the APA Style *Discussion Phrases Guide* (7th ed. instructional aid:
 
 **Tense:** Discussion is usually written in the **present** when interpreting lasting claims; past tense for what the study *did* or *found* is fine in summary sentences.
 
-Also apply `../../references/jars/jars-quant.md` / `jars-qual.md` Discussion items and `../april-08-language/` for hedging and Phrasebank moves.
+Also apply `../../references/jars/jars-quant.md` or `../../references/jars/jars-qual.md` Discussion items and `../../april-08-language/SKILL.md` for hedging and Phrasebank moves.
 
 ## 1. Summarising study results
 **Function:** Orient the reader before interpretation; restate aims/findings without new analyses.

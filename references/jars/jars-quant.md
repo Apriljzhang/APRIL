@@ -10,6 +10,7 @@ Adapted from APA Style JARS–Quant Table 1 plus the design modules currently pr
 - `JARS_quant-table-3.pdf` — no experimental manipulation
 - `JARS_quant-table-4.pdf` — longitudinal studies
 - `JARS_quant-table-5.pdf` — N-of-1 studies
+- `JARS_quant-table-6.pdf` — replication studies
 - `JARS_quant-table-7.pdf` — structural equation modeling
 - `JARS_quant-table-8.pdf` — Bayesian techniques
 - `JARS_quant-table-9.pdf` — quantitative meta-analysis
@@ -157,6 +158,18 @@ Add:
 - actual sequence completed by each participant
 - stopping point and reason for incomplete sequences
 - raw data for each participant and target behavior
+
+### Table 6: Replication studies
+Use when the study is intended to replicate an earlier study.
+
+Add:
+- identify the replication in the title and text as direct/exact, approximate, or conceptual/construct
+- disclose conditions, materials, or procedures that differ from the original study and explain their likely consequences
+- report treatment or implementation fidelity for both the original and replication studies when the information is available
+- compare recruitment, allocation, setting, population, and demographic or unit characteristics across the original and replication studies
+- compare apparatus, measures, translations, score psychometrics, informants, administration mode, and testing context
+- report the original analytic approach alongside any additional analyses; state the criteria and decision rules used to judge replication, such as effect sizes, confidence intervals, significance tests, or Bayes factors
+- explain whether power calculations used the original effect estimate directly or accounted for uncertainty in that estimate
 
 ### Table 7: Structural equation modeling
 Use for SEM, CFA, or latent-variable path models.

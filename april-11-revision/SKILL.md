@@ -20,7 +20,7 @@ description: >-
 Professional, specific, non-defensive. Thank reviewers; do not argue personality.
 
 ## JARS gaps
-When reviewers or april-10 flag reporting omissions, close them explicitly (Method diagnostics, Results completeness, Discussion generality/transferability, Abstract elements, REC detail). The response letter may cite JARS item categories without legalistic tone.
+When reviewers or april-10 flag reporting omissions, read `../references/jars/SKILL.md` and the complete applicable checklist before editing. Close Method diagnostics, Results completeness, Discussion generality/transferability, Abstract elements, and relevant REC detail explicitly. The response letter may cite JARS item categories without legalistic tone.
 
 ## Genre guardrail
 When revising, preserve the journal-article contract. Do not solve article weaknesses by expanding the text into thesis-, proposal-, or chapter-style scaffolding unless the user is explicitly writing one of those genres.

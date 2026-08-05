@@ -1,10 +1,10 @@
 # APRIL — Academic phrase moves (Manchester-inspired)
 
-Functional organisation inspired by the University of Manchester [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/) and the local PDF `/Users/ajz/Downloads/Academic-Phrasebank-Navigable-PDF-2021.pdf`.
+Functional organisation inspired by the University of Manchester [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/) and the local source PDF `Academic-Phrasebank-Navigable-PDF-2021.pdf`.
 
-APRIL does **not** reproduce the Phrasebank's full wording banks. Use this file as a page-by-page rhetorical map plus an adapted stem bank in APRIL house style. Prefer short, natural stems over stacked templates. After drafting, run the humanizer.
+APRIL does **not** reproduce the Phrasebank's full wording banks. Use this file as a page-by-page rhetorical map plus an adapted stem bank in APRIL house style. Prefer short, natural stems over stacked templates. Apply the integrated natural-language dynamics in `../SKILL.md`; preserve technical meaning and logical links.
 
-Cross-link for Discussion-only APA moves: `../april-05-discussion/references/discussion-phrases.md`.
+Cross-link for Discussion-only APA moves: `../../april-05-discussion/references/discussion-phrases.md`.
 
 ---
 

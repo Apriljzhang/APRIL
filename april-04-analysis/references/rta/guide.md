@@ -1,24 +1,10 @@
----
-name: april-rta-guide
-description: APRIL reflexive thematic analysis guide (Braun & Clarke).
----
-
 # APRIL Reflexive Thematic Analysis
 
-Part of april-04-analysis. Author voice: APRIL.
+This Stage 04 reference guide walks a user through reflexive thematic analysis (RTA) using Braun and Clarke's six-phase framework. Enter through `../../methods/qualitative-rta.md`. Produce the analysis artifacts the user needs; create a Word manuscript and annotated thematic map only when requested.
 
+The skill is grounded in Braun and Clarke's original framework and later reflexive-TA clarifications. See `references/sources.md`.
 
-
-
-# Thematic Analysis — Braun & Clarke's Six-Phase Framework
-
-This skill walks a user through conducting a rigorous thematic analysis (TA) on qualitative data, following the six-phase framework from Braun and Clarke (2006). It produces a **Word document (.docx)** write-up of the analysis and an **annotated thematic map** (PNG).
-
-The skill is grounded in one source:
-
-> Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. *Qualitative Research in Psychology, 3*(2), 77–101.
-
-Where this skill cites the paper, treat those statements as the method's published position, not Claude's own.
+Treat source-attributed methodological claims as the authors' positions, not as universal rules for every form of thematic analysis.
 
 ## Before you begin
 
@@ -33,10 +19,19 @@ Read these reference files as needed:
 
 Also read these skills before generating outputs:
 
-- **docx skill** (`/mnt/skills/public/docx/SKILL.md`) — Required for the Word document.
-- **apa-referencing skill** (`/mnt/skills/user/apa-referencing/SKILL.md`) — If the user wants citations to existing literature in the analysis, format them in APA 7th Edition.
+- Read `../../../references/jars/SKILL.md` and `../../../references/jars/jars-qual.md` before writing a journal-article Method or Findings section.
+- Use an available DOCX/document skill only when the user requests a Word deliverable.
+- Use `../../../april-08-language/SKILL.md` for manuscript language and `../../../april-09-formatting/SKILL.md` for APA and submission formatting.
 
 If the user has a **writing-style skill**, do not apply it to the manuscript body — see "Writing register" under Phase 7. A writing-style skill may still apply to ancillary outputs (a plain-language summary, a blog version of the findings) if the user asks for those separately.
+
+## Reflexive-TA guardrails
+
+- Treat researcher subjectivity as an analytic resource to examine reflexively, not a bias that can be eliminated.
+- Do not impose inter-rater reliability, Cohen's kappa, consensus coding, or codebook agreement as default quality criteria for RTA.
+- Do not claim that themes objectively emerged from the data; explain the researcher's interpretive role.
+- Do not use saturation as a universal sample-size rule. Justify data adequacy in relation to the question, corpus, analytic ambition, and study context.
+- Collaborative coding may deepen interpretation, but agreement is not its automatic goal.
 
 ---
 
@@ -217,9 +212,9 @@ Also produce the **final thematic map** (`phase6_final_map.png`) — this is the
 
 ---
 
-## Phase 7 (skill workflow): Producing the report
+## Phase 7 (APRIL workflow): Producing the report
 
-The final write-up. This is the last phase of Braun and Clarke's framework and the deliverable of the skill.
+The final write-up corresponds to the sixth phase of Braun and Clarke's analytic framework; APRIL labels it Phase 7 because the planning interview precedes the six analytic phases.
 
 ### Run the quality checklist first
 
@@ -233,21 +228,21 @@ The write-up must use a formal academic register suitable for peer-reviewed publ
 
 Concretely, the manuscript body follows these conventions:
 
-- Third person throughout. No "I think", "I feel", "in my view". The reflexivity statement (if the user wants one) is the only place where first person is admissible, and it is used sparingly.
+- Use first person when it transparently identifies researcher decisions or reflexive positioning; otherwise follow the target journal's disciplinary norm. Avoid opinion fillers such as "I think" or "in my view".
 - Hedged, evidenced claims: "Participants tended to...", "The data suggest...", "This pattern is consistent with...", rather than "Participants clearly...", "Obviously...".
 - No colloquialisms, no figurative analogies, no rhetorical questions to the reader, no exclamations.
 - Active voice when describing what the analyst did ("I identified...", "The analysis generated...", "This study constructed..."). Do not use the passive voice as a vehicle for evasion ("themes emerged" is forbidden — see Important Reminders).
 - Tense conventions: methods in past tense; results in present tense (or past when describing what participants said); discussion blends both as appropriate.
-- Citations integrated grammatically, not appended as parenthetical afterthoughts. APA 7th Edition throughout — use the apa-referencing skill for any reference list entries and in-text citations.
+- Integrate citations grammatically rather than appending them as parenthetical afterthoughts. Use APA 7 unless the target journal specifies another style.
 - Sentences disciplined: one main idea per sentence where possible. Paragraphs follow a claim → evidence (extract plus analytic commentary) → link-back structure, where the link-back ties the point to the research question or the broader theme.
 - No metadiscourse padding. Avoid "It is interesting to note that...", "It should be mentioned that...", "It is worth pointing out...". State the point directly.
 - Analytic commentary on extracts must go beyond paraphrase. Address what the extract means, what it assumes, what it implies, and why participants might frame the matter in this way rather than another (see Braun & Clarke, 2006, p. 24).
 
 If the user has a writing-style skill loaded, apply it only to ancillary outputs they request separately — for instance, a plain-language summary or a blog adaptation of the findings — not to the manuscript itself.
 
-### Generate the Word document
+### Generate a manuscript deliverable
 
-Use the docx skill to produce a manuscript-style .docx with this structure:
+Use this structure for a manuscript-style deliverable. Create `.docx` only when the user asks for Word output; otherwise write to the requested workspace format.
 
 ```
 Title
@@ -296,7 +291,7 @@ Data extracts in the report should be:
 - Long enough to retain meaning, short enough to be readable — typically one to four sentences per extract
 - Vivid and illustrative — pick the extracts that capture the point most clearly, not the first one you find
 
-Save the file as `<study_title>_thematic_analysis.docx` in `/mnt/user-data/outputs/`.
+Save outputs in the user's requested folder. If none is given, use the active workspace and report the exact path.
 
 ### Include the thematic map as a figure
 
@@ -306,7 +301,7 @@ Caption the figure with theme names, sub-theme names, and a short explanation of
 
 ### Present the files
 
-Use `present_files` to give the user the .docx and the .png. Lead with the .docx.
+Return clickable local links to the manuscript and thematic map. Lead with the main manuscript deliverable.
 
 ---
 

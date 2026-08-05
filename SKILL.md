@@ -3,8 +3,9 @@ name: april
 description: >-
   APRIL — Academic Paper Research & Inquiry Lab. Helps plan, write, and revise
   academic journal papers through staged skills: ideation, literature,
-  methodology, analysis, discussion, framing, abstract, language, formatting,
-  review, and revision.
+  methodology, analysis, discussion, framing and abstract, language, formatting,
+  review, and revision. Use for a complete article workflow, for choosing the
+  correct APRIL stage, or when work must comply with APA JARS reporting standards.
 ---
 
 # APRIL
@@ -22,8 +23,7 @@ APRIL is **for journal articles**. Adjacent genres such as thesis/dissertation c
 | 03 | `april-03-methodology` | Design the study |
 | 04 | `april-04-analysis` | Analyse data and write findings |
 | 05 | `april-05-discussion` | Interpret results against the literature |
-| 06 | `april-06-framing` | Write Introduction and Conclusion |
-| 07 | `april-07-abstract` | Write the abstract (default 200–300 words) |
+| 06 | `april-06-framing` | Write Introduction, Conclusion, and Abstract |
 | 08 | `april-08-language` | Polish British English academic style |
 | 09 | `april-09-formatting` | Format length, APA, captions |
 | 10 | `april-10-review` | Review like an editor/referee |
@@ -31,7 +31,22 @@ APRIL is **for journal articles**. Adjacent genres such as thesis/dissertation c
 
 ## How to use
 
-Load **one stage** at a time. For analysis, also open **one** method card under `april-04-analysis/methods/`.
+1. Identify the manuscript's current bottleneck and read the corresponding stage `SKILL.md` in full.
+2. Load **one stage** at a time. Do not run every stage unless the user requests an end-to-end audit.
+3. For analysis, open `april-04-analysis/references/method-index.md`, then load **one** method card under `april-04-analysis/methods/`.
+4. Preserve a compact manuscript contract across stages: target journal, article type, RQs/aims, design, sample/data, main claims, word limits, and unresolved risks. Do not silently change these decisions.
+5. Treat each stage's `references/*sources.md` file as provenance. Read it when checking the basis of guidance, not for routine execution.
+
+## Reporting standards
+
+For empirical articles, read `references/jars/SKILL.md` before applying reporting standards. Then load the complete applicable APRIL checklist:
+
+- quantitative: `references/jars/jars-quant.md`
+- qualitative: `references/jars/jars-qual.md`
+- mixed methods: all three of `references/jars/jars-mixed.md`, `references/jars/jars-qual.md`, and `references/jars/jars-quant.md`
+- every manuscript: consider `references/jars/jars-rec.md`; apply each item when race, ethnicity, or culture is reported, analysed, interpreted, or relevant to generality
+
+JARS governs reporting transparency, not study quality by itself. Never infer that a study is rigorous merely because all reporting items are present.
 
 ## Genre scope
 
@@ -41,11 +56,22 @@ If the user is actually writing a proposal, thesis/dissertation chapter, literat
 
 ## Defaults
 
-British English; paper about 6–8k words; abstract 200–300 words; APA; Times New Roman 12pt double-spaced; two-line captions—unless you or the journal say otherwise.
+The target journal's current author instructions override APRIL defaults. Otherwise use British English; paper about 6–8k words; abstract 200–300 words; APA 7; Times New Roman 12pt double-spaced; APA-style table and figure titles and notes.
 
 ## Tools
 
 - `tools/pdf-quote-finder/` — recover page-accurate quotes from local PDFs
+
+## Core resource map
+
+- **Reporting completeness:** `references/jars/SKILL.md`, then the applicable full checklist files beside it
+- **Academic phrase functions:** `april-08-language/references/manchester-phrasebank.md`
+- **Sentence cohesion:** `april-08-language/references/sentence-bridging.md`
+- **Natural academic language and anti-formulaic editing:** `april-08-language/SKILL.md`
+- **Reflexive thematic analysis:** `april-04-analysis/methods/qualitative-rta.md`, with its detailed reference guide
+- **Nearby academic genres:** `references/academic-genres.md`, only when the task is not a journal article
+
+Do not assume a resource has been applied merely because it exists in APRIL. Read the routed file before using its guidance.
 
 ## Separate skills
 

@@ -1,8 +1,8 @@
 ---
 name: april-06-framing
 description: >-
-  APRIL stage 06: Introduction and Conclusion — problem, gap, aims, roadmap,
-  closing synthesis and forward agenda.
+  APRIL stage 06: Introduction, Conclusion, and Abstract — problem, gap, aims,
+  roadmap, closing synthesis, forward agenda, and concise article summaries.
 ---
 
 # april-06-framing
@@ -26,15 +26,38 @@ description: >-
 7. End with a grounded final move: a larger significance claim, a forward agenda, or a focused question for future work that follows directly from the study.
 8. Do not introduce new evidence, citations, or major arguments in the conclusion.
 
+## Abstract
+
+### Defaults
+Use the target journal's required structure and word limit. When none is supplied, write a 200–300-word abstract and choose structured or unstructured presentation according to disciplinary convention.
+
+### Article spine
+Background or problem → aim or research question → method → key results → implication or contribution.
+
+### Rules
+- Draft the abstract after the article's argument, methods, and results are stable.
+- Make it independently intelligible while keeping every claim traceable to the manuscript.
+- Match sample sizes, estimates, effect sizes, confidence intervals, theme counts, and other numbers to the Results exactly.
+- Name the design, participants or data sources, analytic approach, and central findings with enough specificity to support indexing and screening.
+- State the contribution or implication in proportion to the evidence; do not replace a result with a promise that results will be discussed.
+- Do not include citations, undefined abbreviations, quotations, tables, or information absent from the article unless the journal explicitly requires them.
+- Apply `../april-08-language/SKILL.md` and verify the final word count under `../april-09-formatting/SKILL.md`.
+
+### JARS abstract check
+Read `../references/jars/SKILL.md` and the complete applicable checklist. Include objectives; participants or data sources; method; principal findings; effect sizes and confidence intervals when quantitative; design and analytic strategy when qualitative; the mixed-methods design and integration result when mixed; and relevant race, ethnicity, or cultural context when applicable.
+
+### Abstract genre calibration
+Assume a journal-article abstract. Consult `../references/academic-genres.md` only for a clearly identified nearby genre, such as a proposal summary or book-chapter synopsis.
+
 ## Style
 Topic sentence → evidence/explanation; British English via `april-08-language`.
 See `references/prompt-bank.md`.
 
 ## Purpose in the Introduction
-Polish the ideation purpose into the Introduction using `references/purpose-in-introduction.md` and `../april-01-ideation/references/purpose-statements.md`. Meet JARS Introduction items in `../references/jars/`.
+Polish the ideation purpose into the Introduction using `references/purpose-in-introduction.md` and `../april-01-ideation/references/purpose-statements.md`. Read `../references/jars/SKILL.md`, then meet the Introduction items in the complete applicable reporting pack.
 
-## Genre calibration
-Before drafting the Introduction or Conclusion, assume a journal article unless the user says otherwise. For non-article cases, check `../references/academic-genres.md` only for light calibration.
+## Article genre calibration
+Before drafting the Introduction, Conclusion, or Abstract, assume a journal article unless the user says otherwise. For non-article cases, check `../references/academic-genres.md` only for light calibration.
 
 For journal articles, compress quickly to gap, purpose, contribution, and roadmap. Expand beyond that only when the user clearly needs a non-article structure.
 

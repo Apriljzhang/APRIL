@@ -1,12 +1,19 @@
-# APRIL — Latent profile analysis (incl. multilevel LPA)
+# APRIL - Latent profile analysis
 
 ## When
-Continuous indicators; unobserved subgroups. Multilevel LPA when Level-1 units nest in Level-2 contexts.
+Continuous indicators are modeled as arising from unobserved profiles. Keep LPA distinct from categorical-indicator LCA.
 
-## Steps
-1. Justify indicators and N.
-2. Fit 1…K; compare AIC/BIC/aBIC, BLRT/VLMR when available, entropy, interpretability.
-3. Name profiles from indicator patterns.
-4. Distals/covariates via recommended 3-step (avoid naive classify-analyse).
-5. Multilevel: specify Level-1 profiles and Level-2 variation; report context effects as relevant.
-6. Report fit tables, profile plots, classification diagnostics.
+## Workflow
+1. Justify indicators, scaling, distributional assumptions, outliers, sample size, and missingness.
+2. Predefine plausible within-profile variance/covariance structures; do not search only across K.
+3. Fit 1-through-K models with many random starts and verify the replicated optimum.
+4. Weigh BIC/aBIC, available likelihood-ratio tests, profile size, stability, separation, and interpretability. Entropy alone must not select K.
+5. Name profiles descriptively from patterns and uncertainty; avoid treating them as immutable person types.
+6. Validate across starts, seeds, nearby covariance structures, preprocessing, and preferably a new sample.
+7. Preserve classification uncertainty for predictors/distals with one-step or corrected three-step methods.
+
+## Multilevel extension
+Specify profiles at each level and whether the cluster count supports the model. Clustered standard errors alone are not multilevel LPA.
+
+## Core references
+Use `../references/method-citations.md`: Spurk et al. (2020), with Nylund et al. (2007) only for applicable mixture-enumeration evidence.

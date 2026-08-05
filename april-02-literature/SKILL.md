@@ -41,8 +41,9 @@ Use Zotero search for discovery inside the user’s collection only — not as a
 ## Local PDF quote pinning (APRIL tool)
 
 ```bash
-PYTHON="$HOME/.cursor/skills/april/tools/pdf-quote-finder/.venv/bin/python"
-SCRIPT="$HOME/.cursor/skills/april/tools/pdf-quote-finder/scripts/pdf_quote_finder.py"
+APRIL_ROOT="${CODEX_HOME:-$HOME/.codex}/skills/APRIL"
+PYTHON="$APRIL_ROOT/tools/pdf-quote-finder/.venv/bin/python"
+SCRIPT="$APRIL_ROOT/tools/pdf-quote-finder/scripts/pdf_quote_finder.py"
 
 "$PYTHON" "$SCRIPT" search "exact or noisy quote" --path "/path/to/pdfs"
 ```
@@ -63,7 +64,7 @@ For journal articles, compress toward debate, gap, and contribution. Only expand
 See `references/prompt-bank.md`.
 
 ## JARS (literature)
-- Meet Introduction “relevant scholarship” expectations in `../references/jars/` (Quant/Qual as applicable).
+- Read `../references/jars/SKILL.md`, then use the Introduction and relevant-scholarship items in the applicable complete Quant, Qual, or Mixed checklist.
 - Apply `../references/jars/jars-rec.md` citation praxis: diversify sources, avoid unread “classics,” credit specialty and local-language work when relevant.
 
 

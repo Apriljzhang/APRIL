@@ -5,3 +5,6 @@ Draft an introduction that moves problem → debate → gap → aims → contrib
 
 ## Conclusion spine
 Draft a conclusion that answers [RQs], states contribution, limitations, and 2–3 forward steps.
+
+## Abstract spine
+Draft a [structured/unstructured] journal-article abstract within [word limit] words: problem → aim → method → principal results → implication/contribution. Preserve all reported numbers exactly.

@@ -34,15 +34,15 @@ Review against journal-article expectations first. Only use `../references/acade
 Primary flag here: article prose that is too chapter-like, too diffuse, too expository, or too weak on contribution. Use non-article checks only when the draft is explicitly not a journal article.
 
 ## JARS compliance (reviewer lens)
-Score the manuscript against `../references/jars/` for the declared design. Do not stop at generic compliance; check the relevant module level as well.
+Read `../references/jars/SKILL.md`, then score the manuscript against every applicable complete checklist for the declared design. Do not stop at generic compliance; check all relevant Quant modules and all three design files for Mixed.
 
 Flag, where applicable:
 - missing effect sizes/CIs, missing participant-flow details, unmarked exploratory analyses, absent diagnostics, or missing module-specific reporting in Quant
 - absent reflexivity, weak data-source description, thin analytic-process reporting, or unsupported integrity claims in Qual
 - missing mixed-design naming, missing strand-specific goals, or absent integration products in Mixed
-- REC terminology, sampling, measurement, subgroup, or interpretation gaps from `jars-rec.md`
+- REC terminology, sampling, measurement, subgroup, or interpretation gaps from `../references/jars/jars-rec.md`
 
-Feed JARS gaps into the revision roadmap with the exact section where the repair belongs.
+For each JARS item, report met, not met, not applicable, or unclear, with evidence and the exact section where any repair belongs. Keep reporting completeness separate from judgments about methodological quality.
 
 
 ---

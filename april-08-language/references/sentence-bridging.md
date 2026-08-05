@@ -42,4 +42,4 @@ Do not force semicolons where the ideas are only loosely related; use a new sent
 
 ## Relation to other APRIL language packs
 - Phrasebank / Discussion phrases supply **section-level** moves; this file supplies **sentence-to-sentence** welding.
-- Humanizer: fake transitions without conceptual hand-off still read as AI; prefer real overlap or clear anaphora.
+- Naturalness audit: fake transitions without conceptual hand-off remain mechanical; prefer real overlap or clear anaphora.

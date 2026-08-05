@@ -31,3 +31,6 @@ R (`QCA`, `SetMethods`), fs/QCA software, or Python QCA tooling the user already
 
 ## Hand-off
 Style with `april-08-language`; tables/figures via `april-09-formatting`. If the paper also runs regression as a complement, treat that as a **separate** april-04 pass with the regression/multilevel card—do not collapse both into one card.
+
+## Core references
+Use `../references/method-citations.md`: Dusa (2019) for calibration, truth tables, minimization, and R implementation; use Ragin for set-theoretic causal logic.
