@@ -7,6 +7,10 @@ description: >-
 
 # april-09-formatting
 
+## Scope control (mandatory)
+
+Read `../references/scope-control.md` before acting. Format only the named document or elements; do not perform substantive rewriting or generate missing manuscript sections unless requested.
+
 ## Defaults (override if journal/user specifies)
 - Length: **6,000–8,000 words** (body; exclude refs unless asked).
 - Abstract: **200–300 words** unless the journal specifies otherwise (see `../april-06-framing/SKILL.md`).
@@ -25,6 +29,14 @@ description: >-
 
 ## Tools
 If the user uses Office CLI patterns, keep formatting instructions journal-agnostic; do not invent vendor-specific macros unless they ask.
+
+## Network figures
+For network-analysis outputs:
+
+- Define nodes, edges, signs, widths, colours, thresholds, and uncertainty/stability indicators in the caption or note.
+- Use identical node placement, edge scaling, signs, and legends across comparison panels. Do not auto-scale each group network independently.
+- Distinguish positive and negative edges with more than colour alone and use an accessible palette.
+- Accompany network plots with edge, bridge, or NCT tables and accuracy/stability results; do not let the graph serve as the sole statistical evidence.
 
 ## JARS pre-submission gate
 Before export, read `../references/jars/SKILL.md` and run the complete applicable pack. For Mixed, run all three design files; consider REC for every manuscript and apply its relevant items. Mark each item met, not met, not applicable, or unclear; record the manuscript location. Prefer official APA checklist PDFs when a journal requires formal JARS attestation.

@@ -7,6 +7,10 @@ description: >-
 
 # april-11-revision
 
+## Scope control (mandatory)
+
+Read `../references/scope-control.md` before acting. Revise only the requested comments, sections, and response artifacts; do not expand into unrelated manuscript changes or new analyses.
+
 ## Workflow
 1. Ingest review output (april-10) and/or external reviewer letters.
 2. Build a comment → decision table: accept / partially accept / politely decline (with rationale).

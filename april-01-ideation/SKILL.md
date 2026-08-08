@@ -8,6 +8,10 @@ description: >-
 
 # april-01-ideation
 
+## Scope control (mandatory)
+
+Read `../references/scope-control.md` before acting. Produce only the requested ideation or scoping deliverable; the output list below is a menu, not an automatic bundle.
+
 ## Goal
 Move from vague interest to a workable agenda: topic → gap → RQs/hypotheses → scope.
 

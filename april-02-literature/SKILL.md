@@ -7,6 +7,10 @@ description: >-
 
 # april-02-literature
 
+## Scope control (mandatory)
+
+Read `../references/scope-control.md` before acting. Search, synthesise, or draft only within the requested literature scope; do not continue into other manuscript sections.
+
 ## Goal
 Build a credible, synthesised evidence base. Prefer the user’s local library and PDFs when available.
 

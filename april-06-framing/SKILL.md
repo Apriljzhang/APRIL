@@ -7,6 +7,10 @@ description: >-
 
 # april-06-framing
 
+## Scope control (mandatory)
+
+Read `../references/scope-control.md` before acting. Introduction, Conclusion, and Abstract are independent deliverables: draft only the section or subsection the user names, not all three automatically.
+
 ## Introduction
 1. Open with the research problem or a concrete context that shows why the issue matters now; avoid dictionary openings and broad throat-clearing.
 2. Give focused background that orients the reader to the conversation, not a mini literature review. Define key terms only if they are contested, central, or likely unfamiliar.

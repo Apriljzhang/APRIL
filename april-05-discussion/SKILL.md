@@ -8,6 +8,10 @@ description: >-
 
 # april-05-discussion
 
+## Scope control (mandatory)
+
+Read `../references/scope-control.md` before acting. Interpret only the requested locked findings or Discussion component; do not draft the rest of the manuscript or run new analyses.
+
 ## Goal
 Interpret findings against prior work without overclaiming.
 
@@ -25,6 +29,8 @@ Interpret findings against prior work without overclaiming.
 
 ## Integrity
 Never invent citations or pages. Do not introduce new results.
+
+For cross-sectional network findings, describe edges as model-dependent conditional associations. Do not recast central, predictable, or bridge nodes as causes, mechanisms, or intervention targets. Treat a nonsignificant NCT as failure to detect a difference, not proof that networks are equal.
 
 
 ---

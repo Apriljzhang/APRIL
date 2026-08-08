@@ -4,12 +4,17 @@ description: >-
   APRIL stage 08: edit journal-article prose in education, applied linguistics,
   TESOL, and the social sciences for natural language dynamics, British English,
   cohesion, authorial voice, disciplinary precision, calibrated hedging,
+  confident qualification placement, exemplar-based rhetorical modelling,
   Manchester Phrasebank moves, and removal of formulaic AI-like wording while
   preserving evidence, citations, quotations, constructs, and analytic meaning.
   Avoid habitual "not X but Y" contrasts and paired em-dash clause insertions.
 ---
 
 # april-08-language
+
+## Scope control (mandatory)
+
+Read `../references/scope-control.md` before acting. Edit only the supplied or explicitly named text, section, or file. Do not add new arguments, evidence, sections, or a manuscript-wide rewrite unless requested.
 
 Edit substantive prose after its argument and evidence are stable. Treat naturalness, cohesion, and disciplinary fit as one language task, not as a separate humanizer pass.
 
@@ -20,7 +25,7 @@ Apply these priorities in order. A later preference must not damage an earlier o
 1. Preserve factual meaning, data, citations, analytic claims, participant quotations, RQs, hypotheses, theme names, and statistical direction.
 2. Preserve field-standard constructs and use each construct consistently.
 3. Match the target journal, article section, research design, and author's established voice.
-4. Maintain calibrated hedging and the limits warranted by the design.
+4. Maintain calibrated hedging and the limits warranted by the design. State the strongest warranted claim, qualify it once where the limitation bears on that claim, and consolidate study-level limitations rather than scattering generic caution.
 5. Strengthen cohesion, information flow, paragraph movement, and sentence rhythm.
 6. Remove formulaic, inflated, repetitive, mechanical, or generic prose.
 7. Apply APRIL house style unless the journal or user specifies otherwise.
@@ -34,6 +39,7 @@ Never invent a citation, statistic, participant detail, educational context, the
 - Avoid paired em-dash interruptions built as `main clause — inserted explanation — continuation`, especially when the inserted text introduces a definition, qualification, example, or contrast. Rebuild the sentence so the information belongs in the main syntax; do not merely replace both dashes with commas.
 - An occasional single em dash may remain when the target journal and author's established style permit it and a strong break is genuinely needed. The problem is the repeated clause-insertion pattern, not the punctuation mark in isolation.
 - Prefer concrete verbs and specific nouns over vague academic padding.
+- Build confidence from explicit claims, evidence, and warrants rather than from unqualified certainty. Avoid apologetic or defensive meta-discourse that repeatedly withdraws a supported claim.
 - Use sentence case for headings unless the journal requires title case.
 - Keep abbreviations, capitalisation, statistical notation, group names, and construct labels consistent.
 - Permit first person when it clarifies researcher action, reflexivity, or argument and the journal allows it.
@@ -78,6 +84,8 @@ Read `references/manchester-phrasebank.md` for introducing work, referring to so
 Use Phrasebank stems as rhetorical tools, not templates. A common academic phrase is not a problem when it accurately performs a needed function. Adapt one useful stem and continue in the author's own voice.
 
 For Discussion prose, also use `../april-05-discussion/references/discussion-phrases.md`. The Discussion guide controls move order; the Phrasebank supplies a wider rhetorical repertoire.
+
+Read `references/confident-qualification.md` when prose is over-defensive, repeats generic caveats, disperses limitations across the manuscript, or must learn rhetorical logic from an exemplar paper without copying its language.
 
 ## Domain calibration
 
@@ -136,6 +144,7 @@ Read `../references/jars/SKILL.md`, then follow `../references/jars/jars-rec.md`
 - State the finding before explaining it.
 - Link interpretation to evidence, literature, theory, and context.
 - Keep alternative explanations and boundary conditions visible.
+- Keep claim-specific qualifications beside the relevant interpretation. Consolidate study-wide design, sample, measurement, and transfer limitations in a dedicated limitations passage, then avoid repeating them mechanically after every finding.
 - Calibrate implications to the design, sample, setting, and duration. A small, local, observational, or short-term study rarely supports universal prescriptions.
 - Distinguish implications for teaching, teacher education, curriculum, assessment, policy, theory, and future research.
 - End with bounded significance or contribution, not a slogan or generic call for more research.
@@ -253,6 +262,8 @@ After:
 
 Do not remove necessary caution from qualitative interpretation, observational findings, exploratory analyses, or small samples.
 
+Do not blacklist phrases such as *further research is needed*, *may not be generalisable*, or *should be interpreted with caution*. Remove them when they are generic, repetitive, or detached from a named limitation. Replace them with the specific unresolved question, population boundary, assumption, or source of uncertainty.
+
 ### Causal and prescriptive overclaiming
 
 Match verbs to design:
@@ -305,18 +316,21 @@ For contested claims, test claim, data, warrant, backing, qualifier, and rebutta
 
 4. Repair paragraph purpose, old-to-new flow, sentence links, and rhythm.
 5. Remove inflation, promotional wording, vague attribution, repetition, and empty evaluation.
-6. Tighten hedging without increasing certainty.
-7. Restore term consistency and disciplinary precision.
-8. Calibrate claims and implications to the method, sample, educational or social context, and target population.
-9. Check rhetorical moves against the Manchester Phrasebank and Discussion guide.
+6. Localise qualifications: retain claim-specific boundaries beside the claim and move repeated study-level caveats to the limitations passage. When editing an isolated excerpt and that destination is unavailable, retain one specific study-level qualification and flag it for later consolidation.
+7. Tighten hedging without increasing certainty.
+8. Restore term consistency and disciplinary precision.
+9. Calibrate claims and implications to the method, sample, educational or social context, and target population.
+10. Check rhetorical moves against the Manchester Phrasebank, Discussion guide, and any user-supplied exemplar blueprint.
 
 ### Final audit
 
-10. Confirm that no fact, number, citation, quotation, construct, or analytic conclusion changed unintentionally.
-11. Search for paired em-dash clause insertions. Rebuild the sentence rather than swapping punctuation marks; review any remaining single em dash against the journal and author's established style.
-12. Check terminology for learners, teachers, languages, settings, social groups, and units of analysis.
-13. Check every paragraph for claim-evidence-explanation-qualification flow.
-14. Read the revision aloud for stiffness, repetition, abrupt transitions, and unnatural cadence.
+11. Confirm that no fact, number, citation, quotation, construct, or analytic conclusion changed unintentionally.
+12. Search for paired em-dash clause insertions. Rebuild the sentence rather than swapping punctuation marks; review any remaining single em dash against the journal and author's established style.
+13. Check terminology for learners, teachers, languages, settings, social groups, and units of analysis.
+14. Check every paragraph for claim-evidence-explanation-qualification flow.
+15. Audit caveat placement: each qualifier must name what is limited and why; generic study-level caveats should not recur across paragraphs.
+16. When an exemplar was used, confirm that the revision borrowed only abstract rhetorical moves, not distinctive wording, claims, citations, or sentence-level imitation.
+17. Read the revision aloud for stiffness, repetition, abrupt transitions, and unnatural cadence.
 
 ## Output
 

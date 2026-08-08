@@ -7,6 +7,10 @@ description: >-
 
 # april-10-review
 
+## Scope control (mandatory)
+
+Read `../references/scope-control.md` before acting. Return review findings only within the requested scope; do not silently implement fixes or rewrite the manuscript.
+
 ## Goal
 Stress-test the manuscript before submission/revision.
 

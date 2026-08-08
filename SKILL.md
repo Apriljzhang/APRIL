@@ -6,6 +6,8 @@ description: >-
   methodology, analysis, discussion, framing and abstract, language, formatting,
   review, and revision. Use for a complete article workflow, for choosing the
   correct APRIL stage, or when work must comply with APA JARS reporting standards.
+  Follow the user's requested stage and deliverables without silently expanding
+  into unrequested manuscript sections or a complete paper.
 ---
 
 # APRIL
@@ -13,6 +15,10 @@ description: >-
 **APRIL** (Academic Paper Research & Inquiry Lab) is a skill suite that helps you write academic journal papers step by step—from research questions to a submission-ready manuscript and reviewer responses.
 
 APRIL is **for journal articles**. Adjacent genres such as thesis/dissertation chapters, research proposals, literature reviews, or book chapters are only handled as minor transfer cases when relevant. See `references/academic-genres.md`.
+
+## Scope control (mandatory)
+
+Read `references/scope-control.md` before routing or producing work. Treat uploaded materials as context, not permission to generate every possible output. Run the complete pipeline only when the user explicitly requests a whole manuscript or end-to-end workflow.
 
 ## Stages
 
@@ -31,9 +37,9 @@ APRIL is **for journal articles**. Adjacent genres such as thesis/dissertation c
 
 ## How to use
 
-1. Identify the manuscript's current bottleneck and read the corresponding stage `SKILL.md` in full.
+1. Identify the user's requested operation, object, deliverables, and stopping point; then read the corresponding stage `SKILL.md` in full.
 2. Load **one stage** at a time. Do not run every stage unless the user requests an end-to-end audit.
-3. For analysis, open `april-04-analysis/references/method-index.md`, then load **one** method card under `april-04-analysis/methods/`.
+3. For analysis, open `april-04-analysis/references/method-index.md`, identify the primary approach and analytical family, then load the primary method card. Add support cards or separately specified substantive cards only when the RQs and integration plan justify them.
 4. Preserve a compact manuscript contract across stages: target journal, article type, RQs/aims, design, sample/data, main claims, word limits, and unresolved risks. Do not silently change these decisions.
 5. Treat each stage's `references/*sources.md` file as provenance. Read it when checking the basis of guidance, not for routine execution.
 
@@ -65,6 +71,7 @@ The target journal's current author instructions override APRIL defaults. Otherw
 ## Core resource map
 
 - **Reporting completeness:** `references/jars/SKILL.md`, then the applicable full checklist files beside it
+- **Output scope and stopping rules:** `references/scope-control.md`
 - **Academic phrase functions:** `april-08-language/references/manchester-phrasebank.md`
 - **Sentence cohesion:** `april-08-language/references/sentence-bridging.md`
 - **Natural academic language and anti-formulaic editing:** `april-08-language/SKILL.md`
