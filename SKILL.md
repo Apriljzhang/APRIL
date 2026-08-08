@@ -66,12 +66,13 @@ The target journal's current author instructions override APRIL defaults. Otherw
 
 ## Tools
 
-- `tools/pdf-quote-finder/` — recover page-accurate quotes from local PDFs
+- **Integrated local PDF quote search:** read `april-02-literature/references/pdf-quote-search.md`; it runs the internal code under `tools/pdf-quote-finder/` for page-accurate evidence verification.
 
 ## Core resource map
 
 - **Reporting completeness:** `references/jars/SKILL.md`, then the applicable full checklist files beside it
 - **Output scope and stopping rules:** `references/scope-control.md`
+- **Local quotation search and page pinning:** `april-02-literature/references/pdf-quote-search.md`
 - **Academic phrase functions:** `april-08-language/references/manchester-phrasebank.md`
 - **Sentence cohesion:** `april-08-language/references/sentence-bridging.md`
 - **Natural academic language and anti-formulaic editing:** `april-08-language/SKILL.md`

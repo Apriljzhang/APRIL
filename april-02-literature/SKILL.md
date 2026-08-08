@@ -2,7 +2,8 @@
 name: april-02-literature
 description: >-
   APRIL stage 02: literature review — search, triage, synthesis, citation integrity,
-  Zotero library search (PapersGPT/pz), and local PDF quote pinning (pdf-quote-finder).
+  Zotero library search (PapersGPT/pz), and integrated local PDF quotation search
+  with physical-page pinning.
 ---
 
 # april-02-literature
@@ -20,7 +21,7 @@ Build a credible, synthesised evidence base. Prefer the user’s local library a
 2. **Collect** — public sources and/or local Zotero (see Zotero section).
 3. **Triage** — living matrix: claim → source → quality/role (support, conflict, method).
 4. **Synthesise by debate/theme**, not paper-by-paper dumping.
-5. **Pin quotes** from local PDFs when page-accurate citation is needed (see PDF quotes).
+5. **Pin quotes** from local PDFs when page-accurate citation is needed. Read `references/pdf-quote-search.md` before running APRIL's integrated locator.
 6. **Integrity gate** — no invented DOIs/pages; flag unverified items.
 7. Hand matrix to methodology or drafting stages.
 
@@ -43,6 +44,8 @@ Install if missing: `npm install -g papersgpt-for-zotero` (see https://github.co
 Use Zotero search for discovery inside the user’s collection only — not as a substitute for verifying citations.
 
 ## Local PDF quote pinning (APRIL tool)
+
+Read `references/pdf-quote-search.md` for the full workflow, match modes, output fields, and page-number integrity rules. This capability is part of APRIL Literature; do not invoke or require a separate PDF quote-finder skill.
 
 ```bash
 APRIL_ROOT="${CODEX_HOME:-$HOME/.codex}/skills/APRIL"

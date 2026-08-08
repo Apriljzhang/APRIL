@@ -19,8 +19,7 @@ Interpret findings against prior work without overclaiming.
 1. Restate key findings in plain British English (no new analyses).
 2. For each major finding: literature link → explanation → boundary conditions.
 3. Use Discussion **phrase functions** in `references/discussion-phrases.md` (APA Discussion Phrases Guide–inspired): summarise → link to literature → interpret → limitations → implications → future research → close.
-4. Recover page-accurate quotes via APRIL PDF tool when needed:
-   `../tools/pdf-quote-finder/` (same commands as april-02).
+4. When a literature connection requires page-accurate evidence, read `../april-02-literature/references/pdf-quote-search.md` and use APRIL's integrated local locator. Do not invoke a separate PDF quote-finder skill.
 5. Optional Zotero search (`pz search`) to locate items in the user’s library.
 6. Alternative explanations; specific limitations; proportionate implications.
 7. Read `../references/jars/SKILL.md`; check the Discussion items in the complete applicable Quant, Qual, or Mixed pack, plus relevant REC items.

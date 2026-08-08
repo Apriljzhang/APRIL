@@ -1,8 +1,8 @@
-# PDF Quote Finder — reference
+# APRIL PDF quote locator — implementation reference
 
 Design distilled from [sabercomo/MEFinder](https://github.com/sabercomo/MEFinder).
 
-## What this skill copies
+## What this internal tool adopts
 
 | MEFinder idea | Skill behavior |
 |---|---|
@@ -13,7 +13,7 @@ Design distilled from [sabercomo/MEFinder](https://github.com/sabercomo/MEFinder
 | Cross-page hits | Adjacent pages: last 900 + first 900 chars |
 | Page honesty | PDF physical page ≠ citation page unless calibrated |
 
-## What this skill deliberately omits
+## What this internal tool deliberately omits
 
 - Word/DOCX corpus indexing
 - MinerU / vision API OCR pipelines
@@ -21,7 +21,7 @@ Design distilled from [sabercomo/MEFinder](https://github.com/sabercomo/MEFinder
 - Desktop/Web UI and page-calibration library
 - Bibliographic metadata enrichment
 
-Those belong in the full MEFinder app. This skill is the agent-facing locator.
+Those belong in the full MEFinder app. This internal APRIL component is a focused local locator.
 
 ## Normalization details
 
