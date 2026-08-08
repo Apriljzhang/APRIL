@@ -4,6 +4,7 @@
 *.pyc
 .Python
 *.egg-info/
+*.sqlite3
 
 # OS / editor
 .DS_Store

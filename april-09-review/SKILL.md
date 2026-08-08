@@ -1,11 +1,11 @@
 ---
-name: april-10-review
+name: april-09-review
 description: >-
-  APRIL stage 10: multi-persona review plus SSCI/journal editor bar — coherence,
+  APRIL stage 09: multi-persona review plus SSCI/journal editor bar — coherence,
   methods, contribution, ethics, language, and desk-reject risks.
 ---
 
-# april-10-review
+# april-09-review
 
 ## Scope control (mandatory)
 
@@ -26,7 +26,7 @@ Stress-test the manuscript before submission/revision.
 
 ## Output format
 For each persona: 3–7 concrete issues ranked P0/P1/P2 with suggested fix location (section).
-End with a **priority fix list** (max 10) for `april-11-revision`, using `references/revision-roadmap.md`.
+End with a **priority fix list** (max 10) for `april-10-revision`, using `references/revision-roadmap.md`.
 
 Persona prompts: `references/persona-cards.md`.
 

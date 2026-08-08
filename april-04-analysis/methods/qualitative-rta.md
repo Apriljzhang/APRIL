@@ -9,7 +9,7 @@ Interviews, focus groups, open-text, documents needing patterned meaning with re
 3. Settle epistemology, coding orientation, analytic level, RQ linkage, data scope.
 4. Run six phases recursively; avoid “themes emerged”.
 5. Write findings that answer RQs with extracts as evidence.
-6. Apply `april-08-language` to prose; APA via `april-09-formatting`.
+6. Apply `april-07-language` to prose; APA via `april-08-formatting`.
 
 ## Boundary check
 - Reflexive TA treats coding and theme development as situated, recursive interpretation; researcher subjectivity is an analytic resource rather than noise to eliminate.

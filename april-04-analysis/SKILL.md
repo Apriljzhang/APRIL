@@ -30,7 +30,7 @@ Select, execute, diagnose, and report the requested defensible substantive analy
 5. Read `references/method-citations.md`; route each methodological claim to a source listed for that card and verify page-specific claims in the local PDF/Markdown.
 6. Use `methods/tooling-stata-r-python.md` and `methods/power-analysis.md` only as support cards when needed.
 7. For reflexive TA, follow the detailed guide under `references/rta/`; it remains part of Stage 04.
-8. Lock the verified Results/Findings before interpretation. For a full Discussion, pass the locked findings to `april-05-discussion`; style later with `april-08-language`.
+8. Lock the verified Results/Findings before interpretation. For a full Discussion, pass the locked findings to `april-05-discussion`; style later with `april-07-language`.
 
 ## Rules
 - Use one primary analytical family at a time. Allow supporting procedures and within-family modules when they answer aligned RQs and estimands. For genuinely distinct methods, specify, execute, and validate each separately, then integrate findings explicitly.

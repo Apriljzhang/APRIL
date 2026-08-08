@@ -47,7 +47,7 @@ Background or problem → aim or research question → method → key results �
 - Name the design, participants or data sources, analytic approach, and central findings with enough specificity to support indexing and screening.
 - State the contribution or implication in proportion to the evidence; do not replace a result with a promise that results will be discussed.
 - Do not include citations, undefined abbreviations, quotations, tables, or information absent from the article unless the journal explicitly requires them.
-- Apply `../april-08-language/SKILL.md` and verify the final word count under `../april-09-formatting/SKILL.md`.
+- Apply `../april-07-language/SKILL.md` and verify the final word count under `../april-08-formatting/SKILL.md`.
 
 ### JARS abstract check
 Read `../references/reporting/reporting-router.md` and the complete applicable checklist. Include objectives; participants or data sources; method; principal findings; effect sizes and confidence intervals when quantitative; design and analytic strategy when qualitative; the mixed-methods design and integration result when mixed; and relevant race, ethnicity, or cultural context when applicable.
@@ -56,7 +56,7 @@ Read `../references/reporting/reporting-router.md` and the complete applicable c
 Assume a journal-article abstract. Consult `../references/genres/academic-genres.md` only for a clearly identified nearby genre, such as a proposal summary or book-chapter synopsis.
 
 ## Style
-Topic sentence → evidence/explanation; British English via `april-08-language`.
+Topic sentence → evidence/explanation; British English via `april-07-language`.
 See `references/prompt-bank.md`.
 
 ## Purpose in the Introduction

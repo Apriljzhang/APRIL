@@ -30,10 +30,10 @@ Read `references/core/operating-contract.md` before routing or producing work. U
 | 04 | `april-04-analysis` | Analyse data and write findings |
 | 05 | `april-05-discussion` | Interpret results against the literature |
 | 06 | `april-06-framing` | Write Introduction, Conclusion, and Abstract |
-| 08 | `april-08-language` | Polish British English academic style |
-| 09 | `april-09-formatting` | Format length, APA, captions |
-| 10 | `april-10-review` | Review like an editor/referee |
-| 11 | `april-11-revision` | Revise and write the response letter |
+| 07 | `april-07-language` | Polish British English academic style |
+| 08 | `april-08-formatting` | Format length, APA, captions |
+| 09 | `april-09-review` | Review like an editor/referee |
+| 10 | `april-10-revision` | Revise and write the response letter |
 
 ## How to use
 
@@ -64,9 +64,9 @@ If the user is actually writing a proposal, thesis/dissertation chapter, literat
 
 The target journal's current author instructions override APRIL defaults. Otherwise use British English; paper about 6–8k words; abstract 200–300 words; APA 7; Times New Roman 12pt double-spaced; APA-style table and figure titles and notes.
 
-## Tools
+## Scripts
 
-- **Integrated local PDF quote search:** read `references/evidence/pdf-quote-search.md`; it runs the internal code under `tools/pdf-quote-finder/` for page-accurate evidence verification.
+- **Integrated local PDF quote search:** read `references/evidence/pdf-quote-search.md`; it runs `scripts/pdf_quote_search.py` for page-accurate evidence verification.
 
 ## Core resource map
 
@@ -78,7 +78,7 @@ The target journal's current author instructions override APRIL defaults. Otherw
 - **Local quotation search and page pinning:** `references/evidence/pdf-quote-search.md`
 - **Academic phrase functions:** `references/rhetoric/manchester-phrasebank.md`
 - **Sentence cohesion:** `references/rhetoric/sentence-bridging.md`
-- **Natural academic language and anti-formulaic editing:** `april-08-language/SKILL.md`
+- **Natural academic language and anti-formulaic editing:** `april-07-language/SKILL.md`
 - **Reflexive thematic analysis:** `april-04-analysis/methods/qualitative-rta.md`, with its detailed reference guide
 - **Nearby academic genres:** `references/genres/academic-genres.md`, only when the task is not a journal article
 

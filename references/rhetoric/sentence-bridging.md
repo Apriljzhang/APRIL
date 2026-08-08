@@ -34,7 +34,7 @@ When two clauses are one continuous thought, do not cut them with a full stop. L
 
 Do not force semicolons where the ideas are only loosely related; use a new sentence plus concept overlap instead.
 
-## Editing pass (apply in april-08)
+## Editing pass (apply in `april-07-language`)
 1. Mark each sentence boundary in the target paragraph.
 2. If the next sentence opens with brand-new material and no back-reference, apply technique 1, 2, or 3.
 3. After bridging, re-check topic sentences still lead the paragraph (bridging is within the paragraph, not a substitute for structure).

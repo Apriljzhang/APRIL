@@ -222,4 +222,4 @@ Add:
 - Pair all quantitative work with `jars-rec.md`.
 - `april-03-methodology` should name the relevant JARS–Quant module when a design is specialized.
 - `april-04-analysis` should reflect module-specific reporting in the Results section.
-- `april-10-review` should flag missing module-specific reporting, not just Table 1 omissions.
+- `april-09-review` should flag missing module-specific reporting, not just Table 1 omissions.

@@ -1,11 +1,11 @@
 ---
-name: april-09-formatting
+name: april-08-formatting
 description: >-
-  APRIL stage 09: manuscript formatting — defaults 6–8k words, TNR 12pt double,
+  APRIL stage 08: manuscript formatting — defaults 6–8k words, TNR 12pt double,
   APA, two-line captions; DOCX/PDF export guidance.
 ---
 
-# april-09-formatting
+# april-08-formatting
 
 ## Scope control (mandatory)
 

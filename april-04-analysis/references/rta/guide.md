@@ -23,9 +23,9 @@ Also read these skills before generating outputs:
 
 - Read `../../../references/reporting/reporting-router.md` and `../../../references/reporting/jars-qual.md` before writing a journal-article Method or Findings section.
 - Use an available DOCX/document skill only when the user requests a Word deliverable.
-- Use `../../../april-08-language/SKILL.md` for manuscript language and `../../../april-09-formatting/SKILL.md` for APA and submission formatting.
+- Use `../../../april-07-language/SKILL.md` for manuscript language and `../../../april-08-formatting/SKILL.md` for APA and submission formatting.
 
-Use the target journal, the user's explicit language requirements, and APRIL Stage 08 when manuscript prose is requested. Methodological precision and participant meaning take priority over cosmetic style changes.
+Use the target journal, the user's explicit language requirements, and APRIL Stage 07 when manuscript prose is requested. Methodological precision and participant meaning take priority over cosmetic style changes.
 
 ## Reflexive-TA guardrails
 

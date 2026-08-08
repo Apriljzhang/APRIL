@@ -51,13 +51,14 @@ Read `../references/evidence/pdf-quote-search.md` for the full workflow, match m
 
 ```bash
 APRIL_ROOT="${CODEX_HOME:-$HOME/.codex}/skills/APRIL"
-PYTHON="$APRIL_ROOT/tools/pdf-quote-finder/.venv/bin/python"
-SCRIPT="$APRIL_ROOT/tools/pdf-quote-finder/scripts/pdf_quote_finder.py"
+PYTHON="$APRIL_ROOT/.venv/bin/python"
+SCRIPT="$APRIL_ROOT/scripts/pdf_quote_search.py"
+REQUIREMENTS="$APRIL_ROOT/scripts/pdf-quote-search-requirements.txt"
 
 "$PYTHON" "$SCRIPT" search "exact or noisy quote" --path "/path/to/pdfs"
 ```
 
-If the venv is missing, create it from `tools/pdf-quote-finder/requirements.txt` with `uv`.
+If the environment is missing, create `$APRIL_ROOT/.venv` from `$REQUIREMENTS` with `uv` as specified in the shared evidence reference.
 
 Match modes: auto (default), exact, compact, punctuation, fuzzy. No embeddings/LLM.
 

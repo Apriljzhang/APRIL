@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Local PDF quote locator inspired by MEFinder (sabercomo/MEFinder).
+"""APRIL local PDF quotation search, inspired by MEFinder (sabercomo/MEFinder).
 
 No embeddings / vector DB / LLM. Cascading exact → compact → punctuation → fuzzy.
 """
@@ -646,7 +646,7 @@ def cmd_search(args: argparse.Namespace) -> int:
 
 
 def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="Locate quotes/snippets in local PDFs (MEFinder-style).")
+    parser = argparse.ArgumentParser(description="Search and page-pin quotations in local PDFs.")
     sub = parser.add_subparsers(dest="command", required=True)
 
     p_index = sub.add_parser("index", help="Build a SQLite index from a PDF or directory")

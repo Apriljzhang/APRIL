@@ -1,6 +1,6 @@
 # APRIL — Academic Paper Research & Inquiry Lab
 
-APRIL is a staged Codex skill suite for planning, analysing, writing, reviewing, and revising academic journal articles. It supports education, applied linguistics, TESOL, psychology, and related social-science research while keeping methods, evidence, reporting standards, and language work distinct.
+APRIL is a staged Codex skill suite for planning, analysing, writing, reviewing, and revising academic journal articles. Designed for education, applied linguistics, TESOL, psychology, and related social sciences, it connects methodological reasoning, evidence integrity, reporting standards, and academic language without collapsing them into a single generic writing workflow.
 
 ## Core behaviour
 
@@ -23,12 +23,10 @@ Uploaded manuscripts, datasets, variable descriptions, and references provide co
 | 04 | [`april-04-analysis`](april-04-analysis/SKILL.md) | Select and execute empirical analyses, diagnostics, tables, figures, and requested Results/Findings |
 | 05 | [`april-05-discussion`](april-05-discussion/SKILL.md) | Interpret locked findings against verified literature without introducing new results |
 | 06 | [`april-06-framing`](april-06-framing/SKILL.md) | Draft the specifically requested Introduction, Conclusion, or Abstract |
-| 08 | [`april-08-language`](april-08-language/SKILL.md) | Edit academic prose while preserving evidence, terminology, citations, quotations, and analytic meaning |
-| 09 | [`april-09-formatting`](april-09-formatting/SKILL.md) | Apply journal, APA, table, figure, caption, and submission formatting |
-| 10 | [`april-10-review`](april-10-review/SKILL.md) | Review the requested scope through methodological, literature, contribution, clarity, ethics, and journal-editor lenses |
-| 11 | [`april-11-revision`](april-11-revision/SKILL.md) | Revise selected comments or sections and prepare response-to-reviewer materials |
-
-Stage 07 is intentionally folded into Stage 06 because Abstract drafting depends on stable framing, methods, and findings.
+| 07 | [`april-07-language`](april-07-language/SKILL.md) | Edit academic prose while preserving evidence, terminology, citations, quotations, and analytic meaning |
+| 08 | [`april-08-formatting`](april-08-formatting/SKILL.md) | Apply journal, APA, table, figure, caption, and submission formatting |
+| 09 | [`april-09-review`](april-09-review/SKILL.md) | Review the requested scope through methodological, literature, contribution, clarity, ethics, and journal-editor lenses |
+| 10 | [`april-10-revision`](april-10-revision/SKILL.md) | Revise selected comments or sections and prepare response-to-reviewer materials |
 
 ## APRIL Commons
 
@@ -71,13 +69,13 @@ The user's instruction and the target journal's current requirements override AP
 | Typeface and spacing | Times New Roman 12 pt, double-spaced |
 | Tables and figures | APA-compatible titles, captions, notes, and accessible visual design |
 
-## Install on a Mac
+## Installation
 
-Open **Terminal** on the Mac where Codex will use APRIL.
+Clone APRIL into the Codex skills directory:
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone git@github.com:Apriljzhang/APRIL.git ~/.codex/skills/APRIL
+git clone https://github.com/Apriljzhang/APRIL.git ~/.codex/skills/APRIL
 ```
 
 Verify the installation:
@@ -90,9 +88,9 @@ git log -1 --oneline
 
 Restart or reload Codex after installation so the skill list is refreshed.
 
-## Update APRIL on another Mac
+## Updating
 
-Run these commands in Terminal on that Mac:
+Pull the latest release from the repository:
 
 ```bash
 cd ~/.codex/skills/APRIL
@@ -100,28 +98,9 @@ git pull --ff-only origin main
 git log -1 --oneline
 ```
 
-If GitHub SSH has not been configured on that computer, test it with:
-
-```bash
-ssh -T git@github.com
-```
-
-GitHub normally responds that authentication succeeded but shell access is unavailable. That message confirms the SSH key works.
-
-## Two-Mac workflow
-
-Before switching computers, commit and push completed APRIL changes from the computer where they were made. On the other computer, pull before editing:
-
-```bash
-cd ~/.codex/skills/APRIL
-git pull --ff-only origin main
-```
-
-Do not edit the same uncommitted APRIL files independently on both computers. GitHub is the synchronisation source for the skill; manuscript files and research materials can remain in their separate document-storage workflow.
-
 ## Integrated local PDF quotation search
 
-APRIL Literature includes a local quotation locator under `tools/pdf-quote-finder/`. It supports exact and noise-tolerant matching and reports the source file and physical PDF page. Read [`references/evidence/pdf-quote-search.md`](references/evidence/pdf-quote-search.md) before using it. This capability is internal to APRIL and does not require a separate quotation-finder skill.
+APRIL Literature includes the shared script [`scripts/pdf_quote_search.py`](scripts/pdf_quote_search.py). It supports exact and noise-tolerant matching and reports the source file and physical PDF page. Read [`references/evidence/pdf-quote-search.md`](references/evidence/pdf-quote-search.md) before using it. The implementation is part of APRIL's evidence layer and does not require a separate quotation-finder skill or tools package.
 
 ---
 

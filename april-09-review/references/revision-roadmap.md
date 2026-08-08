@@ -1,6 +1,6 @@
 # APRIL revision roadmap format
 
-Use after multi-persona review. Compatible with `april-11-revision`.
+Use after multi-persona review. Compatible with `april-10-revision`.
 
 ## Item schema
 | Field | Content |

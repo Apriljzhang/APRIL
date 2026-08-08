@@ -1,7 +1,7 @@
 ---
-name: april-08-language
+name: april-07-language
 description: >-
-  APRIL stage 08: edit journal-article prose in education, applied linguistics,
+  APRIL stage 07: edit journal-article prose in education, applied linguistics,
   TESOL, and the social sciences for natural language dynamics, British English,
   cohesion, authorial voice, disciplinary precision, calibrated hedging,
   confident qualification placement, exemplar-based rhetorical modelling,
@@ -10,7 +10,7 @@ description: >-
   Avoid habitual "not X but Y" contrasts and paired em-dash clause insertions.
 ---
 
-# april-08-language
+# april-07-language
 
 ## Scope control (mandatory)
 

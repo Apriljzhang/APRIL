@@ -8,7 +8,7 @@ Support card only. Use it with the relevant substantive card or sequenced multi-
 2. Keep raw data immutable; separate raw, derived, code, results, figures, documentation, and temporary files.
 3. Script every transformation in executable order; record seeds, versions, dependencies, and environment information.
 4. Use relative project paths, stable names, assertions, and validation checks. Never store credentials or identifiable data in repositories.
-5. Generate tables/figures from analysis objects for `april-09-formatting`; do not transcribe results manually.
+5. Generate tables/figures from analysis objects for `april-08-formatting`; do not transcribe results manually.
 6. Save machine-readable model summaries beside publication outputs so coefficients, intervals, sample sizes, and notes can be cross-checked programmatically.
 7. Keep preprocessing, model fitting, diagnostics, robustness checks, tables, and figures in executable order. Fail loudly when required variables, labels, expected row counts, or output files are missing.
 8. Maintain a README, data dictionary, analysis log, and session information sufficient for a collaborator to reproduce the work.

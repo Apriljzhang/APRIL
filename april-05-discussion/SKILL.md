@@ -26,7 +26,7 @@ Interpret findings against prior work without overclaiming.
 6. Alternative explanations; specific limitations; proportionate implications.
 7. Read `../references/reporting/reporting-router.md`; check the Discussion items in the complete applicable Quant, Qual, or Mixed pack, plus relevant REC items.
 8. Optional Toulmin structure for contested claims (claim–data–warrant–backing–qualifier–rebuttal).
-9. Finish with `april-08-language` for hedging, natural language dynamics, and Phrasebank discussing-findings moves.
+9. Finish with `april-07-language` for hedging, natural language dynamics, and Phrasebank discussing-findings moves.
 
 ## Integrity
 Never invent citations or pages. Do not introduce new results.
