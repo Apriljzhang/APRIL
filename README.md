@@ -56,6 +56,8 @@ Stage 04 currently contains 24 method cards organised through the shared [method
 
 APRIL selects methods from the research question, estimand or qualitative objective, design, outcome/data form, dependence, measurement, and claim boundary—not from whichever model produces a preferred result.
 
+For R-based analyses, Stage 04 can work through a supervised live RStudio session using its [integrated authenticated localhost workflow](april-04-analysis/references/rstudio-execution.md). This is an execution option within the tooling support card, not a separate skill or analytical method.
+
 ## Defaults
 
 The user's instruction and the target journal's current requirements override APRIL defaults.

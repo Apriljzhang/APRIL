@@ -6,7 +6,8 @@ description: >-
   a justified quantitative, qualitative, mixed, computational, longitudinal, or
   causal method; execute baseline models, heterogeneity analyses, and robustness
   checks; produce reproducible academic tables and figures; interpret findings;
-  or draft evidence-bounded Results/Findings and Discussion-ready prose. Produce
+  execute R code through a supervised live RStudio session when requested; or
+  draft evidence-bounded Results/Findings and Discussion-ready prose. Produce
   only the analysis outputs or sections the user requests; never expand an
   analysis request into a complete manuscript.
 ---
@@ -28,13 +29,14 @@ Select, execute, diagnose, and report the requested defensible substantive analy
 3. For an end-to-end empirical request involving uploaded tabular data, read `references/empirical-analysis-workflow.md`.
 4. Open the primary substantive file under `methods/`; record why its approach and family match the RQ, outcome/data form, design, dependence, and estimand. Add a second substantive card only for a distinct RQ or genuinely multi-method design, and execute it as a separately specified analysis before integration.
 5. Read `references/method-citations.md`; route each methodological claim to a source listed for that card and verify page-specific claims in the local PDF/Markdown.
-6. Use `methods/tooling-stata-r-python.md` and `methods/power-analysis.md` only as support cards when needed.
+6. Use `methods/tooling-stata-r-python.md` and `methods/power-analysis.md` only as support cards when needed. For an explicitly requested live RStudio session, also read `references/rstudio-execution.md` before connecting or executing code.
 7. For reflexive TA, follow the detailed guide under `references/rta/`; it remains part of Stage 04.
 8. Lock the verified Results/Findings before interpretation. For a full Discussion, pass the locked findings to `april-05-discussion`; style later with `april-07-language`.
 
 ## Rules
 - Use one primary analytical family at a time. Allow supporting procedures and within-family modules when they answer aligned RQs and estimands. For genuinely distinct methods, specify, execute, and validate each separately, then integrate findings explicitly.
 - `methods/tooling-stata-r-python.md` and `methods/power-analysis.md` are support cards and may accompany one substantive card.
+- Treat the integrated RStudio bridge as supervised execution infrastructure, never as a method card or reason to select R. Use it only for the requested analysis, keep it authenticated and localhost-only, preserve its audit trail, and stop it when the bounded task ends.
 - Keep related but distinct methods separate: SEM versus mediation/moderation and LCA versus LPA. Cross-route shared references rather than merging their estimands or data assumptions.
 - Select models from the research design, estimand, outcome scale/distribution, dependence, and measurement properties—not from file type, automated stepwise selection, or whichever result is significant. Do not infer a within-cluster, between-cluster, marginal, or causal estimand from nesting or data shape alone.
 - Treat baseline, heterogeneity, and robustness analyses as one coherent specification family. Tie every additional model to a hypothesis or a named validity threat.

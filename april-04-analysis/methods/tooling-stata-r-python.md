@@ -13,6 +13,12 @@ Support card only. Use it with the relevant substantive card or sequenced multi-
 7. Keep preprocessing, model fitting, diagnostics, robustness checks, tables, and figures in executable order. Fail loudly when required variables, labels, expected row counts, or output files are missing.
 8. Maintain a README, data dictionary, analysis log, and session information sufficient for a collaborator to reproduce the work.
 
+## Live RStudio execution
+
+When the user asks APRIL to operate in an open RStudio session, read `../references/rstudio-execution.md`. Use the integrated authenticated localhost bridge to inspect session objects, execute bounded R blocks, retain a visible code history, and annotate derived objects. The bridge is execution infrastructure only: select and justify the substantive model before using it, and convert the accepted audit trail into the project's reproducible script afterward.
+
+Do not auto-start the bridge, expose it beyond `127.0.0.1`, omit its token, or infer permission for package installation, persistent profile edits, object replacement, file deletion, unrequested models, or additional manuscript sections.
+
 ## Method-specific note
 For fsQCA, keep calibration anchors, truth-table thresholds, directional expectations, and minimization settings in code and prose.
 
