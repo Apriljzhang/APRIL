@@ -2,6 +2,8 @@
 
 This Stage 04 reference guide walks a user through reflexive thematic analysis (RTA) using Braun and Clarke's six-phase framework. Enter through `../../methods/qualitative-rta.md`. Produce the analysis artifacts the user needs; create a Word manuscript and annotated thematic map only when requested.
 
+Apply `../../../references/core/operating-contract.md` before this guide. Phase outputs are working products within an authorised RTA analysis, not an automatic delivery bundle. A request for an end-to-end RTA authorises the standard working artefacts needed to complete and verify the analysis, even when the user does not name each one. Create, save, or share only the artefacts proportionate to the requested phase or outcome. Do not add Method, Findings, Discussion, or a manuscript file to a narrower analysis request.
+
 The skill is grounded in Braun and Clarke's original framework and later reflexive-TA clarifications. See `references/sources.md`.
 
 Treat source-attributed methodological claims as the authors' positions, not as universal rules for every form of thematic analysis.
@@ -19,11 +21,11 @@ Read these reference files as needed:
 
 Also read these skills before generating outputs:
 
-- Read `../../../references/jars/SKILL.md` and `../../../references/jars/jars-qual.md` before writing a journal-article Method or Findings section.
+- Read `../../../references/reporting/reporting-router.md` and `../../../references/reporting/jars-qual.md` before writing a journal-article Method or Findings section.
 - Use an available DOCX/document skill only when the user requests a Word deliverable.
 - Use `../../../april-08-language/SKILL.md` for manuscript language and `../../../april-09-formatting/SKILL.md` for APA and submission formatting.
 
-If the user has a **writing-style skill**, do not apply it to the manuscript body — see "Writing register" under Phase 7. A writing-style skill may still apply to ancillary outputs (a plain-language summary, a blog version of the findings) if the user asks for those separately.
+Use the target journal, the user's explicit language requirements, and APRIL Stage 08 when manuscript prose is requested. Methodological precision and participant meaning take priority over cosmetic style changes.
 
 ## Reflexive-TA guardrails
 
@@ -54,7 +56,7 @@ Record the agreed research question(s) verbatim. They will be referenced explici
 
 If the analytic approach is **theoretical/deductive**, the research question is also tied to the theoretical framework being applied — make this link explicit at this stage, before any coding begins.
 
-Save the agreed research question(s) to the workspace as `step0_research_questions.md`. Refer back to this file at the start of each subsequent phase.
+Record the agreed research question(s) in the analysis audit trail. Save them as `step0_research_questions.md` only when the user requests persistent phase artefacts or a file is necessary for an authorised multi-phase analysis.
 
 ---
 
@@ -121,7 +123,7 @@ In this phase:
 - Read actively — search for meanings, oddities, contradictions, patterns.
 - Take notes as you read. Jot down initial ideas, hunches, and possible codes. These are not yet codes; they are a starting list to feed Phase 3.
 
-Output of this phase: a familiarisation note for the user — a paragraph per data item summarising what struck you, plus a running list of initial ideas across the data set. Save this to the workspace as `phase2_familiarisation.md`.
+For a full authorised RTA workflow, maintain a familiarisation note: a paragraph per data item summarising what struck you, plus a running list of initial ideas across the data set. Save or deliver it as `phase2_familiarisation.md` only when requested or needed for the next authorised phase.
 
 If the data set is too large for full re-reading in one pass, do it in batches and combine the notes.
 
@@ -145,7 +147,7 @@ In this phase:
 - A single extract can be coded under multiple codes, or none.
 - Retain accounts that depart from the dominant story; do not smooth them out.
 
-Output of this phase: a coded data table. For each data item, list the extracts and the code(s) applied to each. Save as `phase3_codes.md`. At the end, produce a consolidated **code list** with every code and the data extracts that sit under it.
+For an authorised coding phase, maintain a coded data table with extracts and applied codes, plus a consolidated code list. Save or deliver `phase3_codes.md` only when requested or needed for the next authorised phase.
 
 A short worked example showing data → code, modelled on Braun and Clarke's Figure 1:
 
@@ -167,7 +169,7 @@ In this phase:
 - Look for relationships between codes, between themes, and between levels of themes (overarching themes vs sub-themes).
 - Produce an **initial thematic map** — a visual sketch (mind-map style) showing candidate themes and how codes feed into them. See `references/thematic-map.md`.
 
-Output of this phase: a draft thematic map (saved as `phase4_initial_map.png` or as a markdown outline if a visual is not yet practical) and a candidate theme list with the codes under each.
+For an authorised theme-development phase, maintain a candidate theme list and, when requested or analytically useful, a draft thematic map. Save `phase4_initial_map.png` or a Markdown outline only within that scope.
 
 End this phase with candidate themes, sub-themes, and all coded extracts grouped under them. Do not discard anything yet — Phase 5 will tell you whether the themes hold.
 
@@ -190,7 +192,7 @@ This phase has two levels of review.
 
 When refinements stop adding anything substantial, **stop**. Endless re-coding has diminishing returns — Braun and Clarke compare further fiddling to "rearranging the hundreds and thousands on an already nicely decorated cake" (p. 21).
 
-Output of this phase: a refined thematic map (`phase5_refined_map.png`) and a refined theme list.
+For an authorised review phase, maintain a refined theme list. Create or save `phase5_refined_map.png` only when requested or when the map is needed to validate the thematic structure.
 
 ---
 
@@ -206,9 +208,9 @@ For each theme:
 - Give the theme a **concise, punchy name** that immediately signals to the reader what the theme is about. Working titles from earlier phases are usually too descriptive — sharpen them now.
 - Check the theme against the others: does it overlap too much? Does it add something distinctive to the overall story?
 
-Output of this phase: the final theme list with definitions, sub-themes, and final names. Save as `phase6_definitions.md`.
+For an authorised definition phase, maintain the final theme list with definitions, sub-themes, and final names. Save `phase6_definitions.md` only when requested or needed for the next authorised phase.
 
-Also produce the **final thematic map** (`phase6_final_map.png`) — this is the version that will appear in the write-up.
+Create the final thematic map (`phase6_final_map.png`) only when the user requests it or when it is an agreed component of the requested Findings deliverable.
 
 ---
 
@@ -222,9 +224,9 @@ Before drafting the report, run through the 15-point checklist in `references/qu
 
 Then read `references/pitfalls.md` and audit the draft against the five common pitfalls. The most frequent failures: (1) describing extracts instead of analysing them, and (2) using interview questions as themes.
 
-### Writing register: strictly academic
+### Writing register
 
-The write-up must use a formal academic register suitable for peer-reviewed publication. This is the deliverable standard for the manuscript body and it **overrides any personal writing-style skill the user has loaded**. Those preferences apply to blogs, op-eds and informal pieces — not to the findings of a thematic analysis.
+When a manuscript write-up is requested, use a formal academic register suitable for the target journal while respecting the user's explicit language requirements and APRIL house style. Preserve methodological precision, researcher reflexivity, participant meaning, and the author's established voice.
 
 Concretely, the manuscript body follows these conventions:
 
@@ -240,9 +242,9 @@ Concretely, the manuscript body follows these conventions:
 
 If the user has a writing-style skill loaded, apply it only to ancillary outputs they request separately — for instance, a plain-language summary or a blog adaptation of the findings — not to the manuscript itself.
 
-### Generate a manuscript deliverable
+### When a manuscript-style deliverable is requested
 
-Use this structure for a manuscript-style deliverable. Create `.docx` only when the user asks for Word output; otherwise write to the requested workspace format.
+Use the following structure only for the manuscript sections the user requests. Create `.docx` only when the user asks for Word output; otherwise use the requested workspace format.
 
 ```
 Title
@@ -270,7 +272,7 @@ Author / affiliation (if provided)
        * 2 to 4 illustrative data extracts per theme, each followed by
          analytic commentary that goes BEYOND paraphrase
        * Where relevant, link to existing literature
-   - Include the final thematic map as a figure
+   - Include the final thematic map only when requested or agreed as a Findings figure
 
 4. Discussion (optional, depending on what the user wants)
    - Overall story across themes
@@ -295,7 +297,7 @@ Save outputs in the user's requested folder. If none is given, use the active wo
 
 ### Include the thematic map as a figure
 
-The thematic map (`phase6_final_map.png`) goes into the findings section as a figure. See `references/thematic-map.md` for how to generate it (use matplotlib with networkx-style layout, or a simple node-and-edge diagram).
+When the requested Findings section includes a thematic map, use `phase6_final_map.png` as the figure. See `references/thematic-map.md` for how to generate it (use matplotlib with networkx-style layout, or a simple node-and-edge diagram).
 
 Caption the figure with theme names, sub-theme names, and a short explanation of relationships if relevant.
 

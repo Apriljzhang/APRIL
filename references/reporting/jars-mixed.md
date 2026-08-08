@@ -100,5 +100,5 @@ Adapted from the mixed methods reporting table currently present in the vault so
 
 ## APRIL routing note
 - `april-03-methodology` should name the mixed design explicitly.
-- `april-04-analysis` should produce a visible integration product.
+- When mixed-methods analysis or reporting is requested, ensure that the authorised deliverable includes an appropriate visible integration product rather than disconnected strand summaries.
 - `april-05-discussion` should state what integration contributed beyond the separate strands.

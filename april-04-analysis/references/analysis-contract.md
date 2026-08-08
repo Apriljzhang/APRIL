@@ -2,7 +2,7 @@
 
 Read this before the selected method card. Every analysis pass must address these requirements, even when a short method card does not repeat them.
 
-First apply `../../references/scope-control.md`. These requirements govern analytic integrity; they do not authorise every possible analysis artifact or manuscript section. Maintain necessary diagnostics and audit information internally, but deliver only the requested outputs plus essential qualifications.
+First apply `../../references/core/operating-contract.md`, `../../references/core/manuscript-contract.md`, and `../../references/evidence/evidence-integrity.md`. These requirements govern analytic integrity; they do not authorise every possible analysis artifact or manuscript section. Maintain necessary diagnostics and audit information internally, but deliver only the requested outputs plus essential qualifications.
 
 ## Before fitting
 

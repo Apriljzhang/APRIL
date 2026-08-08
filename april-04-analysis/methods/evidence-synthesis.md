@@ -15,7 +15,7 @@ Use for systematic reviews, scoping reviews, quantitative meta-analysis, qualita
 9. Distinguish absence of evidence from evidence of absence and calibrate certainty to study limitations and heterogeneity.
 
 ## Reporting
-Use PRISMA or another review-specific standard required by the field. For quantitative meta-analysis, also apply JARS–Quant Table 9; for qualitative meta-analysis, apply JARS–Qual Table 2.
+Read `../../references/reporting/prisma.md` and use the current PRISMA or other review-specific standard required by the field. For quantitative meta-analysis, also apply JARS–Quant Table 9; for qualitative meta-analysis, apply JARS–Qual Table 2.
 
 ## Core references
 Use `../references/method-citations.md`: Page et al. (2021) for PRISMA reporting, plus the design-appropriate local synthesis source for analytic decisions.

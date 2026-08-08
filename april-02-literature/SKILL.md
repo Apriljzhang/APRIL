@@ -10,7 +10,9 @@ description: >-
 
 ## Scope control (mandatory)
 
-Read `../references/scope-control.md` before acting. Search, synthesise, or draft only within the requested literature scope; do not continue into other manuscript sections.
+Read `../references/core/operating-contract.md` before acting. Search, synthesise, or draft only within the requested literature scope; do not continue into other manuscript sections.
+
+Preserve prior decisions through `../references/core/manuscript-contract.md` and apply `../references/evidence/evidence-integrity.md` to every search, synthesis, citation, and quotation task.
 
 ## Goal
 Build a credible, synthesised evidence base. Prefer the user’s local library and PDFs when available.
@@ -21,7 +23,7 @@ Build a credible, synthesised evidence base. Prefer the user’s local library a
 2. **Collect** — public sources and/or local Zotero (see Zotero section).
 3. **Triage** — living matrix: claim → source → quality/role (support, conflict, method).
 4. **Synthesise by debate/theme**, not paper-by-paper dumping.
-5. **Pin quotes** from local PDFs when page-accurate citation is needed. Read `references/pdf-quote-search.md` before running APRIL's integrated locator.
+5. **Pin quotes** from local PDFs when page-accurate citation is needed. Read `../references/evidence/pdf-quote-search.md` before running APRIL's integrated locator.
 6. **Integrity gate** — no invented DOIs/pages; flag unverified items.
 7. Hand matrix to methodology or drafting stages.
 
@@ -45,7 +47,7 @@ Use Zotero search for discovery inside the user’s collection only — not as a
 
 ## Local PDF quote pinning (APRIL tool)
 
-Read `references/pdf-quote-search.md` for the full workflow, match modes, output fields, and page-number integrity rules. This capability is part of APRIL Literature; do not invoke or require a separate PDF quote-finder skill.
+Read `../references/evidence/pdf-quote-search.md` for the full workflow, match modes, output fields, and page-number integrity rules. This capability is part of APRIL Literature; do not invoke or require a separate PDF quote-finder skill.
 
 ```bash
 APRIL_ROOT="${CODEX_HOME:-$HOME/.codex}/skills/APRIL"
@@ -63,7 +65,7 @@ Match modes: auto (default), exact, compact, punctuation, fuzzy. No embeddings/L
 Search log; inclusion table; synthesis matrix; quote pins (file + page); citation risk list.
 
 ## Genre calibration
-Keep the literature workflow article-oriented by default. Use `../references/academic-genres.md` only for light genre adjustments when needed.
+Keep the literature workflow article-oriented by default. Use `../references/genres/academic-genres.md` only for light genre adjustments when needed.
 
 For journal articles, compress toward debate, gap, and contribution. Only expand the scaffolding when the user explicitly needs a non-article genre.
 
@@ -71,8 +73,8 @@ For journal articles, compress toward debate, gap, and contribution. Only expand
 See `references/prompt-bank.md`.
 
 ## JARS (literature)
-- Read `../references/jars/SKILL.md`, then use the Introduction and relevant-scholarship items in the applicable complete Quant, Qual, or Mixed checklist.
-- Apply `../references/jars/jars-rec.md` citation praxis: diversify sources, avoid unread “classics,” credit specialty and local-language work when relevant.
+- Read `../references/reporting/reporting-router.md`, then use the Introduction and relevant-scholarship items in the applicable complete Quant, Qual, or Mixed checklist.
+- Apply `../references/reporting/jars-rec.md` citation praxis: diversify sources, avoid unread “classics,” credit specialty and local-language work when relevant.
 
 
 ---

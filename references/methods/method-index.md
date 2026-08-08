@@ -14,7 +14,7 @@ Use two routing levels: **primary approach** describes the evidence logic; **ana
 ## Selection sequence
 1. Classify the RQ and intended claim under a primary approach.
 2. Select the analytical family from the data structure, estimand, and design.
-3. Open the primary card. Read `analysis-contract.md` before execution.
+3. Open the primary card under `../../april-04-analysis/methods/`. Read `../../april-04-analysis/references/analysis-contract.md` before execution.
 4. Add support cards or modules only when needed. For genuinely distinct methods, specify and validate each analysis separately and state the integration point.
 
 ## Quantitative

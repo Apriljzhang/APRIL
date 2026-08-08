@@ -1,10 +1,10 @@
 # APRIL-native references
 
-- `./sentence-bridging.md` — inter-sentence cohesion (concept overlap, anaphora, semicolon/relative clause)
-- `./confident-qualification.md` — confident assertion, qualification placement, generic-caveat repair, and safe exemplar learning
-- `./manchester-phrasebank.md` — Manchester Academic Phrasebank–inspired functions
-- Discussion phrases: `../../april-05-discussion/references/discussion-phrases.md`
-- JARS–REC language: `../../references/jars/jars-rec.md`
-- Genre calibration: `../../references/academic-genres.md`
+- `../../references/rhetoric/sentence-bridging.md` — inter-sentence cohesion (concept overlap, anaphora, semicolon/relative clause)
+- `../../references/rhetoric/confident-qualification.md` — confident assertion, qualification placement, generic-caveat repair, and safe exemplar learning
+- `../../references/rhetoric/manchester-phrasebank.md` — Manchester Academic Phrasebank–inspired functions
+- Discussion moves: `../../references/rhetoric/discussion-moves.md`
+- JARS–REC language: `../../references/reporting/jars-rec.md`
+- Genre calibration: `../../references/genres/academic-genres.md`
 - Phrasebank site: https://www.phrasebank.manchester.ac.uk/
 - Local source PDF: `Academic-Phrasebank-Navigable-PDF-2021.pdf`

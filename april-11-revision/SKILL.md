@@ -9,7 +9,9 @@ description: >-
 
 ## Scope control (mandatory)
 
-Read `../references/scope-control.md` before acting. Revise only the requested comments, sections, and response artifacts; do not expand into unrelated manuscript changes or new analyses.
+Read `../references/core/operating-contract.md` before acting. Revise only the requested comments, sections, and response artifacts; do not expand into unrelated manuscript changes or new analyses.
+
+Read `../references/core/manuscript-contract.md` to preserve settled decisions and apply `../references/evidence/evidence-integrity.md` before changing any evidentiary or numerical claim.
 
 ## Workflow
 1. Ingest review output (april-10) and/or external reviewer letters.
@@ -24,7 +26,7 @@ Read `../references/scope-control.md` before acting. Revise only the requested c
 Professional, specific, non-defensive. Thank reviewers; do not argue personality.
 
 ## JARS gaps
-When reviewers or april-10 flag reporting omissions, read `../references/jars/SKILL.md` and the complete applicable checklist before editing. Close Method diagnostics, Results completeness, Discussion generality/transferability, Abstract elements, and relevant REC detail explicitly. The response letter may cite JARS item categories without legalistic tone.
+When reviewers or april-10 flag reporting omissions, read `../references/reporting/reporting-router.md` and the complete applicable checklist before editing. Close Method diagnostics, Results completeness, Discussion generality/transferability, Abstract elements, and relevant REC detail explicitly. The response letter may cite JARS item categories without legalistic tone.
 
 ## Genre guardrail
 When revising, preserve the journal-article contract. Do not solve article weaknesses by expanding the text into thesis-, proposal-, or chapter-style scaffolding unless the user is explicitly writing one of those genres.

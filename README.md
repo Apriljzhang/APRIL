@@ -2,7 +2,7 @@
 
 **APRIL** helps you plan, write, and revise academic journal papers—from research questions through analysis, discussion, language polish, formatting, peer-style review, and revision.
 
-It works as a **staged skill suite** in Cursor: you load one stage at a time so the agent focuses on that part of the manuscript instead of generating a whole paper in one shot.
+It works as a **staged skill suite**: load one stage at a time so the agent focuses on the requested part of the manuscript instead of generating a whole paper in one shot. Shared contracts and reference families live in `references/` as APRIL Commons; they are internal resources, not extra skills.
 
 ## What APRIL helps with
 
@@ -29,7 +29,7 @@ It works as a **staged skill suite** in Cursor: you load one stage at a time so 
 
 | Stage | Skill | Helps you… |
 |---|---|---|
-| 01 | [`april-01-ideation`](april-01-ideation/SKILL.md) | Shape topic, purpose, and RQs |
+| 01 | [`april-01-ideation`](april-01-ideation/SKILL.md) | Actively question and shape the problem, purpose, contribution, and RQs |
 | 02 | [`april-02-literature`](april-02-literature/SKILL.md) | Build the literature base |
 | 03 | [`april-03-methodology`](april-03-methodology/SKILL.md) | Design the study |
 | 04 | [`april-04-analysis`](april-04-analysis/SKILL.md) | Analyse data and write findings |

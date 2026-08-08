@@ -14,7 +14,9 @@ description: >-
 
 ## Scope control (mandatory)
 
-Read `../references/scope-control.md` before acting. Edit only the supplied or explicitly named text, section, or file. Do not add new arguments, evidence, sections, or a manuscript-wide rewrite unless requested.
+Read `../references/core/operating-contract.md` before acting. Edit only the supplied or explicitly named text, section, or file. Do not add new arguments, evidence, sections, or a manuscript-wide rewrite unless requested.
+
+Use `../references/core/manuscript-contract.md` to preserve locked terminology and claims, and `../references/evidence/evidence-integrity.md` whenever editing citations, quotations, data, or findings.
 
 Edit substantive prose after its argument and evidence are stable. Treat naturalness, cohesion, and disciplinary fit as one language task, not as a separate humanizer pass.
 
@@ -51,7 +53,7 @@ Natural academic prose depends on logical movement, not decorative vocabulary or
 
 ### Sentence bridging
 
-Apply `references/sentence-bridging.md` at every sentence boundary:
+Apply `../references/rhetoric/sentence-bridging.md` at every sentence boundary:
 
 1. Reopen a concept from the previous sentence as given information.
 2. Use a precise demonstrative phrase such as *this distinction*, *these findings*, or *this account*.
@@ -79,13 +81,13 @@ Useful revisions include combining related short sentences, splitting an overloa
 
 ## Academic moves
 
-Read `references/manchester-phrasebank.md` for introducing work, referring to sources, describing methods, reporting results, discussing findings, drawing conclusions, being critical, being cautious, comparing, explaining causality, and signalling transitions.
+Read `../references/rhetoric/manchester-phrasebank.md` for introducing work, referring to sources, describing methods, reporting results, discussing findings, drawing conclusions, being critical, being cautious, comparing, explaining causality, and signalling transitions.
 
 Use Phrasebank stems as rhetorical tools, not templates. A common academic phrase is not a problem when it accurately performs a needed function. Adapt one useful stem and continue in the author's own voice.
 
-For Discussion prose, also use `../april-05-discussion/references/discussion-phrases.md`. The Discussion guide controls move order; the Phrasebank supplies a wider rhetorical repertoire.
+For Discussion prose, also use `../references/rhetoric/discussion-moves.md`. The Discussion guide controls move order; the Phrasebank supplies a wider rhetorical repertoire.
 
-Read `references/confident-qualification.md` when prose is over-defensive, repeats generic caveats, disperses limitations across the manuscript, or must learn rhetorical logic from an exemplar paper without copying its language.
+Read `../references/rhetoric/confident-qualification.md` when prose is over-defensive, repeats generic caveats, disperses limitations across the manuscript, or must learn rhetorical logic from an exemplar paper without copying its language.
 
 ## Domain calibration
 
@@ -112,7 +114,7 @@ For general social-science manuscripts:
 
 ## Bias-free and REC wording
 
-Read `../references/jars/SKILL.md`, then follow `../references/jars/jars-rec.md` for race, ethnicity, culture, positionality, population context, and limits on generality. Prefer the community's or study's chosen labels. Do not silently modernise identity terms when that would alter source meaning.
+Read `../references/reporting/reporting-router.md`, then follow `../references/reporting/jars-rec.md` for race, ethnicity, culture, positionality, population context, and limits on generality. Prefer the community's or study's chosen labels. Do not silently modernise identity terms when that would alter source meaning.
 
 ## Section calibration
 
@@ -338,7 +340,7 @@ Provide the revised text and a short note covering substantive language decision
 
 ## Genre calibration
 
-Default to compressed journal-article prose with visible contribution and tight paragraph economy. Use `../references/academic-genres.md` only when the user is clearly writing another genre.
+Default to compressed journal-article prose with visible contribution and tight paragraph economy. Use `../references/genres/academic-genres.md` only when the user is clearly writing another genre.
 
 
 ---

@@ -1,16 +1,18 @@
----
-name: april-jars
-description: >-
-  APRIL hub for APA Style Journal Article Reporting Standards (JARS): Quant,
-  Qual, Mixed (MMARS), and Race/Ethnicity/Culture (JARS-REC). Route authors and
-  reviewers to stage-mapped checklists.
----
+# APRIL reporting-standards router
 
-# APRIL — APA Style JARS
+Reporting standards govern what must be disclosed. They do not establish that a design, analysis, or inference is valid. Select methods first, then use the applicable reporting standards to check transparency and completeness.
 
-Use [APA Style JARS](https://apastyle.apa.org/jars) as the transparency/reporting contract alongside APRIL house style (British English, APA citations, etc.).
+## Precedence and selection
 
-## Mandatory loading sequence
+1. Follow the user's explicit requirements and the target journal's current author instructions.
+2. Identify the study or review design.
+3. Apply the relevant design-specific standard when required, such as PRISMA for systematic/scoping reviews, CONSORT for randomised trials, STROBE for observational studies, or COREQ for appropriate qualitative interview/focus-group studies.
+4. For empirical behavioural and social-science articles, apply the relevant [APA Style JARS](https://apastyle.apa.org/jars) pack as a transparency baseline.
+5. Apply APRIL formatting and language preferences only after higher-priority requirements.
+
+APRIL currently bundles operational JARS checklists and concise PRISMA notes. Do not claim that an unbundled reporting standard has been checked; consult its current official checklist when needed.
+
+## JARS loading sequence
 
 1. Identify whether the manuscript is quantitative, qualitative, or genuinely mixed methods.
 2. Read the applicable checklist file in full. For mixed methods, read `jars-mixed.md`, `jars-qual.md`, and `jars-quant.md`; MMARS adds integration requirements but does not replace strand-specific standards.
@@ -37,6 +39,10 @@ Do not treat a directory pointer as a completed JARS check. The checklist files 
 
 These are reporting standards, not a universal substitute for design-specific guidance such as CONSORT, PRISMA, STROBE, COREQ, or discipline- and journal-specific requirements.
 
+## Review and synthesis route
+
+For systematic or scoping reviews, read `prisma.md` and the current official PRISMA materials required for the review type. Also apply JARS–Quant Table 9 for quantitative meta-analysis, JARS–Qual Table 2 for qualitative meta-analysis, and all applicable strand and integration items for mixed synthesis.
+
 ## Stage map
 | APRIL stage | JARS focus |
 |---|---|
@@ -45,8 +51,7 @@ These are reporting standards, not a universal substitute for design-specific gu
 | 03 methodology | Method overview, participants, sampling, measures, diagnostics plan, integrity |
 | 04 analysis | Results/Findings reporting (stats or themes); REC analytic choices |
 | 05 discussion | Support/nonsupport, interpretation, generality/transferability, implications |
-| 06 framing | Introduction problem / review / aims (Quant+Qual) |
-| 07 abstract | Abstract elements for Quant / Qual / Mixed + REC |
+| 06 framing | Introduction problem/review/aims and Abstract elements for Quant/Qual/Mixed + REC |
 | 08 language | Bias-free / precise REC terminology (with house style) |
 | 09 formatting | Pre-submission JARS gate + title/author-note items |
 | 10 review | Score manuscript against applicable JARS pack |
@@ -54,8 +59,3 @@ These are reporting standards, not a universal substitute for design-specific gu
 
 ## Integrity
 Do not invent compliance. Mark each item **met**, **not met**, **not applicable**, or **unclear**, with a manuscript location or required repair. Do not write empty boilerplate for inapplicable items.
-
-
----
-**APRIL — Academic Research Skills by April** (Academic Paper Research & Inquiry Lab)
-Source frame: APA Style JARS (https://apastyle.apa.org/jars). Distilled for APRIL stage use; select items that apply.

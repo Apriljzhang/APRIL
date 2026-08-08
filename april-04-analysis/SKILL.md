@@ -15,14 +15,16 @@ description: >-
 
 ## Scope control (mandatory)
 
-Read `../references/scope-control.md` before acting. Data and a manuscript provide analytic context, not authorisation to draft the whole paper. Limit output to the requested analysis, diagnostics, tables/figures, Results/Findings, or bounded interpretation.
+Read `../references/core/operating-contract.md` before acting. Data and a manuscript provide analytic context, not authorisation to draft the whole paper. Limit output to the requested analysis, diagnostics, tables/figures, Results/Findings, or bounded interpretation.
+
+Preserve the study and deliverable decisions through `../references/core/manuscript-contract.md`. Apply `../references/evidence/evidence-integrity.md` to data, model output, tables, figures, quotations, and prose.
 
 ## Goal
 Select, execute, diagnose, and report the requested defensible substantive analysis without inventing evidence or unrelated manuscript content.
 
 ## Routing
 1. Inventory the uploaded files, variable descriptions, design, RQs/hypotheses, requested deliverables, excluded sections, and stopping point. Do not fit a model until the unit of analysis and outcome are identifiable.
-2. Read `references/method-index.md`; record the primary approach, analytical family, and card. Then read `references/analysis-contract.md`.
+2. Read `../references/methods/method-index.md`; record the primary approach, analytical family, and card. Then read `references/analysis-contract.md`.
 3. For an end-to-end empirical request involving uploaded tabular data, read `references/empirical-analysis-workflow.md`.
 4. Open the primary substantive file under `methods/`; record why its approach and family match the RQ, outcome/data form, design, dependence, and estimand. Add a second substantive card only for a distinct RQ or genuinely multi-method design, and execute it as a separately specified analysis before integration.
 5. Read `references/method-citations.md`; route each methodological claim to a source listed for that card and verify page-specific claims in the local PDF/Markdown.
@@ -45,12 +47,12 @@ Select, execute, diagnose, and report the requested defensible substantive analy
 - Separate analytic validity from reporting completeness: JARS can reveal omissions but cannot validate a model or identification strategy.
 
 ## JARS (Results / Findings)
-Read `../references/jars/SKILL.md`, then use the complete applicable checklist:
+Read `../references/reporting/reporting-router.md`, then use the complete applicable checklist:
 
 - **Quant:** effect sizes/intervals and primary versus secondary/exploratory reporting, plus relevant modules for experiments, longitudinal work, N-of-1, replication, SEM, Bayesian analysis, and meta-analysis.
 - **Qual:** themes/categories with evidentiary excerpts, analytic transparency, and methodological integrity.
 - **Mixed:** explicit integration products such as joint displays, merged summaries, connected inferences, transformed data, or meta-inferences.
-- **REC:** apply `../references/jars/jars-rec.md` whenever race, ethnicity, or culture enters sampling, coding, modeling, interpretation, subgroup reporting, or discussion.
+- **REC:** apply `../references/reporting/jars-rec.md` whenever race, ethnicity, or culture enters sampling, coding, modeling, interpretation, subgroup reporting, or discussion.
 
 ---
 **APRIL - Academic Research Skills by April** (Academic Paper Research & Inquiry Lab)

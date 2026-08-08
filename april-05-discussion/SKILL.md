@@ -10,7 +10,9 @@ description: >-
 
 ## Scope control (mandatory)
 
-Read `../references/scope-control.md` before acting. Interpret only the requested locked findings or Discussion component; do not draft the rest of the manuscript or run new analyses.
+Read `../references/core/operating-contract.md` before acting. Interpret only the requested locked findings or Discussion component; do not draft the rest of the manuscript or run new analyses.
+
+Read `../references/core/manuscript-contract.md` to preserve the study's claim boundaries and `../references/evidence/evidence-integrity.md` before connecting findings to sources.
 
 ## Goal
 Interpret findings against prior work without overclaiming.
@@ -18,11 +20,11 @@ Interpret findings against prior work without overclaiming.
 ## Workflow
 1. Restate key findings in plain British English (no new analyses).
 2. For each major finding: literature link → explanation → boundary conditions.
-3. Use Discussion **phrase functions** in `references/discussion-phrases.md` (APA Discussion Phrases Guide–inspired): summarise → link to literature → interpret → limitations → implications → future research → close.
-4. When a literature connection requires page-accurate evidence, read `../april-02-literature/references/pdf-quote-search.md` and use APRIL's integrated local locator. Do not invoke a separate PDF quote-finder skill.
+3. Use Discussion **phrase functions** in `../references/rhetoric/discussion-moves.md` (APA Discussion Phrases Guide–inspired): summarise → link to literature → interpret → limitations → implications → future research → close.
+4. When a literature connection requires page-accurate evidence, read `../references/evidence/pdf-quote-search.md` and use APRIL's integrated local locator. Do not invoke a separate PDF quote-finder skill.
 5. Optional Zotero search (`pz search`) to locate items in the user’s library.
 6. Alternative explanations; specific limitations; proportionate implications.
-7. Read `../references/jars/SKILL.md`; check the Discussion items in the complete applicable Quant, Qual, or Mixed pack, plus relevant REC items.
+7. Read `../references/reporting/reporting-router.md`; check the Discussion items in the complete applicable Quant, Qual, or Mixed pack, plus relevant REC items.
 8. Optional Toulmin structure for contested claims (claim–data–warrant–backing–qualifier–rebuttal).
 9. Finish with `april-08-language` for hedging, natural language dynamics, and Phrasebank discussing-findings moves.
 

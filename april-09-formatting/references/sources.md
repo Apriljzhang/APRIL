@@ -1,5 +1,5 @@
 # APRIL-native references
 
 - `./apa-caption-notes.md`
-- JARS hub: `../../references/jars/`
-- Genre calibration: `../../references/academic-genres.md`
+- JARS hub: `../../references/reporting/`
+- Genre calibration: `../../references/genres/academic-genres.md`

@@ -1,3 +1,3 @@
 # APRIL-native references
 
-- `./prisma-notes.md`
+- `../../references/reporting/prisma.md`

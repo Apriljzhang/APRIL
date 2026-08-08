@@ -11,14 +11,16 @@ description: >-
 
 ## Scope control (mandatory)
 
-Read `../references/scope-control.md` before acting. Produce only the requested design, critique, plan, diagram, or Method text; a pointer to Stage 04 is a handoff, not permission to execute it.
+Read `../references/core/operating-contract.md` before acting. Produce only the requested design, critique, plan, diagram, or Method text; a pointer to Stage 04 is a handoff, not permission to execute it.
+
+Preserve the problem, purpose, RQs, constructs, population, and other settled choices through `../references/core/manuscript-contract.md`. Surface any design requirement that conflicts with them.
 
 ## Goal
 Decide **whether** the design fits the RQs. Critique weaknesses. Produce diagrams. Do **not** run full analyses here → `april-04-analysis`.
 
 ## Workflow
 1. Restate RQs and claim type (describe / compare / explain / evaluate / predict).
-2. Map to a design family (experiment, survey, panel, case, ethnography, mixed, secondary, observational coding, text corpus, etc.), then use `../april-04-analysis/references/method-index.md` to name the primary approach and analytical family.
+2. Map to a design family (experiment, survey, panel, case, ethnography, mixed, secondary, observational coding, text corpus, etc.), then use `../references/methods/method-index.md` to name the primary approach and analytical family.
 3. Choose among close alternatives when relevant:
    - LPA vs LCA vs clustering
    - CLPM vs RI-CLPM
@@ -33,13 +35,13 @@ Decide **whether** the design fits the RQs. Critique weaknesses. Produce diagram
 7. Name the primary `april-04-analysis/methods/*.md` card to execute next. For a justified multi-method design, name each additional substantive card, the distinct RQ/estimand it serves, execution order, and integration point.
 
 ## Systematic reviews
-If SLR/scoping: follow `references/prisma-notes.md` before analysis/synthesis writing.
+If SLR/scoping: follow `../references/reporting/prisma.md` before analysis/synthesis writing.
 
 ## Outputs
 Design rationale; threats table; diagram; pointer to the primary analysis card; and, when justified, a sequenced multi-method and integration plan.
 
 ## JARS (Method)
-Before locking the design write-up, read `../references/jars/SKILL.md`, then run the Method section of `../references/jars/jars-quant.md`, `../references/jars/jars-qual.md`, and/or all three design files for Mixed. Consider `../references/jars/jars-rec.md` for every manuscript and apply its relevant items.
+Before locking the design write-up, read `../references/reporting/reporting-router.md`, then run the Method section of `../references/reporting/jars-quant.md`, `../references/reporting/jars-qual.md`, and/or all three design files for Mixed. Consider `../references/reporting/jars-rec.md` for every manuscript and apply its relevant items.
 
 - **Quant:** name the relevant JARS–Quant module when the design is specialised, not only the general Table 1 checklist:
   - experimental manipulation (`Table 2`)
@@ -55,7 +57,7 @@ Before locking the design write-up, read `../references/jars/SKILL.md`, then run
   - quantitative meta-analysis (`Table 9`)
 - **Qual:** plan researcher description, reflexivity, data-source selection, analytic transparency, and methodological integrity.
 - **Mixed:** name the mixed design explicitly and state the qualitative, quantitative, and integration goals separately.
-- **All designs:** carry relevant REC terminology, sampling, and measurement issues forward from `../references/jars/jars-rec.md`.
+- **All designs:** carry relevant REC terminology, sampling, and measurement issues forward from `../references/reporting/jars-rec.md`.
 
 
 ---

@@ -9,7 +9,9 @@ description: >-
 
 ## Scope control (mandatory)
 
-Read `../references/scope-control.md` before acting. Format only the named document or elements; do not perform substantive rewriting or generate missing manuscript sections unless requested.
+Read `../references/core/operating-contract.md` before acting. Format only the named document or elements; do not perform substantive rewriting or generate missing manuscript sections unless requested.
+
+Read `../references/core/manuscript-contract.md` for the target journal, article type, language, word limit, and locked table/figure decisions.
 
 ## Defaults (override if journal/user specifies)
 - Length: **6,000–8,000 words** (body; exclude refs unless asked).
@@ -39,10 +41,10 @@ For network-analysis outputs:
 - Accompany network plots with edge, bridge, or NCT tables and accuracy/stability results; do not let the graph serve as the sole statistical evidence.
 
 ## JARS pre-submission gate
-Before export, read `../references/jars/SKILL.md` and run the complete applicable pack. For Mixed, run all three design files; consider REC for every manuscript and apply its relevant items. Mark each item met, not met, not applicable, or unclear; record the manuscript location. Prefer official APA checklist PDFs when a journal requires formal JARS attestation.
+Before export, read `../references/reporting/reporting-router.md` and run the complete applicable pack. For Mixed, run all three design files; consider REC for every manuscript and apply its relevant items. Mark each item met, not met, not applicable, or unclear; record the manuscript location. Prefer official APA checklist PDFs when a journal requires formal JARS attestation.
 
 ## Genre calibration
-Formatting rules are genre-dependent, but APRIL should enforce journal-article assumptions unless the user is working in another genre. Check `../references/academic-genres.md` only when needed.
+Formatting rules are genre-dependent, but APRIL should enforce journal-article assumptions unless the user is working in another genre. Check `../references/genres/academic-genres.md` only when needed.
 
 Journal-article default: prioritise the target journal's author guidelines over APRIL house defaults. Only switch to institution, sponsor, or publisher rules when the task is explicitly non-article.
 

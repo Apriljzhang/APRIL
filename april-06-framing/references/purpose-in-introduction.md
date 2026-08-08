@@ -1,6 +1,6 @@
 # APRIL — Purpose in the Introduction
 
-Use with `../../april-01-ideation/references/purpose-statements.md`. Draws on USC-style introduction structure (inverted triangle; niche; roadmap) and CARS-like moves.
+Use with `../../references/framing/purpose-statements.md`. Draws on USC-style introduction structure (inverted triangle; niche; roadmap) and CARS-like moves.
 
 ## Introduction spine (APRIL)
 1. **Territory** — importance of the topic (world and/or discipline).
@@ -18,5 +18,5 @@ Usually late in the Introduction (after problem and gap): past or present tense 
 - [ ] No dictionary-definition opener; no invented gap
 
 ## Cross-links
-- Phrase stems for stating aims: `../../april-08-language/references/manchester-phrasebank.md` (Introducing work)
-- JARS Introduction items: `../../references/jars/`
+- Phrase stems for stating aims: `../../references/rhetoric/manchester-phrasebank.md` (Introducing work)
+- JARS Introduction items: `../../references/reporting/`

@@ -1,8 +1,10 @@
 # Building the Thematic Map
 
+Apply the APRIL operating contract. This file explains how to make maps when a map is requested or needed for an authorised analytic phase; it does not require every map to be created, saved, shared, or inserted into a manuscript.
+
 The thematic map is a visual representation of the analysis. It shows the themes, their sub-themes, and the relationships between them.
 
-Braun and Clarke produce three maps over the analysis — initial (Phase 4), developed (Phase 5), and final (Phase 6). The final map goes into the write-up. The earlier maps are working documents; share them with the user during iteration if useful, but they do not have to be polished.
+Braun and Clarke use initial, developed, and final maps across the analysis. Maintain only the map stages needed for the authorised analysis. Include a final map in the write-up only when the user requests it or it is an agreed component of the Findings deliverable.
 
 ## What the final map should show
 
