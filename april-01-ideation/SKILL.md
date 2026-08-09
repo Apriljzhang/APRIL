@@ -69,9 +69,11 @@ Use only the branches material to the user's request:
 3. **Scholarly position:** established knowledge, tension or uncertainty, evidence needed to substantiate the gap.
 4. **Purpose and contribution:** intended descriptive, comparative, explanatory, evaluative, predictive, interpretive, methodological, or theoretical contribution.
 5. **Concepts and boundaries:** canonical terms, unit of analysis, population, setting, time, inclusions, exclusions, and distinctions that must not be collapsed.
-6. **Questions and hypotheses:** alignment among problem, purpose, RQs, hypothesis status, and answerable claim.
+6. **Questions and hypotheses:** alignment among problem, purpose, RQs, hypothesis status, and answerable claim. Add a mechanism or condition only when theory, design, and feasible evidence justify it.
 7. **Feasibility and ethics:** data access, sampling, measurement, time, expertise, risks, and approvals.
 8. **Design handoff:** information Stage 03 will need; do not choose or execute the full design unless requested.
+
+Optional narrative enhancement: when the user asks for a stronger research story or narrative depth, read `../references/rhetoric/empirical-storytelling.md` and map the evidence-grounded phenomenon or puzzle, possible explanation, and possible condition. Do not make this an extra requirement for ordinary ideation.
 
 ## Outputs
 - Topic statement (≤1 paragraph)

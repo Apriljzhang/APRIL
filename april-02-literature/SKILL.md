@@ -22,7 +22,7 @@ Build a credible, synthesised evidence base. Prefer the user’s local library a
 1. **Scope the search** — databases/years/inclusion–exclusion; record a search log.
 2. **Collect** — public sources and/or local Zotero (see Zotero section).
 3. **Triage** — living matrix: claim → source → quality/role (support, conflict, method).
-4. **Synthesise by debate/theme**, not paper-by-paper dumping.
+4. **Synthesise by debate/theme**, not paper-by-paper dumping. When developing the empirical research story, read `../references/rhetoric/empirical-storytelling.md` and organise the evidence as established account → tension or scope limit → complementary/competing account → unresolved discriminating question. Do not manufacture a debate the sources do not support.
 5. **Pin quotes** from local PDFs when page-accurate citation is needed. Read `../references/evidence/pdf-quote-search.md` before running APRIL's integrated locator.
 6. **Integrity gate** — no invented DOIs/pages; flag unverified items.
 7. Hand matrix to methodology or drafting stages.

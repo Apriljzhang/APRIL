@@ -29,10 +29,12 @@ Decide **whether** the design fits the RQs. Critique weaknesses. Produce diagram
    - fsQCA (configurational sufficiency/necessity) vs net-effects regression/SEM
    - cross-sectional network analysis vs regression/SEM/latent-variable models: use a network only when conditional relations among nodes are the research object
    - one-network estimation vs bridge analysis vs two-network comparison/NCT: require defensible communities for bridge metrics and two commensurable networks for NCT
-4. Specify sampling, measures, procedures, analysis plan, ethics.
+4. Specify sampling, measures, procedures, analysis plan, ethics. Explain why each consequential choice can answer the RQ or address a named validity threat; do not report only how the procedure will be performed.
 5. List validity threats and mitigations.
 6. Provide diagram specs (mermaid/ASCII acceptable): PRISMA flow, path model, multilevel nesting, profile decision tree, QCA solution/configuration map, or network-analysis module decision map.
 7. Name the primary `april-04-analysis/methods/*.md` card to execute next. For a justified multi-method design, name each additional substantive card, the distinct RQ/estimand it serves, execution order, and integration point.
+
+Optional narrative enhancement: when the user asks for an explanatory story, read `../references/rhetoric/empirical-storytelling.md` and distinguish the phenomenon, directly examined mechanism, and tested condition or boundary. Do not add analyses merely to complete that narrative pattern.
 
 ## Systematic reviews
 If SLR/scoping: follow `../references/reporting/prisma.md` before analysis/synthesis writing.

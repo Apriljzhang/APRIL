@@ -20,7 +20,7 @@ Stress-test the manuscript before submission/revision.
 1. **Methodologist** — design, assumptions, analysis–claim fit, missing diagnostics.
 2. **Literature scholar** — coverage, outdated hubs, straw-man gaps, citation integrity.
 3. **Contribution hawk** — what is new vs incremental; overclaim vs underclaim.
-4. **Clarity editor** — structure, topic sentences, undefined jargon, figure/table clarity.
+4. **Clarity editor** — structure, topic sentences, empirical-story coherence, undefined jargon, figure/table clarity. When narrative depth is in scope, read `../references/rhetoric/empirical-storytelling.md` and audit whether the Introduction, Results, Discussion, Conclusion, and Abstract sustain the same evidence-bounded question–answer spine.
 5. **Ethics/integrity** — consent, anonymity, dual use, AI disclosure, data availability claims.
 6. **SSCI / journal editor bar** — fit to outlet, desk-reject risks, reviewer flashpoints. Use `references/ssci-editor-bar.md`.
 
@@ -38,6 +38,8 @@ Do not invent missing data or citations.
 Review against journal-article expectations first. Only use `../references/genres/academic-genres.md` when the draft is clearly for another genre.
 
 Primary flag here: article prose that is too chapter-like, too diffuse, too expository, or too weak on contribution. Use non-article checks only when the draft is explicitly not a journal article.
+
+When narrative depth is explicitly within the review scope, flag table-by-table Results narration, decorative “gaps”, paper-by-paper literature display, unexplained design choices, untested mechanisms presented as findings, compulsory surprises, and boundary conditions that were not evidenced. Do not score optional narrative moves as JARS or methodological requirements. Narrative elegance never compensates for weak identification or missing evidence.
 
 ## JARS compliance (reviewer lens)
 Read `../references/reporting/reporting-router.md`, then score the manuscript against every applicable complete checklist for the declared design. Do not stop at generic compliance; check all relevant Quant modules and all three design files for Mixed.

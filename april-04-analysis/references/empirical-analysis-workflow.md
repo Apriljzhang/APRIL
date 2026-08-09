@@ -62,6 +62,8 @@ Create a model-selection record before estimation:
 | Decision | Selected card/model, rejected alternatives, and reason |
 | Claim boundary | Association, prediction, description, or causal claim actually supported |
 
+For a causal target, add an identification record before selecting the estimator: intervention and counterfactual, target estimand/population, assignment timeline, DAG or design diagram, required assumptions, design-specific diagnostics, and the claim boundary if an assumption fails. Route to the relevant module inside `causal-did-iv.md`; the modules are alternatives within one causal family, not a checklist to run all at once.
+
 Use this routing logic, then read the named card:
 
 | Data/RQ characteristic | Default route | Selection checks |
@@ -71,7 +73,7 @@ Use this routing logic, then read the named card:
 | Randomized groups or repeated experimental contrasts | `experimental-group-comparisons.md` | Assignment, baseline adjustment, repeated structure, multiplicity |
 | Nested, repeated, or panel observations | `multilevel-regression.md` | Level-specific estimand, within-between separation, FE versus RE, cluster count |
 | Mediation, moderation, or conditional effect | `mediation-moderation.md` | Temporal ordering, interaction scale, indirect-effect assumptions, uncertainty |
-| Staggered policy/treatment or valid instrument | `causal-did-iv.md` | Identification assumptions, treatment timing, estimand, diagnostics |
+| Causal intervention, assignment rule, threshold, policy timing, or comparative case | `causal-did-iv.md` | Potential outcomes/DAG, assignment process, design module (randomization, matching, RDD, panel, DiD, IV, synthetic control), estimand, diagnostics |
 | Longitudinal reciprocal constructs | `cross-lagged.md` | Within-person versus between-person target, waves, stationarity constraints |
 | Serially ordered aggregate outcome | `time-series.md` | Trend/seasonality, autocorrelation, horizon, leakage, rolling evaluation |
 | Latent constructs or measurement model | `sem-cfa.md` | Indicator type, identification, estimator, missingness, measurement invariance |
@@ -165,6 +167,8 @@ Do not treat nonsignificance as proof of no effect, a wide interval as equivalen
 ## 9. Draft Results and Discussion-ready prose
 
 Write Results in the order of the hypotheses, not the order in which models were tried. Use this paragraph logic: analysis and estimand → estimate and uncertainty → diagnostic/robustness evidence → hypothesis status → table/figure callout. Match every number to the final table or figure and avoid citations unless they justify a method.
+
+When a research-story presentation is requested, also read `../../references/rhetoric/empirical-storytelling.md`. For each RQ, describe the direction, magnitude, shape, variation, or patterned meaning before stating its interpretation boundary. Report nonlinearities, thresholds, subgroup differences, mechanisms, and unexpected results only when the corresponding analysis or evidence establishes them. Do not convert a table into sentence-by-sentence coefficient narration.
 
 Create a locked findings ledger before prose with `finding_id`, hypothesis, model/output object, estimate, interval, p value or posterior summary, N, sample, interpretation, and claim boundary. Draft only from this ledger.
 

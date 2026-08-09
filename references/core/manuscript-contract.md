@@ -9,6 +9,7 @@ Use this compact record to preserve consequential decisions across APRIL stages.
 | Requested task | Operation, object, deliverables, exclusions, stopping point |
 | Publication target | Journal, article type, audience, author instructions, word limits |
 | Research problem | Concrete problem or unresolved scholarly issue |
+| Optional empirical narrative | Record only when narrative development is requested or material: phenomenon/puzzle; tested or proposed explanation; tested or proposed conditions; bounded answer/contribution |
 | Purpose and contribution | What the study examines and what it may add |
 | Questions and hypotheses | Exact wording; primary, secondary, or exploratory status |
 | Key concepts | Canonical terms, definitions, distinctions, and forbidden conflations |

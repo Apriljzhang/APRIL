@@ -28,6 +28,10 @@ Interpret findings against prior work without overclaiming.
 8. Optional Toulmin structure for contested claims (claim–data–warrant–backing–qualifier–rebuttal).
 9. Finish with `april-07-language` for hedging, natural language dynamics, and Phrasebank discussing-findings moves.
 
+## Optional narrative enhancement
+
+When the user asks for stronger storytelling or narrative depth, read `../references/rhetoric/empirical-storytelling.md`. A useful optional sequence is empirical answer → literature relation → tested mechanism or proposed explanation → evidenced condition/boundary → alternative explanation → contribution. Discuss a surprising, contradictory, null, or deviant pattern only when it genuinely changes the interpretation. These moves are not compulsory Discussion elements.
+
 ## Integrity
 Never invent citations or pages. Do not introduce new results.
 

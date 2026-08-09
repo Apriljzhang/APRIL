@@ -8,7 +8,7 @@ APRIL Commons is an internal reference layer, not a separately invoked skill. Lo
 | Reporting | What study information must be disclosed | `../reporting/reporting-router.md` and applicable standards |
 | Evidence | Citation, quotation, data, and claim integrity | `../evidence/evidence-integrity.md`, `../evidence/pdf-quote-search.md` |
 | Methods | Selection of a defensible analytical family | `../methods/method-index.md`; detailed cards remain in Stage 04 |
-| Rhetoric | Academic moves, stance, cohesion, and house style | files under `../rhetoric/` |
+| Rhetoric | Optional empirical story enhancement, academic moves, stance, cohesion, and house style | `../rhetoric/empirical-storytelling.md` and other files under `../rhetoric/` |
 | Framing | Shared problem, purpose, and contribution distinctions | files under `../framing/` |
 | Genres | Minimal calibration beyond journal articles | `../genres/academic-genres.md` |
 

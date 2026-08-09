@@ -16,7 +16,7 @@ Read `../references/core/manuscript-contract.md` to preserve settled decisions a
 ## Workflow
 1. Ingest review output (`april-09-review`) and/or external reviewer letters.
 2. Build a comment → decision table: accept / partially accept / politely decline (with rationale).
-3. Edit manuscript in priority order (P0 → P1 → P2).
+3. Edit manuscript in priority order (P0 → P1 → P2). When a review flags empirical-story or narrative-depth problems, read `../references/rhetoric/empirical-storytelling.md` and restructure only the authorised sections; do not create new findings, mechanisms, conditions, or citations to complete the story.
 4. Keep a change log (section + what changed + why).
 5. Draft response letter: quote comment → response → location of change.
 6. Re-run `april-07-language` on touched prose; `april-08-formatting` on structure.

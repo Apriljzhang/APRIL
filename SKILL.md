@@ -77,6 +77,7 @@ The target journal's current author instructions override APRIL defaults. Otherw
 - **Evidence and citation integrity:** `references/evidence/evidence-integrity.md`
 - **Local quotation search and page pinning:** `references/evidence/pdf-quote-search.md`
 - **Academic phrase functions:** `references/rhetoric/manchester-phrasebank.md`
+- **Optional empirical research storytelling:** `references/rhetoric/empirical-storytelling.md`
 - **Sentence cohesion:** `references/rhetoric/sentence-bridging.md`
 - **Natural academic language and anti-formulaic editing:** `april-07-language/SKILL.md`
 - **Reflexive thematic analysis:** `april-04-analysis/methods/qualitative-rta.md`, with its detailed reference guide

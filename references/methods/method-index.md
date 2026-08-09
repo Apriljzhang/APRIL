@@ -43,7 +43,7 @@ Use two routing levels: **primary approach** describes the evidence logic; **ana
 | CLPM or RI-CLPM for reciprocal longitudinal relations | `cross-lagged.md` |
 | Time series, interventions in series, or forecasting | `time-series.md` |
 | Ordered behavioural-event transitions or contingencies | `lag-sequential.md` |
-| Causal DiD or instrumental-variable estimation | `causal-did-iv.md` |
+| Causal design and identification (DiD, IV, RDD, matching, panel, synthetic control) | `causal-did-iv.md` |
 
 ### Inferential framework
 

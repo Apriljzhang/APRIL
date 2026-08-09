@@ -51,6 +51,10 @@ Never invent a citation, statistic, participant detail, educational context, the
 
 Natural academic prose depends on logical movement, not decorative vocabulary or random sentence variation.
 
+### Empirical narrative
+
+Read `../references/rhetoric/empirical-storytelling.md` when editing an empirical article for research-story depth. Preserve the article's evidence status while strengthening the progression from phenomenon or puzzle to evidence, bounded explanation, conditions, and contribution. Narrative depth comes from visible reasoning, not dramatic questions, promotional language, fabricated surprises, or untested mechanisms.
+
 ### Sentence bridging
 
 Apply `../references/rhetoric/sentence-bridging.md` at every sentence boundary:
@@ -139,6 +143,7 @@ Read `../references/reporting/reporting-router.md`, then follow `../references/r
 - Keep values, statistical direction, uncertainty, table references, theme names, and evidentiary extracts unchanged unless correcting a verified error.
 - Separate reporting from interpretation according to the journal's convention.
 - Do not translate nonsignificance into *no effect* or association into causation.
+- Describe the substantive pattern, magnitude, shape, or patterned meaning before relying on significance labels; do not add nonlinearities, thresholds, subgroup differences, or anomalies absent from the verified output.
 - Do not smooth participant speech into standard English unless the declared transcription policy permits it.
 
 ### Discussion and conclusion

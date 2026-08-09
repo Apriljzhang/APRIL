@@ -22,6 +22,8 @@ Read `../references/core/manuscript-contract.md` and draft only from verified ar
 6. Briefly indicate the research approach when readers need it to understand what this study does differently.
 7. End with a concise contribution preview and roadmap for the rest of the paper.
 
+Optional narrative enhancement: when the user requests a puzzle-led or deeper empirical story, read `../references/rhetoric/empirical-storytelling.md`. An evidenced phenomenon or contradiction may replace a conventional problem opening, but APRIL must not invent a puzzle or treat that structure as compulsory.
+
 ## Conclusion
 1. Revisit the paper's central question, claim, or problem and answer it with the fuller insight earned by the analysis; do not simply repeat the thesis verbatim.
 2. Synthesise the main takeaway if the paper is long or complex, but push beyond summary toward significance and interpretation.
@@ -46,6 +48,7 @@ Background or problem → aim or research question → method → key results �
 - Match sample sizes, estimates, effect sizes, confidence intervals, theme counts, and other numbers to the Results exactly.
 - Name the design, participants or data sources, analytic approach, and central findings with enough specificity to support indexing and screening.
 - State the contribution or implication in proportion to the evidence; do not replace a result with a promise that results will be discussed.
+- Describe the principal empirical pattern, not merely whether a hypothesis was significant or supported.
 - Do not include citations, undefined abbreviations, quotations, tables, or information absent from the article unless the journal explicitly requires them.
 - Apply `../april-07-language/SKILL.md` and verify the final word count under `../april-08-formatting/SKILL.md`.
 
