@@ -28,6 +28,9 @@ Uploaded manuscripts, datasets, variable descriptions, and references provide co
 | 09 | [`april-09-formatting`](april-09-formatting/SKILL.md) | Apply journal, APA, table, figure, caption, and submission formatting |
 | 10 | [`april-10-review`](april-10-review/SKILL.md) | Review the requested scope through methodological, literature, contribution, clarity, ethics, and journal-editor lenses |
 | 11 | [`april-11-revision`](april-11-revision/SKILL.md) | Revise selected comments or sections and prepare response-to-reviewer materials |
+| 12 | [`april-12-email`](april-12-email/SKILL.md) | Draft and revise clean, clear, warm professional and academic emails |
+
+Stages are numbered consecutively from 01 to 12. Stage 12 is a professional correspondence extension used whenever the user asks for an email; it is not an automatic final step in the manuscript workflow. Emails use dynamic length and paragraph structure, with clear purposes, natural courtesy, and less defensive wording. Journal formatting and reporting checklists apply to manuscripts, not email bodies.
 
 ## APRIL Commons
 

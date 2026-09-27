@@ -64,11 +64,15 @@ Draft a complete manuscript or run the full APRIL pipeline only when the user ex
 | 03 Methodology | Requested design decision, critique, plan, diagram, or Method prose | Data analysis, fabricated results, or full manuscript |
 | 04 Analysis | Requested analysis, diagnostics, tables/figures, Results/Findings, or bounded interpretation | Introduction, literature review, full Method, full Discussion, Conclusion, Abstract, or full manuscript |
 | 05 Discussion | Requested interpretation or Discussion component based on locked findings | New analyses, other manuscript sections, or full manuscript |
-| 06 Framing | Only the specifically named Introduction, Conclusion, Abstract, or subsection | The other framing sections or full manuscript |
+| 06 Framing | Only the specifically named Introduction, Conclusion, or subsection | The other framing sections or full manuscript |
+| 07 Abstract | Requested abstract based on verified manuscript content | New findings, other manuscript sections, or full manuscript |
 | 08 Language | Revision of the supplied or named text/section | New arguments, evidence, sections, or manuscript-wide rewriting |
 | 09 Formatting | Formatting of the named document or requested elements | Substantive rewriting or new manuscript content |
 | 10 Review | Review findings in the requested scope | Silent rewriting or implementation of fixes |
 | 11 Revision | Requested comment responses, edits, change log, or response letter | Unrelated manuscript overhaul or new analyses |
+| 12 Email | Requested clean, clear, warm email draft, reply, translation, or revision | Sending, additional recipients, or commitments not authorised by the user |
+
+For Stage 12, apply scope and factual integrity to the email task. Use its self-contained workflow rather than a manuscript contract, journal formatting, or research reporting checklist.
 
 ## Scope-preserving output
 

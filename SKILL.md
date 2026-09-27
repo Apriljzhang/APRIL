@@ -4,7 +4,7 @@ description: >-
   APRIL — Academic Paper Research & Inquiry Lab. Helps plan, write, and revise
   academic journal papers through staged skills: ideation, literature,
   methodology, analysis, discussion, framing and abstract, language, formatting,
-  review, and revision. Use for a complete article workflow, for choosing the
+  review, revision, and clear, warm professional emails. Use for a complete article workflow, for choosing the
   correct APRIL stage, or when work must comply with APA JARS reporting standards.
   Follow the user's requested stage and deliverables without silently expanding
   into unrequested manuscript sections or a complete paper.
@@ -35,6 +35,9 @@ Read `references/core/operating-contract.md` before routing or producing work. U
 | 09 | `april-09-formatting` | Format to dynamic journal requirements, APA, and caption rules |
 | 10 | `april-10-review` | Review like an editor/referee |
 | 11 | `april-11-revision` | Revise and write the response letter |
+| 12 | `april-12-email` | Write clean, clear, warm professional and academic emails |
+
+Stage 12 is a professional correspondence extension. Route email drafting, replies, translation, and revision to `april-12-email/SKILL.md` whenever requested. It is independent of the manuscript pipeline and uses dynamic message length and paragraph structure; journal formatting and JARS checklists do not apply to the email body.
 
 ## How to use
 
