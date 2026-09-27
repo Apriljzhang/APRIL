@@ -22,11 +22,12 @@ Uploaded manuscripts, datasets, variable descriptions, and references provide co
 | 03 | [`april-03-methodology`](april-03-methodology/SKILL.md) | Select and critique the research design and prepare the analysis handoff |
 | 04 | [`april-04-analysis`](april-04-analysis/SKILL.md) | Select and execute empirical analyses, diagnostics, tables, figures, and requested Results/Findings |
 | 05 | [`april-05-discussion`](april-05-discussion/SKILL.md) | Interpret locked findings against verified literature without introducing new results |
-| 06 | [`april-06-framing`](april-06-framing/SKILL.md) | Draft the specifically requested Introduction, Conclusion, or Abstract |
-| 07 | [`april-07-language`](april-07-language/SKILL.md) | Edit academic prose while preserving evidence, terminology, citations, quotations, and analytic meaning |
-| 08 | [`april-08-formatting`](april-08-formatting/SKILL.md) | Apply journal, APA, table, figure, caption, and submission formatting |
-| 09 | [`april-09-review`](april-09-review/SKILL.md) | Review the requested scope through methodological, literature, contribution, clarity, ethics, and journal-editor lenses |
-| 10 | [`april-10-revision`](april-10-revision/SKILL.md) | Revise selected comments or sections and prepare response-to-reviewer materials |
+| 06 | [`april-06-framing`](april-06-framing/SKILL.md) | Draft the specifically requested Introduction or Conclusion |
+| 07 | [`april-07-abstract`](april-07-abstract/SKILL.md) | Write or revise an evidence-bounded abstract within the target journal's current requirements |
+| 08 | [`april-08-language`](april-08-language/SKILL.md) | Edit academic prose while preserving evidence, terminology, citations, quotations, and analytic meaning |
+| 09 | [`april-09-formatting`](april-09-formatting/SKILL.md) | Apply journal, APA, table, figure, caption, and submission formatting |
+| 10 | [`april-10-review`](april-10-review/SKILL.md) | Review the requested scope through methodological, literature, contribution, clarity, ethics, and journal-editor lenses |
+| 11 | [`april-11-revision`](april-11-revision/SKILL.md) | Revise selected comments or sections and prepare response-to-reviewer materials |
 
 ## APRIL Commons
 
@@ -64,8 +65,8 @@ The user's instruction and the target journal's current requirements override AP
 
 | Setting | Default when unspecified |
 |---|---|
-| Article length | 6,000–8,000 words |
-| Abstract | 200–300 words |
+| Article length | Determine from the target journal's current instructions and article type; no fixed APRIL count |
+| Abstract | Determine from the target journal's current instructions; no fixed APRIL count |
 | Language | British English |
 | Citations and references | APA 7 |
 | Typeface and spacing | Times New Roman 12 pt, double-spaced |
@@ -99,6 +100,8 @@ cd ~/.codex/skills/APRIL
 git pull --ff-only origin main
 git log -1 --oneline
 ```
+
+When APRIL skills or user-specific requirements are changed in a local Codex installation, remind the user to sync the changes to this GitHub repository. Keep Codex and GitHub copies aligned when the user authorises both updates.
 
 ## Integrated local PDF quotation search
 

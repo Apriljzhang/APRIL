@@ -1,15 +1,15 @@
 ---
 name: april-06-framing
 description: >-
-  APRIL stage 06: Introduction, Conclusion, and Abstract — problem, gap, aims,
-  roadmap, closing synthesis, forward agenda, and concise article summaries.
+  APRIL stage 06: Introduction and Conclusion — problem, gap, aims, roadmap,
+  closing synthesis, and forward agenda.
 ---
 
 # april-06-framing
 
 ## Scope control (mandatory)
 
-Read `../references/core/operating-contract.md` before acting. Introduction, Conclusion, and Abstract are independent deliverables: draft only the section or subsection the user names, not all three automatically.
+Read `../references/core/operating-contract.md` before acting. Introduction and Conclusion are independent deliverables: draft only the section or subsection the user names, not both automatically. Abstracts are handled by `april-07-abstract`.
 
 Read `../references/core/manuscript-contract.md` and draft only from verified article decisions and findings. Apply `../references/evidence/evidence-integrity.md` whenever framing depends on literature, data, or numerical results.
 
@@ -34,39 +34,15 @@ Optional narrative enhancement: when the user requests a puzzle-led or deeper em
 7. End with a grounded final move: a larger significance claim, a forward agenda, or a focused question for future work that follows directly from the study.
 8. Do not introduce new evidence, citations, or major arguments in the conclusion.
 
-## Abstract
-
-### Defaults
-Use the target journal's required structure and word limit. When none is supplied, write a 200–300-word abstract and choose structured or unstructured presentation according to disciplinary convention.
-
-### Article spine
-Background or problem → aim or research question → method → key results → implication or contribution.
-
-### Rules
-- Draft the abstract after the article's argument, methods, and results are stable.
-- Make it independently intelligible while keeping every claim traceable to the manuscript.
-- Match sample sizes, estimates, effect sizes, confidence intervals, theme counts, and other numbers to the Results exactly.
-- Name the design, participants or data sources, analytic approach, and central findings with enough specificity to support indexing and screening.
-- State the contribution or implication in proportion to the evidence; do not replace a result with a promise that results will be discussed.
-- Describe the principal empirical pattern, not merely whether a hypothesis was significant or supported.
-- Do not include citations, undefined abbreviations, quotations, tables, or information absent from the article unless the journal explicitly requires them.
-- Apply `../april-07-language/SKILL.md` and verify the final word count under `../april-08-formatting/SKILL.md`.
-
-### JARS abstract check
-Read `../references/reporting/reporting-router.md` and the complete applicable checklist. Include objectives; participants or data sources; method; principal findings; effect sizes and confidence intervals when quantitative; design and analytic strategy when qualitative; the mixed-methods design and integration result when mixed; and relevant race, ethnicity, or cultural context when applicable.
-
-### Abstract genre calibration
-Assume a journal-article abstract. Consult `../references/genres/academic-genres.md` only for a clearly identified nearby genre, such as a proposal summary or book-chapter synopsis.
-
 ## Style
-Topic sentence → evidence/explanation; British English via `april-07-language`.
+Topic sentence → evidence/explanation; British English via `april-08-language`.
 See `references/prompt-bank.md`.
 
 ## Purpose in the Introduction
 Polish the ideation purpose into the Introduction using `references/purpose-in-introduction.md` and `../references/framing/purpose-statements.md`. Read `../references/reporting/reporting-router.md`, then meet the Introduction items in the complete applicable reporting pack.
 
 ## Article genre calibration
-Before drafting the Introduction, Conclusion, or Abstract, assume a journal article unless the user says otherwise. For non-article cases, check `../references/genres/academic-genres.md` only for light calibration.
+Before drafting the Introduction or Conclusion, assume a journal article unless the user says otherwise. For non-article cases, check `../references/genres/academic-genres.md` only for light calibration.
 
 For journal articles, compress quickly to gap, purpose, contribution, and roadmap. Expand beyond that only when the user clearly needs a non-article structure.
 

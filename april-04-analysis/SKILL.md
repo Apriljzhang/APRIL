@@ -32,7 +32,7 @@ Select, execute, diagnose, and report the requested defensible substantive analy
 6. Use `methods/tooling-stata-r-python.md` and `methods/power-analysis.md` only as support cards when needed. For an explicitly requested live RStudio session, also read `references/rstudio-execution.md` before connecting or executing code.
 7. For reflexive TA, follow the detailed guide under `references/rta/`; it remains part of Stage 04.
 8. When the user specifically requests research-story development, narrative depth, or a story-led empirical figure, read `../references/rhetoric/empirical-storytelling.md`. Treat it as optional presentation guidance, and stop before an untested mechanism or full Discussion.
-9. Lock the verified Results/Findings before interpretation. For a full Discussion, pass the locked findings to `april-05-discussion`; style later with `april-07-language`.
+9. Lock the verified Results/Findings before interpretation. For a full Discussion, pass the locked findings to `april-05-discussion`; style later with `april-08-language`.
 
 ## Rules
 - Use one primary analytical family at a time. Allow supporting procedures and within-family modules when they answer aligned RQs and estimands. For genuinely distinct methods, specify, execute, and validate each separately, then integrate findings explicitly.

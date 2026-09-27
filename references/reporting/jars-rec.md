@@ -36,5 +36,5 @@ Adapted from APA Style JARS–REC (2023/2024 tables). Apply **alongside** Quant,
 - Constraints on generality/transferability; optional “Constraints on Generality” subsection.
 - Implications that reach structural barriers, not only individual behaviour change; mitigate misuse/harm risks.
 
-## Citation praxis (stage 02 / 08 / 09)
+## Citation praxis (stage 02 / 09 / 10)
 - Diversify citation; read what you cite; use specialty journals and local-language sources for international work; evaluate citation bias toward privileged “classics.”

@@ -9,7 +9,7 @@ Desk editors scan: fit, contribution clarity, methods transparency, writing qual
 - Inflated generalisability
 - Poor English that obscures argument (separate from accent bias)
 - Missing ethics / consent / conflict statements when required
-- Template-looking AI prose (send to `april-07-language`)
+- Template-looking AI prose (send to `april-08-language`)
 
 ## Bar questions
 1. Would a busy AE understand the contribution in one paragraph?
@@ -44,7 +44,7 @@ Default mode: **full reviewer report** (not quick triage).
 - Key variables + context/population; prefer under 20 words; avoid vague verbs
 
 ### Abstract
-- Complete story (gap → aim → method → findings → implication); match Results numbers; within journal word limit (APRIL default 200–300 unless overridden)
+- Complete story (gap → aim → method → findings → implication); match Results numbers; meet the target journal's current abstract word limit.
 
 ### Introduction
 - Problem → debate → gap → aims/RQs → contribution → roadmap
@@ -76,4 +76,4 @@ Default mode: **full reviewer report** (not quick triage).
 4. Optional rewrite samples for weakest paragraphs
 
 ## Integrity
-Do not invent citations, data, or reviewer identities. Prefer APRIL `april-07-language` and `april-08-formatting` when producing revision prose.
+Do not invent citations, data, or reviewer identities. Prefer APRIL `april-08-language` and `april-09-formatting` when producing revision prose.

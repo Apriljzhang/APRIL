@@ -1,7 +1,7 @@
 ---
-name: april-07-language
+name: april-08-language
 description: >-
-  APRIL stage 07: edit journal-article prose in education, applied linguistics,
+  APRIL stage 08: edit journal-article prose in education, applied linguistics,
   TESOL, and the social sciences for natural language dynamics, British English,
   cohesion, authorial voice, disciplinary precision, calibrated hedging,
   confident qualification placement, exemplar-based rhetorical modelling,
@@ -10,7 +10,7 @@ description: >-
   Avoid habitual "not X but Y" contrasts and paired em-dash clause insertions.
 ---
 
-# april-07-language
+# april-08-language
 
 ## Scope control (mandatory)
 
@@ -33,6 +33,13 @@ Apply these priorities in order. A later preference must not damage an earlier o
 7. Apply APRIL house style unless the journal or user specifies otherwise.
 
 Never invent a citation, statistic, participant detail, educational context, theory, or methodological step to make prose sound more specific.
+
+## Authorial stance and paragraph rhythm
+
+- Write with a clear, assured scholarly voice. Avoid defensive explanations, repeated self-justification, apologetic meta-discourse, and replies to criticisms the reader has not raised.
+- Keep qualifications that materially limit a claim, but state each at the point where it matters and do not repeat the same caveat across neighbouring paragraphs.
+- Let paragraph length and paragraph count follow the section's rhetorical purpose, evidence, and logical development. Do not impose a fixed three-paragraph structure or make paragraphs artificially similar in length.
+- Give each paragraph one coherent job. Combine closely connected points when they develop one line of reasoning; split a paragraph when it carries distinct claims, evidence, or moves. Vary paragraph length naturally without padding or fragmenting the argument.
 
 ## House style
 

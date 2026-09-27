@@ -29,11 +29,12 @@ Read `references/core/operating-contract.md` before routing or producing work. U
 | 03 | `april-03-methodology` | Design the study |
 | 04 | `april-04-analysis` | Analyse data and write findings |
 | 05 | `april-05-discussion` | Interpret results against the literature |
-| 06 | `april-06-framing` | Write Introduction, Conclusion, and Abstract |
-| 07 | `april-07-language` | Polish British English academic style |
-| 08 | `april-08-formatting` | Format length, APA, captions |
-| 09 | `april-09-review` | Review like an editor/referee |
-| 10 | `april-10-revision` | Revise and write the response letter |
+| 06 | `april-06-framing` | Write the Introduction or Conclusion |
+| 07 | `april-07-abstract` | Write or revise the evidence-bounded abstract |
+| 08 | `april-08-language` | Polish academic language while preserving meaning |
+| 09 | `april-09-formatting` | Format to dynamic journal requirements, APA, and caption rules |
+| 10 | `april-10-review` | Review like an editor/referee |
+| 11 | `april-11-revision` | Revise and write the response letter |
 
 ## How to use
 
@@ -62,7 +63,7 @@ If the user is actually writing a proposal, thesis/dissertation chapter, literat
 
 ## Defaults
 
-The target journal's current author instructions override APRIL defaults. Otherwise use British English; paper about 6–8k words; abstract 200–300 words; APA 7; Times New Roman 12pt double-spaced; APA-style table and figure titles and notes.
+The target journal's current author instructions and the user's requirements determine article and abstract length; APRIL has no fixed word-count default. If the target or limit is unknown, verify it or ask before treating a count as final. Other defaults are British English, APA 7, Times New Roman 12pt double-spaced, and APA-style table and figure titles and notes.
 
 ## Scripts
 
@@ -79,11 +80,14 @@ The target journal's current author instructions override APRIL defaults. Otherw
 - **Academic phrase functions:** `references/rhetoric/manchester-phrasebank.md`
 - **Optional empirical research storytelling:** `references/rhetoric/empirical-storytelling.md`
 - **Sentence cohesion:** `references/rhetoric/sentence-bridging.md`
-- **Natural academic language and anti-formulaic editing:** `april-07-language/SKILL.md`
+- **Natural academic language and anti-formulaic editing:** `april-08-language/SKILL.md`
+- **Abstract writing:** `april-07-abstract/SKILL.md`
 - **Reflexive thematic analysis:** `april-04-analysis/methods/qualitative-rta.md`, with its detailed reference guide
 - **Nearby academic genres:** `references/genres/academic-genres.md`, only when the task is not a journal article
 
 Do not assume a resource has been applied merely because it exists in APRIL. Read the routed file before using its guidance.
+
+When APRIL skills or user-specific requirements are changed in a local Codex installation, remind the user to sync the changes to this GitHub repository. Keep Codex and GitHub copies aligned when the user authorises both updates.
 
 ## Separate skills
 

@@ -1,11 +1,11 @@
 ---
-name: april-08-formatting
+name: april-09-formatting
 description: >-
-  APRIL stage 08: manuscript formatting — defaults 6–8k words, TNR 12pt double,
+  APRIL stage 09: manuscript formatting — dynamic target-journal length, TNR 12pt double,
   APA, two-line captions; DOCX/PDF export guidance.
 ---
 
-# april-08-formatting
+# april-09-formatting
 
 ## Scope control (mandatory)
 
@@ -13,9 +13,11 @@ Read `../references/core/operating-contract.md` before acting. Format only the n
 
 Read `../references/core/manuscript-contract.md` for the target journal, article type, language, word limit, and locked table/figure decisions.
 
-## Defaults (override if journal/user specifies)
-- Length: **6,000–8,000 words** (body; exclude refs unless asked).
-- Abstract: **200–300 words** unless the journal specifies otherwise (see `../april-06-framing/SKILL.md`).
+## Length and formatting rules
+- Determine article and abstract word limits from the target journal's current author instructions and the specified article type. Check whether the count includes the abstract, references, tables, or appendices.
+- Do not impose a fixed APRIL word-count default. If no journal or limit is identified, ask for the target or establish a provisional scope with the user before treating any length as a requirement.
+- Keep article length responsive to the journal's current requirements, article type, evidence, and user instructions. Do not cut necessary methods, results, or limitations merely to hit an unsupported generic target; explain the trade-off and ask how to proceed if the manuscript cannot fit.
+- Abstract structure and length follow the journal's current requirements (see `../april-07-abstract/SKILL.md`).
 - Typeface: Times New Roman **12 pt**, **double** spacing (or journal equivalent).
 - Citations/refs: **APA** (latest edition the user names; default APA 7).
 - Tables/figures: **two-line captions** (title line + note/legend line as needed).
@@ -26,7 +28,7 @@ Read `../references/core/manuscript-contract.md` for the target journal, article
 2. Number tables/figures in order of appearance; every one cited in text.
 3. Caption style: Line 1 = Table/Figure N. Title. Line 2 = Note. …
 4. In-text citations match reference list 1:1.
-5. Word count in range (or flag over/under).
+5. Check the correct journal word limits and count exclusions; report the measured count and any overage or ambiguity.
 6. Export: DOCX for submission; PDF for sharing. Prefer user’s existing Office/Quarto pipeline.
 
 ## Tools
