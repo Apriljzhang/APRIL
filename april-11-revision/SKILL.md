@@ -22,6 +22,14 @@ Read `../references/core/manuscript-contract.md` to preserve settled decisions a
 6. Re-run `april-08-language` on touched prose; `april-09-formatting` on structure.
 7. Optional light re-check with `april-10-review` on residual risks only.
 
+## Tracked-change granularity and staging
+
+- Track ordinary revisions at the smallest meaningful unit: word, phrase, clause, or sentence. Do not replace an entire paragraph when a narrower edit can preserve the reader's view of what changed.
+- Use a whole-paragraph insertion or deletion only when the paragraph is genuinely new, removed, or structurally relocated.
+- Add brief Word comments only where they help navigation. Use the reviewer identifier and a short reason, for example: `R2.4 — clarifies the unit of analysis.` Do not turn the manuscript into a response letter.
+- For substantive reviewer revisions, work in at least two genuine editorial batches under the requested author identity. The first and last tracked-change timestamps must be at least ten minutes apart, unless the user explicitly waives this requirement or the task is limited to a minor correction.
+- Use actual editing time. Never backdate, manufacture, or otherwise falsify Word revision metadata to simulate a human editing history. State any timing constraint or exception plainly in the change log.
+
 ## Tone
 Professional, specific, non-defensive. Thank reviewers; do not argue personality.
 
