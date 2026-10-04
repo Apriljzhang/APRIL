@@ -41,6 +41,11 @@ Never invent a citation, statistic, participant detail, educational context, the
 - Let paragraph length and paragraph count follow the section's rhetorical purpose, evidence, and logical development. Do not impose a fixed three-paragraph structure or make paragraphs artificially similar in length.
 - Give each paragraph one coherent job. Combine closely connected points when they develop one line of reasoning; split a paragraph when it carries distinct claims, evidence, or moves. Vary paragraph length naturally without padding or fragmenting the argument.
 
+## Faithful revision methods
+
+- Avoid degradation handling, fallback, hacks, heuristics, local stabilizations, or post-processing bandages that are not faithful general algorithms.
+- Prefer direct, source-faithful editorial decisions. When the evidence or scope does not support a revision, retain the text or flag the issue for author review rather than applying a local workaround.
+
 ## House style
 
 - Use British English spelling and punctuation unless the target journal requires another variety.
@@ -53,6 +58,16 @@ Never invent a citation, statistic, participant detail, educational context, the
 - Keep abbreviations, capitalisation, statistical notation, group names, and construct labels consistent.
 - Permit first person when it clarifies researcher action, reflexivity, or argument and the journal allows it.
 - Use active voice for transparent decisions; use passive voice when the process or object is genuinely the focus.
+
+### Direct argumentative progression
+
+- Avoid roundabout argumentation and defensive framing. Advance the argument directly through a clear claim, its evidence or warrant, and its consequence.
+- Do not overuse *not X but Y*, *rather than*, *since*, *however*, *therefore*, or *not only … but also*. Use these forms only when the logical relationship is necessary and cannot be stated more directly.
+- Do not add unnecessary explanation merely to avoid a discouraged sentence pattern. A first-time reader should not have to work through extra material to recover a straightforward point.
+- Introduce methodological choices through a natural sequence of problem, relevant possibilities, and the rationale for the selected design. Do not move abruptly from a general possibility to the study’s current setting or decision without a connecting rationale.
+- Keep main-text prose clear and intuitive. Stage technical detail where readers need it, rather than accumulating it before its function is apparent.
+- Give each paragraph a distinct rhetorical task. Remove duplication instead of restating a point in slightly different terms.
+- Generic defensive disclaimers, if genuinely necessary for positioning, may appear once in the Introduction and once in the Conclusion. This limit does not remove necessary claim-specific qualifications or a dedicated limitations discussion.
 
 ## Natural language dynamics
 
