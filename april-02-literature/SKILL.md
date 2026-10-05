@@ -23,6 +23,9 @@ Build a credible, synthesised evidence base. Prefer the user’s local library a
 2. **Collect** — public sources and/or local Zotero (see Zotero section).
 3. **Triage** — living matrix: claim → source → quality/role (support, conflict, method).
 4. **Synthesise by debate/theme**, not paper-by-paper dumping. When developing the empirical research story, read `../references/rhetoric/empirical-storytelling.md` and organise the evidence as established account → tension or scope limit → complementary/competing account → unresolved discriminating question. Do not manufacture a debate the sources do not support.
+   - Build each substantive paragraph around a topic sentence that makes a clear, defensible claim. Use the remaining sentences to support, qualify, exemplify, or explain that claim with verified literature. The order may vary, but every sentence should have an identifiable relationship to the paragraph's controlling claim.
+   - Maintain cohesion within and between paragraphs: move from established knowledge to tension, interpretation, or implication; use explicit lexical or logical links; and make the final sentence prepare the next paragraph when the argument continues.
+   - Let paragraph length follow the complexity of the scholarly move. Audit conspicuous runs of similarly sized paragraphs, including narrow bands such as 85–115 words, but do not pad, fragment, or impose artificial variation. Revise structure only when variation improves argument, evidence integration, or readability.
 5. **Pin quotes** from local PDFs when page-accurate citation is needed. Read `../references/evidence/pdf-quote-search.md` before running APRIL's integrated locator.
 6. **Integrity gate** — no invented DOIs/pages; flag unverified items.
 7. Hand matrix to methodology or drafting stages.

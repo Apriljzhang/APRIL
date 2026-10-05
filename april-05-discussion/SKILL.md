@@ -18,15 +18,17 @@ Read `../references/core/manuscript-contract.md` to preserve the study's claim b
 Interpret findings against prior work without overclaiming.
 
 ## Workflow
-1. Restate key findings in plain British English (no new analyses).
-2. For each major finding: literature link → explanation → boundary conditions.
+1. Restate key findings in plain British English (no new analyses). Keep the study's current findings visibly active throughout the section: each interpretive paragraph should be anchored in a specific verified pattern, theme, contrast, or participant account from this study.
+2. For each major finding: empirical anchor → literature link → explanation or warrant → boundary conditions → contribution or implication, using only the moves supported by the evidence. Avoid paragraphs that drift into a generic literature review or mention a finding only in passing.
+   - Give each paragraph a topic sentence that states its interpretive claim. Use subsequent sentences to develop that claim through study evidence, comparison with prior research, explanation, qualification, alternatives, or implications. The order is flexible, but the logic must remain traceable.
+   - Maintain cohesion across paragraphs by signalling whether the next paragraph extends, qualifies, contrasts with, or integrates the previous interpretation. Vary paragraph length according to the interpretive work; do not force uniformity or add filler.
 3. Use Discussion **phrase functions** in `../references/rhetoric/discussion-moves.md` (APA Discussion Phrases Guide–inspired): summarise → link to literature → interpret → limitations → implications → future research → close.
 4. When a literature connection requires page-accurate evidence, read `../references/evidence/pdf-quote-search.md` and use APRIL's integrated local locator. Do not invoke a separate PDF quote-finder skill.
 5. Optional Zotero search (`pz search`) to locate items in the user’s library.
 6. Alternative explanations; specific limitations; proportionate implications.
 7. Read `../references/reporting/reporting-router.md`; check the Discussion items in the complete applicable Quant, Qual, or Mixed pack, plus relevant REC items.
 8. Optional Toulmin structure for contested claims (claim–data–warrant–backing–qualifier–rebuttal).
-9. Finish with `april-08-language` for hedging, natural language dynamics, and Phrasebank discussing-findings moves.
+9. Finish with `april-08-language` for hedging, natural language dynamics, and Phrasebank discussing-findings moves. Ensure the closing move states the study's bounded contribution and hands a clear take-away to any separate Conclusion without adding evidence.
 
 ## Optional narrative enhancement
 

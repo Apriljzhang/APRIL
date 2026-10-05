@@ -31,6 +31,12 @@ Read `../references/core/manuscript-contract.md` for the target journal, article
 5. Check the correct journal word limits and count exclusions; report the measured count and any overage or ambiguity.
 6. Export: DOCX for submission; PDF for sharing. Prefer user’s existing Office/Quarto pipeline.
 
+## Paragraph rhythm and visual flow
+
+- When the user requests paragraph-flow or prose-layout review, inspect length distribution by section and flag conspicuous runs of similarly sized paragraphs, including narrow bands such as 85–115 words. Paragraph length is not an APA compliance rule and no universal target should be imposed.
+- Treat coherence and rhetorical function as the governing criteria. Recommend or apply splitting, merging, or reordering only when authorised and when it strengthens claim–support logic, evidence integration, or transitions; never pad prose or fragment a complete argument merely to manufacture variation.
+- Check that quotations, tables, headings, and page breaks do not create isolated fragments, visually dense blocks, or misleading separation between a claim and its supporting evidence.
+
 ## Tools
 If the user uses Office CLI patterns, keep formatting instructions journal-agnostic; do not invent vendor-specific macros unless they ask.
 
