@@ -3,7 +3,7 @@ name: april-03-methodology
 description: >-
   APRIL stage 03: methodology expert — quantitative and qualitative design choice,
   critique, validity threats, and diagrams (PRISMA, path/CLPM, multilevel, LPA,
-  and network-analysis decision maps).
+  CSDID/staggered-DiD, and network-analysis decision maps).
   Hands execution to april-04-analysis.
 ---
 
@@ -26,12 +26,13 @@ Decide **whether** the design fits the RQs. Critique weaknesses. Produce diagram
    - CLPM vs RI-CLPM
    - STM/topic model vs qualitative coding
    - DiD vs IV vs other identification
+   - conventional DiD/TWFE vs Callaway–Sant'Anna group-time effects for staggered adoption: read `references/csdid-design.md` and lock the estimand, comparison group, timing, and identifying assumptions before implementation
    - fsQCA (configurational sufficiency/necessity) vs net-effects regression/SEM
    - cross-sectional network analysis vs regression/SEM/latent-variable models: use a network only when conditional relations among nodes are the research object
    - one-network estimation vs bridge analysis vs two-network comparison/NCT: require defensible communities for bridge metrics and two commensurable networks for NCT
 4. Specify sampling, measures, procedures, analysis plan, ethics. Explain why each consequential choice can answer the RQ or address a named validity threat; do not report only how the procedure will be performed.
 5. List validity threats and mitigations.
-6. Provide diagram specs (mermaid/ASCII acceptable): PRISMA flow, path model, multilevel nesting, profile decision tree, QCA solution/configuration map, or network-analysis module decision map.
+6. Provide diagram specs (mermaid/ASCII acceptable): PRISMA flow, path model, multilevel nesting, profile decision tree, staggered-DiD cohort-time/valid-comparison map, QCA solution/configuration map, or network-analysis module decision map.
 7. Name the primary `april-04-analysis/methods/*.md` card to execute next. For a justified multi-method design, name each additional substantive card, the distinct RQ/estimand it serves, execution order, and integration point.
 
 Optional narrative enhancement: when the user asks for an explanatory story, read `../references/rhetoric/empirical-storytelling.md` and distinguish the phenomenon, directly examined mechanism, and tested condition or boundary. Do not add analyses merely to complete that narrative pattern.
