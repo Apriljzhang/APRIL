@@ -105,6 +105,12 @@ Vary sentence length and structure when the argument benefits. Avoid a paragraph
 
 Useful revisions include combining related short sentences, splitting an overloaded sentence, moving a contextual phrase, or changing a repeated opening. Preserve cohesion and disciplinary clarity.
 
+### Information density and clarity
+
+Make the information hierarchy easy to follow. A sentence or paragraph becomes difficult to process when several abstract or evaluative terms compete for emphasis, closely related points are repeated, or parallel lists present ideas whose relationship is developmental. Retain the term that carries the claim; remove ornamental synonyms and redundant restatement. Give each sentence a discernible function and each paragraph a governing point, while allowing supporting details to remain where they advance that point.
+
+Where the argument supports it, guide readers through a meaningful progression, such as temporal sequence, levels of analysis, a causal or interpretive chain, or dimensions of comparison. Use transitions and brief restatement to orient the reader when they clarify that progression. Do not add filler, conversational wording, or low-value sentences merely to dilute dense prose, and do not replace necessary technical terms with looser synonyms. Clarity means that readers can identify the main claim and follow how evidence and reasoning develop it; it is not a target word count, a ban on complexity, or an AI-detection heuristic.
+
 ## Academic moves
 
 Read `../references/rhetoric/manchester-phrasebank.md` for introducing work, referring to sources, describing methods, reporting results, discussing findings, drawing conclusions, being critical, being cautious, comparing, explaining causality, and signalling transitions.
@@ -365,8 +371,8 @@ For contested claims, test claim, data, warrant, backing, qualifier, and rebutta
 
 ### Pass 2: Improve language dynamics
 
-4. Repair paragraph purpose, old-to-new flow, sentence links, and rhythm.
-5. Remove inflation, promotional wording, vague attribution, repetition, and empty evaluation.
+4. Repair paragraph purpose, old-to-new flow, sentence links, and rhythm; check whether key claims and evidence remain visible within the information density.
+5. Remove inflation, promotional wording, vague attribution, repetition, competing near-synonyms, and empty evaluation while retaining terms that carry disciplinary meaning.
 6. Localise qualifications: retain claim-specific boundaries beside the claim and move repeated study-level caveats to the limitations passage. When editing an isolated excerpt and that destination is unavailable, retain one specific study-level qualification and flag it for later consolidation.
 7. Tighten hedging without increasing certainty.
 8. Restore term consistency and disciplinary precision.
