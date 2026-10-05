@@ -2,7 +2,8 @@
 name: april-10-review
 description: >-
   APRIL stage 10: multi-persona review plus SSCI/journal editor bar — coherence,
-  methods, contribution, ethics, language, and desk-reject risks.
+  methods, contribution, ethics, responsible-authorship/absent-author signals,
+  language, and desk-reject risks.
 ---
 
 # april-10-review
@@ -22,17 +23,21 @@ Stress-test the manuscript before submission/revision.
 3. **Contribution hawk** — what is new vs incremental; overclaim vs underclaim.
 4. **Clarity editor** — structure, topic sentences, empirical-story coherence, undefined jargon, figure/table clarity. When narrative depth is in scope, read `../references/rhetoric/empirical-storytelling.md` and audit whether the Introduction, Results, Discussion, Conclusion, and Abstract sustain the same evidence-bounded question–answer spine.
 5. **Ethics/integrity** — consent, anonymity, dual use, AI disclosure, data availability claims.
-6. **SSCI / journal editor bar** — fit to outlet, desk-reject risks, reviewer flashpoints. Use `references/ssci-editor-bar.md`.
+6. **Absent-author integrity screen (conditional)** — when the user requests it or the manuscript presents concrete stewardship or verification concerns, read `references/absent-author-screen.md`. Apply its confidentiality/policy gate first. Assess checkable presentation, research-steering, verification, and artifact evidence; never estimate an AI-authorship probability or infer misconduct from style alone.
+7. **SSCI / journal editor bar** — fit to outlet, desk-reject risks, reviewer flashpoints. Use `references/ssci-editor-bar.md`.
 
 ## Output format
 For each persona: 3–7 concrete issues ranked P0/P1/P2 with suggested fix location (section).
 End with a **priority fix list** (max 10) for `april-11-revision`, using `references/revision-roadmap.md`.
+
+When the absent-author screen runs, add its separate W/R/Q/flags/auditability card, location-and-quotation evidence table, counter-evidence, neutral review-ready paragraph, and confidential editor questions. Keep its ratings distinct from the P0/P1/P2 repair priorities and from the manuscript's acceptance recommendation.
 
 Persona prompts: `references/persona-cards.md`.
 
 ## Rules
 Do not rewrite the whole paper here. Flag; leave drafting to revision.
 Do not invent missing data or citations.
+Do not call a paper or passage AI-generated from detector scores or stylistic traces. Public-facing review comments must state only verifiable manuscript defects; provenance or responsible-authorship concerns belong in a confidential editor note framed as questions the authors can answer.
 
 ## Genre-fit review
 Review against journal-article expectations first. Only use `../references/genres/academic-genres.md` when the draft is clearly for another genre.
