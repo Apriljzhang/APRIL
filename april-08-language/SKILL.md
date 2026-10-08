@@ -170,6 +170,7 @@ Read `../references/reporting/reporting-router.md`, then follow `../references/r
 
 - Keep values, statistical direction, uncertainty, table references, theme names, and evidentiary extracts unchanged unless correcting a verified error.
 - Separate reporting from interpretation according to the journal's convention.
+- In a standalone Results section, report the estimate, interval, comparison, pattern, or extract with the context needed to understand it accurately. Review repeated `result + however/nevertheless + generic retreat` sentences: remove a defensive add-on when it contributes no evidence or necessary qualification. Discuss possible explanations and study-wide limits in their appropriate sections. Retain uncertainty and claim-specific boundaries, and follow the journal's convention when Results and Discussion are combined.
 - Do not translate nonsignificance into *no effect* or association into causation.
 - Describe the substantive pattern, magnitude, shape, or patterned meaning before relying on significance labels; do not add nonlinearities, thresholds, subgroup differences, or anomalies absent from the verified output.
 - Do not smooth participant speech into standard English unless the declared transcription policy permits it.
@@ -204,7 +205,7 @@ Use these recommendations when they improve the manuscript's precision or review
 ### Preserve section-level coherence
 
 - When revising a complete article, keep the Discussion opening focused on the central findings and contribution rather than repeating the Introduction's background.
-- When a null or unsupported result is central, give it enough interpretation to explain what the data do and do not establish, including relevant precision, design, or measurement limits. Do not translate nonsignificance into proof of no effect.
+- When a null or unsupported result is central, report the observed pattern or estimate and, where applicable, its precision in Results. Explain in Discussion what the data do and do not establish, including relevant design or measurement limits. Do not translate nonsignificance into proof of no effect; adapt this division when the journal combines the sections.
 - Present a small number of consequential limitations when appropriate. Explain the consequence of each and, where feasible, the kind of evidence or design that could address it. A limitation should bound the conclusion rather than overturn it rhetorically unless it genuinely undermines the claim.
 - Write figure captions so readers can understand the figure without the main text: identify what it shows, the data or sample, units, panels, abbreviations, and relevant analysis or uncertainty information. Add only details supported by the manuscript and output.
 
