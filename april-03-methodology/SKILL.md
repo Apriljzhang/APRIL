@@ -37,6 +37,14 @@ Decide **whether** the design fits the RQs. Critique weaknesses. Produce diagram
 
 Optional narrative enhancement: when the user asks for an explanatory story, read `../references/rhetoric/empirical-storytelling.md` and distinguish the phenomenon, directly examined mechanism, and tested condition or boundary. Do not add analyses merely to complete that narrative pattern.
 
+## Thematic analysis design
+
+When the RQ calls for patterned meaning in qualitative material, name the form of thematic analysis before planning its procedures: reflexive, codebook, or coding-reliability TA. Align the choice with the epistemology, researcher role, intended analytic product, and quality criteria. Route reflexive TA to `april-04-analysis/methods/qualitative-rta.md`; route a structured codebook or coding-reliability design to `april-04-analysis/methods/qualitative-coding-analysis.md` when no more specific method applies. Do not describe a fixed codebook, consensus coding, or inter-rater agreement as reflexive TA.
+
+For an AI-assisted codebook design, plan a traceable path from protected transcripts to meaning-based segments, initial codes, a documented and revisable codebook, contextual pattern comparison, candidate themes, exceptions, and source-linked claims and quotations. Specify a corpus and metadata audit; case, speaker, and segment identifiers; familiarisation and analytic memos; pilot coding of varied material; code definitions and inclusion/exclusion boundaries; human review of code changes; and how contradictory, partial, or boundary cases will be examined. Compare across cases only when cases are defined, and do not infer theme importance from code counts alone. Decide whether consent and data governance permit AI processing, and how original wording and identifying information will be protected.
+
+When interpretive themes are the intended output, distinguish a topic or category from a theme by stating the pattern of meaning, its central organising concept, and how it answers the RQ. If the design instead calls for topic summaries, label them accurately. For reflexive TA, plan recursive familiarisation, coding, theme development, review, and reflexive memoing without imposing the codebook pipeline or its reliability criteria. In every approach, the researcher judges theme quality and owns the interpretation; software may help organise, retrieve, and compare material but cannot supply an evidentiary warrant on its own.
+
 ## Systematic reviews
 If SLR/scoping: follow `../references/reporting/prisma.md` before analysis/synthesis writing.
 
