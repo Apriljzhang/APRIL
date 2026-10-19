@@ -67,7 +67,7 @@ Never invent a citation, statistic, participant detail, educational context, the
 - Introduce methodological choices through a natural sequence of problem, relevant possibilities, and the rationale for the selected design. Do not move abruptly from a general possibility to the study’s current setting or decision without a connecting rationale.
 - Keep main-text prose clear and intuitive. Stage technical detail where readers need it, rather than accumulating it before its function is apparent.
 - Give each paragraph a distinct rhetorical task. Remove duplication instead of restating a point in slightly different terms.
-- Generic defensive disclaimers, if genuinely necessary for positioning, may appear once in the Introduction and once in the Conclusion. This limit does not remove necessary claim-specific qualifications or a dedicated limitations discussion.
+- Judge disclaimer-like wording by its function, not by a section quota. Remove author-, model-, or process-protective apologies, effort claims, generic disclaimers, and pre-emptive defences that do no substantive work. Retain genuine uncertainty, assumptions, alternative explanations, reproducibility or access limits, concrete risks, and required disclosures when they inform interpretation or action. In a mixed sentence, remove only the self-protective clause and preserve the claim's meaning and evidential strength, citation scope, conditions, and commitments. If its function is uncertain, retain it and flag it for author review. Record a removal in the ordinary brief author-facing edit note when the output format allows, or in an existing editorial record only when authorised; do not create a separate governance file automatically.
 
 ## Natural language dynamics
 

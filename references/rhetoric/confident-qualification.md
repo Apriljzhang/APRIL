@@ -22,6 +22,14 @@ If moving a qualifier would make the original claim misleading, keep it local. I
 
 When editing an isolated excerpt without access to its eventual Limitations passage, retain a necessary study-wide qualification once and flag it for later consolidation. Do not delete the only available statement of an important boundary.
 
+## Separate self-protection from substantive qualification
+
+Assess a disclaimer-like sentence or clause by what it does. Remove apologies, claims of effort, generic liability language, or pre-emptive defences whose function is to protect the author, model, or process rather than inform the reader. Retain genuine uncertainty, assumptions, alternative explanations, reproducibility or access limits, concrete risks, and required disclosures when they bound interpretation or guide action.
+
+For mixed sentences, remove only the self-protective clause and make the smallest grammatical adjustment needed. Preserve the substantive claim, its meaning and evidential strength, the scope of each citation, any conditions, and commitments. Do not convert this edit into a general weakening of the claim or delete a real boundary. When function is unclear, retain the wording and flag it for author review. Use the normal brief author-facing edit note when the requested output permits one, or an existing editorial record only when authorised; do not create a separate governance file automatically. If the user requests clean text only, return clean text only.
+
+Adapted narrowly from [defensive-writing-governance](https://github.com/Sun-Lebs-For-DeepOM/defensive-writing-governance), pinned at commit `6a920c15a95a7bff083fccd5bfa63de169c2d9e0`; MIT License, Copyright (c) 2026 Sun-Lebs-For-DeepOM. See [the retained licence notice](../licenses/defensive-writing-governance-MIT.md).
+
 ## Build a confident paragraph
 
 Use this sequence when appropriate:
