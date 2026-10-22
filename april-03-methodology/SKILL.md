@@ -2,7 +2,7 @@
 name: april-03-methodology
 description: >-
   APRIL stage 03: methodology expert — quantitative and qualitative design choice,
-  critique, validity threats, and diagrams (PRISMA, path/CLPM, multilevel, LPA,
+  critique, stimulated recall interview protocols, validity threats, and diagrams (PRISMA, path/CLPM, multilevel, LPA,
   CSDID/staggered-DiD, and network-analysis decision maps).
   Hands execution to april-04-analysis.
 ---
@@ -36,6 +36,14 @@ Decide **whether** the design fits the RQs. Critique weaknesses. Produce diagram
 7. Name the primary `april-04-analysis/methods/*.md` card to execute next. For a justified multi-method design, name each additional substantive card, the distinct RQ/estimand it serves, execution order, and integration point.
 
 Optional narrative enhancement: when the user asks for an explanatory story, read `../references/rhetoric/empirical-storytelling.md` and distinguish the phenomenon, directly examined mechanism, and tested condition or boundary. Do not add analyses merely to complete that narrative pattern.
+
+## Structural equation modelling design
+
+For CFA, latent-variable SEM, or composite models, read `../april-04-analysis/references/sem-design-and-audit.md` before locking the model. Distinguish covariance-based common-factor modelling, composite/PLS estimation, and observed-variable path analysis from the constructs and estimand. Record scale setting and identification, measurement specification, estimator and data assumptions, model-specific power/precision, missingness and clustering, and the measurement comparability needed for intended comparisons. Plan global and local fit/admissibility checks, uncertainty, and theory-led sensitivity analyses. Use `../april-04-analysis/methods/sem-cfa.md` for the Stage 04 handoff; preserve the separate mediation, multilevel, and cross-lagged routes when they serve a distinct part of the design.
+
+## Stimulated recall interviews
+
+For stimulated recall (SR/SRI; 刺激回忆访谈), video/screen-cued interviews, task-process retrospection, GenAI feedback engagement, or gaze-cued recall, read `references/stimulated-recall-interviews.md`. Use **stimulated**, not “simulated”, recall. Define whether the protocol seeks reports of event-time thoughts/feelings, present-day reflection, or separately labelled phases of both. Specify cue/event sampling, actual delay, language, instructions, playback/pause control, neutral prompts, ethics and source-linked analysis. Treat reports as situated retrospective accounts and preserve recall, hindsight, uncertainty and non-recall distinctions. SR is a data-generation procedure; select the analytical method separately rather than treating it as SEM or a standalone analysis family.
 
 ## Thematic analysis design
 

@@ -32,7 +32,7 @@ Use two routing levels: **primary approach** describes the evidence logic; **ana
 
 | Goal | Card |
 |---|---|
-| CFA, latent measurement, or structural equation model | `sem-cfa.md` |
+| CFA, latent measurement, covariance-based SEM, or justified composite/PLS model | `sem-cfa.md` |
 | Classes from categorical/ordinal indicator patterns | `latent-class-lca.md` |
 | Profiles from continuous indicator patterns | `latent-profile-lpa.md` |
 
@@ -54,6 +54,10 @@ Use two routing levels: **primary approach** describes the evidence logic; **ana
 Bayesian analysis is a cross-cutting inferential framework. Pair it with a substantive model family when the likelihood or design requires another card.
 
 ## Qualitative
+
+### Stimulated recall as a data-generation procedure
+
+For stimulated recall interviews (SR/SRI), video/screen-cued task retrospection, GenAI feedback episodes or gaze-cued recall, use `../../april-03-methodology/references/stimulated-recall-interviews.md` for design, elicitation and reporting. Select the analysis separately: a systematic codebook/content analysis may use `qualitative-coding-analysis.md`, while a justified reflexive thematic analysis uses `qualitative-rta.md`. Align event/cue/interview identifiers and distinguish event-time recall, hindsight, uncertain/mixed reports and non-recall before substantive coding. Do not treat SR as an SEM module or add an extra substantive method solely because interview data are available.
 
 ### Interpretive coding and thematic analysis
 

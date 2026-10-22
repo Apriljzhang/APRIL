@@ -11,6 +11,10 @@ Latent measurement or simultaneous structural relations are central. Route obser
 5. Report unstandardized estimates with uncertainty and label standardization. Include relevant loadings, variances, covariances, indirect effects, and explained variance.
 6. Pre-specify or label respecification. Do not add paths solely from modification indices; validate meaningful revisions where possible.
 
+## Detailed design and audit
+
+Read `../references/sem-design-and-audit.md` when selecting a model family, planning SEM, interpreting complex output, or auditing a manuscript. It expands the existing workflow without changing the analysis contract or authorising additional outputs. Treat the separately installed `structural-equation-modeling` skill as a supplementary guide only after inspecting its current content; APRIL's scope, evidence, citation and claim boundaries continue to govern the work.
+
 ## Reporting
 Give model, estimator, missing-data method, identification, software/version, convergence, fit, focal parameters, respecifications, and sensitivities. Follow JARS-Quant SEM.
 

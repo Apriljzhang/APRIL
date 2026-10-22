@@ -13,6 +13,10 @@ Use for systematic coding, categorising, matrices, comparisons, and pattern deve
 7. Use software for retrieval, organisation, linking, and transparency; do not describe NVivo or another package as the analytic method.
 8. Report researcher role, coding process, codebook use if any, memoing, pattern development, evidentiary excerpts, contradictions, and limits of transferability.
 
+## Stimulated recall material
+
+When the corpus includes stimulated recall interviews, first read `../../april-03-methodology/references/stimulated-recall-interviews.md`. Align original-event timestamps, cue/stop identifiers and interview turns; distinguish observation, participant report and researcher interpretation, and retain the status of event-time recall, hindsight, uncertain/mixed accounts and non-recall. Preserve disagreements across sources. Define coding units and report coded occurrences and distinct participants with their denominators and nesting. Select quality procedures consistent with the stated analytical approach; do not infer population prevalence or a cognitive process directly from mention counts.
+
 ## Boundary check
 - If using Braun and Clarke's reflexive TA, switch to `qualitative-rta.md` and its full guide.
 - If using a reliability/codebook team model, state how coders were trained, disagreements handled, and codebook stability assessed; do not import those criteria into reflexive TA.

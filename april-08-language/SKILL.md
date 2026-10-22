@@ -386,7 +386,7 @@ For contested claims, test claim, data, warrant, backing, qualifier, and rebutta
 12. Search for paired em-dash clause insertions. Rebuild the sentence rather than swapping punctuation marks; review any remaining single em dash against the journal and author's established style.
 13. Check terminology for learners, teachers, languages, settings, social groups, and units of analysis.
 14. Check every paragraph for claim-evidence-explanation-qualification flow.
-15. Audit caveat placement: each qualifier must name what is limited and why; generic study-level caveats should not recur across paragraphs.
+15. Audit caveat placement and function: each qualifier must name what is limited and why; generic study-level caveats should not recur across paragraphs. Apply the function-based disclaimer check above: remove purely self-protective wording, retain qualifications and concrete risks that affect interpretation or conclusion strength, and flag uncertain cases for author review instead of deleting them.
 16. When an exemplar was used, confirm that the revision borrowed only abstract rhetorical moves, not distinctive wording, claims, citations, or sentence-level imitation.
 17. Read the revision aloud for stiffness, repetition, abrupt transitions, and unnatural cadence.
 
