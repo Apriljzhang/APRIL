@@ -3,7 +3,8 @@ name: april-08-language
 description: >-
   APRIL stage 08: edit journal-article prose in education, applied linguistics,
   TESOL, and the social sciences for natural language dynamics, British English,
-  cohesion, authorial voice, disciplinary precision, calibrated hedging,
+  cohesion, claim-oriented topic sentences, varied paragraph rhythm, authorial
+  voice, disciplinary precision, calibrated hedging,
   confident qualification placement, exemplar-based rhetorical modelling,
   Manchester Phrasebank moves, and removal of formulaic AI-like wording while
   preserving evidence, citations, quotations, constructs, and analytic meaning.
@@ -38,8 +39,9 @@ Never invent a citation, statistic, participant detail, educational context, the
 
 - Write with a clear, assured scholarly voice. Avoid defensive explanations, repeated self-justification, apologetic meta-discourse, and replies to criticisms the reader has not raised.
 - Keep qualifications that materially limit a claim, but state each at the point where it matters and do not repeat the same caveat across neighbouring paragraphs.
-- Let paragraph length and paragraph count follow the section's rhetorical purpose, evidence, and logical development. Do not impose a fixed three-paragraph structure or make paragraphs artificially similar in length.
-- Give each paragraph one coherent job. Combine closely connected points when they develop one line of reasoning; split a paragraph when it carries distinct claims, evidence, or moves. Vary paragraph length naturally without padding or fragmenting the argument.
+- Begin each substantive paragraph with a claim-oriented topic sentence, then develop that same claim through explanation, evidence and examples, with critical comment where warranted. Follow the essential paragraph guidance below.
+- Vary paragraph lengths across a passage according to the depth of each claim and its supporting evidence. A focused distinction may need a short paragraph; a complex interpretation may need sustained development. Do not impose word-count bands, a fixed paragraph count, equal lengths, or a mechanical short-long pattern.
+- Give each paragraph one coherent job. Combine closely connected points when they develop one claim; split a paragraph when it starts advancing a distinct claim. Preserve the explanation, evidence, examples and necessary qualification that belong together; do not pad or fragment the argument for visual variety.
 
 ## Faithful revision methods
 
@@ -52,11 +54,11 @@ Never invent a citation, statistic, participant detail, educational context, the
 - Avoid habitual corrective contrasts built as "not X but Y", including "not merely X but Y", "not just X but Y", and automatic "not only X but also Y" constructions. State the intended claim directly or express the relationship without staged correction.
 - Avoid paired em-dash interruptions built as `main clause — inserted explanation — continuation`, especially when the inserted text introduces a definition, qualification, example, or contrast. Rebuild the sentence so the information belongs in the main syntax; do not merely replace both dashes with commas.
 - An occasional single em dash may remain when the target journal and author's established style permit it and a strong break is genuinely needed. The problem is the repeated clause-insertion pattern, not the punctuation mark in isolation.
-- Prefer concrete verbs and specific nouns over vague academic padding.
+- Prefer concrete verbs, specific nouns and accessible academic wording over vague padding. Explain necessary technical concepts through precise definitions and relevant examples; use a brief analogy only when it clarifies the reasoning, without ornamental imagery or loss of disciplinary precision.
 - Build confidence from explicit claims, evidence, and warrants rather than from unqualified certainty. Avoid apologetic or defensive meta-discourse that repeatedly withdraws a supported claim.
 - Use sentence case for headings unless the journal requires title case.
 - Keep abbreviations, capitalisation, statistical notation, group names, and construct labels consistent.
-- Permit first person when it clarifies researcher action, reflexivity, or argument and the journal allows it.
+- Permit first person when it clarifies researcher action, reflexivity, or argument and the journal allows it. Preserve an established reflective teacher-researcher perspective where relevant to the study's decisions and context.
 - Use active voice for transparent decisions; use passive voice when the process or object is genuinely the focus.
 
 ### Direct argumentative progression
@@ -88,22 +90,29 @@ Apply `../references/rhetoric/sentence-bridging.md` at every sentence boundary:
 
 Diagnostic: does the next sentence begin from information the reader already has before adding something new?
 
-### Paragraph movement
+### Claim-oriented paragraph development (essential)
 
-Check each paragraph:
+A claim-oriented topic sentence is essential at the start of each substantive paragraph. State the bounded proposition, finding, conceptual distinction or methodological rationale that the paragraph will establish. Merely naming a topic, announcing what will be discussed, or starting with an isolated citation does not establish the governing claim. Keep the opening at the strength supported by the evidence; confidence does not require certainty or causal wording.
 
-1. Does the opening establish the paragraph's purpose or claim?
-2. Does each sentence develop, evidence, qualify, or connect to that claim?
-3. Does old information lead into new information?
-4. Does the final sentence complete the paragraph's work rather than repeat it?
+Develop the paragraph around that opening:
 
-Do not enforce "one idea per paragraph" so rigidly that evidence, explanation, and qualification become detached from the claim.
+1. **Claim:** make the main point explicit in the topic sentence.
+2. **Explanation:** explain what the claim means, why it matters, or the reasoning that connects its concepts.
+3. **Evidence and examples:** substantiate that claim with the available findings, relevant literature, data extracts or concrete examples. Explain how the support bears on the claim; an illustrative example alone is not empirical evidence.
+4. **Critical comment, when warranted:** assess a tension, alternative explanation, boundary condition, inconsistency or limitation that materially changes how the claim should be understood.
+5. **Completion, when needed:** draw the supported consequence or connect to the next claim, without repeating the opening or appending a generic caution.
+
+These are connected reasoning functions, not a five-sentence template. Explanation, evidence and examples can interact across several sentences. Every supporting sentence must develop, substantiate or critically examine the opening claim. Move material that advances a different claim to its own paragraph, and revise the topic sentence if it no longer represents the paragraph.
+
+Respect section boundaries: a Results topic sentence states a verified finding; a Method paragraph may open with the purpose, rationale or key procedural fact. Do not invent an interpretation, evidence or a methodological justification to satisfy the structure. A brief transition may connect already established claims without introducing a new one.
+
+Keep critical comments specific and proportionate. They are optional unless needed for accuracy, and must not become a ritual defence or automatic retreat from a supported claim. Avoid generic self-protection in the opening and closing; retain genuine uncertainty and place qualifications where they change interpretation. Let paragraph lengths vary with the work needed to establish each claim.
 
 ### Sentence rhythm
 
 Vary sentence length and structure when the argument benefits. Avoid a paragraph in which every sentence has the same length and subject-verb opening, but do not chase numerical rhythm targets or AI-detector scores.
 
-Useful revisions include combining related short sentences, splitting an overloaded sentence, moving a contextual phrase, or changing a repeated opening. Preserve cohesion and disciplinary clarity.
+Use medium-length explanations alongside occasional short sentences that state a finding or inference directly, and longer sentences when the relationship requires them. Useful revisions include combining related short sentences, splitting an overloaded sentence, moving a contextual phrase, or changing a repeated opening. Preserve cohesion and disciplinary clarity; do not turn sentence-length averages from an exemplar into writing targets.
 
 ### Information density and clarity
 
@@ -372,7 +381,7 @@ For contested claims, test claim, data, warrant, backing, qualifier, and rebutta
 
 ### Pass 2: Improve language dynamics
 
-4. Repair paragraph purpose, old-to-new flow, sentence links, and rhythm; check whether key claims and evidence remain visible within the information density.
+4. Establish a claim-oriented topic sentence for each substantive paragraph, then align its explanation, evidence, examples and any warranted critical comment with that claim. Repair old-to-new flow and sentence links; vary paragraph lengths according to the depth of the argument.
 5. Remove inflation, promotional wording, vague attribution, repetition, competing near-synonyms, and empty evaluation while retaining terms that carry disciplinary meaning.
 6. Localise qualifications: retain claim-specific boundaries beside the claim and move repeated study-level caveats to the limitations passage. When editing an isolated excerpt and that destination is unavailable, retain one specific study-level qualification and flag it for later consolidation.
 7. Tighten hedging without increasing certainty.
@@ -385,7 +394,7 @@ For contested claims, test claim, data, warrant, backing, qualifier, and rebutta
 11. Confirm that no fact, number, citation, quotation, construct, or analytic conclusion changed unintentionally.
 12. Search for paired em-dash clause insertions. Rebuild the sentence rather than swapping punctuation marks; review any remaining single em dash against the journal and author's established style.
 13. Check terminology for learners, teachers, languages, settings, social groups, and units of analysis.
-14. Check every paragraph for claim-evidence-explanation-qualification flow.
+14. Check that each substantive paragraph opens with a supported claim-oriented topic sentence and that its explanation, evidence, examples and any critical comment develop that claim. Check variation in paragraph length without imposing quotas or fragmenting connected reasoning.
 15. Audit caveat placement and function: each qualifier must name what is limited and why; generic study-level caveats should not recur across paragraphs. Apply the function-based disclaimer check above: remove purely self-protective wording, retain qualifications and concrete risks that affect interpretation or conclusion strength, and flag uncertain cases for author review instead of deleting them.
 16. When an exemplar was used, confirm that the revision borrowed only abstract rhetorical moves, not distinctive wording, claims, citations, or sentence-level imitation.
 17. Read the revision aloud for stiffness, repetition, abrupt transitions, and unnatural cadence.

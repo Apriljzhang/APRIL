@@ -32,15 +32,13 @@ Adapted narrowly from [defensive-writing-governance](https://github.com/Sun-Lebs
 
 ## Build a confident paragraph
 
-Use this sequence when appropriate:
+Begin every substantive paragraph with a claim-oriented topic sentence. State the bounded finding, argument, distinction or rationale that the rest of the paragraph develops. A topic label or an announcement of what the paragraph covers is insufficient.
 
-1. State the finding or argument directly.
-2. Present the evidence or reasoning that supports it.
-3. Explain its substantive meaning.
-4. Add one specific qualifier only if it changes the interpretation.
-5. Close with the implication or connection to the next claim.
+Develop that claim through explanation, then evidence and examples that substantiate it. Make the link between the evidence and the claim explicit. Add a critical comment or a specific qualification when a tension, alternative explanation or boundary changes the interpretation. Close with a supported implication or connection when needed.
 
-Do not append an automatic caution sentence to every paragraph. Do not retract a supported claim immediately after stating it.
+These functions may span several sentences and interact; they do not prescribe a fixed sentence count. Vary paragraph lengths with the complexity of the claim and support it needs. Keep section-appropriate procedural or descriptive openings in Method and Results, without inventing interpretive claims.
+
+Do not append an automatic caution sentence to every paragraph. Do not retract a supported claim immediately after stating it. Remove self-protective openings and endings while preserving qualifications essential to the claim's accuracy.
 
 ## Repair generic caveats
 
@@ -90,7 +88,8 @@ Do not copy or closely paraphrase distinctive phrases, metaphors, claims, citati
 
 ## Final audit
 
-- Does each paragraph make a clear claim before qualifying it?
+- Does each substantive paragraph begin with a supported claim-oriented topic sentence, then develop that claim through explanation, evidence, examples and any warranted critical comment?
+- Do paragraph lengths vary with the argument, without equal-length blocks, padding or fragmented support?
 - Does every qualifier identify what is uncertain and why?
 - Are study-wide limitations explained once rather than scattered?
 - Have generic caution phrases been replaced with specific boundaries where possible?
