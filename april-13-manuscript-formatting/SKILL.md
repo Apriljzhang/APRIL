@@ -29,6 +29,15 @@ Use stage 09 when the task is primarily interpreting journal submission specific
 4. Formatting-only work does not authorise restructuring substantive text or moving interpretive claims between sections. Flag missing sections, misplaced content and JARS reporting gaps for the author; never invent content to satisfy them. For an authorised complete reporting/pre-submission check, follow `../references/reporting/reporting-router.md` and its applicable full packs; distinguish reporting gaps from presentation defects.
 5. Change figure fonts only when an editable source supports a faithful export. Preserve plotted data, scales, labels and scientific encodings; do not silently redraw a scientific figure or substitute an approximation. Flag inaccessible figure sources or fonts.
 
+## Word document properties
+
+Audit the actual DOCX `docProps/core.xml` and `docProps/app.xml`, not merely the filename or Finder dates. Include this audit in the formatting report and, in fix mode, verify the saved properties again:
+
+- **Identity:** for identified manuscripts created in April's name, `dc:creator` is `April Jiawei Zhang`; set `cp:lastModifiedBy` truthfully for an edit performed on her behalf. These file properties do not authorise changing genuine coauthors/bylines. Preserve blinded-output anonymisation and report that exception rather than deanonymising the copy.
+- **Dates:** a genuinely new file uses the actual timezone-aware instant creation begins, encoded validly in `dcterms:created`, and the actual save/update instant in `dcterms:modified`. Preserve the genuine original creation instant for revisions/continuations, even with a new filename. Flag inherited template epochs, missing/invalid dates or uncertain provenance; do not guess historical dates, backdate files or silently reset creation history.
+- **Editing time:** initialise a genuinely new document's `TotalTime` to `0` minutes and preserve legitimate accumulated values on existing files. Never invent elapsed editing minutes or calculate them from file age. Subsequent automatic accumulation depends on Word/the editing application; generation alone cannot guarantee tracking.
+- **Separate records:** filesystem birth/modification times are distinct from Word properties and editing time. Do not falsify them. Report unresolved property limits and the verified saved values/status within scope.
+
 ## Document workflow and verification
 
 Use the available Word/document skill and its existing tools for DOCX operations; use the PDF skill when relevant. Preserve the source, comments, pending revisions and package parts. Prefer surgical edits over a conversion that loses unsupported features.
