@@ -2,8 +2,8 @@
 name: april-14-fresh-eyes
 description: >-
   APRIL stage 14 Fresh Eyes: a final post-revision first-time-reader pass for
-  sentence contribution, smooth research narrative, empty/repeated wording and revision
-  residue. Leave actionable anchored comments, normally in a separate Word copy,
+  sentence contribution, smooth research narrative, first-use terminology/notation,
+  empty/repeated wording and revision residue. Leave actionable anchored comments, normally in a separate Word copy,
   without rewriting. Distinct from language polishing and methodological peer review.
 ---
 
@@ -33,6 +33,7 @@ Judge smoothness through logical progression and reader understanding, not drama
 - **Empty or circular wording:** generic claims, inflated metadiscourse, recycled claims or restated definitions that add no concrete meaning, explanation, warranted qualification or useful orientation. Explain what the reader still needs rather than labelling text “empty” without evidence.
 - **Repetition without progression:** near-duplicate sentences, paragraphs or recycled section endings that repeat the same point without development. Distinguish this from legitimate abstract/conclusion summaries, a necessary reminder of an RQ or construct, and a purposeful return that adds evidence, interpretation or scope.
 - **Disconnected flow:** an orphan sentence, unexplained transition, ambiguous referent, undefined term or assumed drafting context that makes the reader guess the connection. Check paragraph purpose and sentence order, not just grammar. Do not impose a novel finding in every sentence; a transition, signpost, bounded qualification or concise recap can earn its place.
+- **First-use clarity and consistent meaning:** check unfamiliar or ambiguous acronyms, abbreviations, symbols, notation, labels and codes at their first relevant use, and check that their meaning stays intelligible across the paper. Do not guess a meaning from a letter or code; request a definition when the manuscript does not establish it. Treat the abstract and main body as potentially independently read, and check that standalone table/figure labels remain understandable; minimum notes still allow necessary definitions. Avoid needless expansion of conventional notation where its standard contextual meaning is clear, but flag genuine ambiguity or a conflicting meaning. Where confidentiality matters, ask for the coding scheme or anonymous label's meaning, never a real identity. These checks apply across fields; particular kinds of codes are examples, not a fixed taxonomy.
 - **Possible revision residue:** duplicated old/new claims, terminology or labels that change unexpectedly, inconsistent counts/timepoints/units, stale table/figure/section references, incompatible explanations, outdated abstract/conclusion claims or section promises that the current text no longer fulfils. Check legitimate analytic subsets, exclusions or contextual differences before calling numbers contradictory. Describe an inconsistency demonstrated in the current text; call its origin “possible residue” unless version evidence establishes it.
 - **Reader-facing cross-section/display mismatch:** a table/figure that the prose describes differently, a caption that does not explain the display, or a conclusion that no longer matches the stated current findings. Judge interpretability and internal agreement, not routine table/figure formatting or a fresh study-validity review.
 
@@ -62,6 +63,8 @@ If native comments cannot be produced safely, disclose that limitation and give 
 ## Deliverable and stopping point
 
 Return the reviewed copy (or explicitly disclosed located-list fallback) with a short prioritised overview of the most consequential reader concerns and verification limits. The overview accompanies the actual comments; it does not replace them. Preserve manuscript text and leave decisions to April. If formatting and Fresh Eyes are both requested, follow the requested sequence with distinct outputs and no silent prose corrections.
+
+For an authorised batch, apply the checks to each named manuscript independently, with separate reviewed copies and per-file concerns. A definition supplied in one paper or earlier conversation does not silently define a code in another paper. This skill does not itself authorise selecting or revising a batch.
 
 ---
 **APRIL — Academic Research Skills by April**
