@@ -69,12 +69,11 @@ Draft a complete manuscript or run the full APRIL pipeline only when the user ex
 | 06 Framing | Only the specifically named Introduction, Conclusion, or subsection | The other framing sections or full manuscript |
 | 07 Abstract | Requested abstract based on verified manuscript content | New findings, other manuscript sections, or full manuscript |
 | 08 Language | Revision of the supplied or named text/section | New arguments, evidence, sections, or manuscript-wide rewriting |
-| 09 Formatting | Formatting of the named document or requested elements | Substantive rewriting or new manuscript content |
+| 09 Formatting | Located audit by default; authorised house preparation/fixes, author/Word-property checks and a journal-adapted copy | Substantive rewriting, invented reporting/declarations, accepting/rejecting revisions, or Fresh Eyes review |
 | 10 Review | Review findings in the requested scope | Silent rewriting or implementation of fixes |
 | 11 Revision | Requested comment responses, edits, change log, or response letter | Unrelated manuscript overhaul or new analyses |
 | 12 Email | Requested clean, clear, warm email draft, reply, translation, or revision | Sending, additional recipients, or commitments not authorised by the user |
-| 13 Manuscript Formatting | Located audit by default; authorised formatting/metadata fixes in a separate copy | Substantive rewriting, invented reporting content, accepting/rejecting revisions, or Fresh Eyes review |
-| 14 Fresh Eyes | Post-revision first-reader comments in a separate reviewed Word copy or disclosed located-list fallback | Prose rewriting, formatting fixes, accepting/rejecting revisions, or unrequested scoring/verdicts |
+| 13 Fresh Eyes | Post-revision first-reader comments in a separate reviewed Word copy or disclosed located-list fallback | Prose rewriting, formatting fixes, accepting/rejecting revisions, or unrequested scoring/verdicts |
 
 For Stage 12, apply scope and factual integrity to the email task. Use its self-contained workflow rather than a manuscript contract, journal formatting, or research reporting checklist.
 

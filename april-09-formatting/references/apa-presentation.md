@@ -4,7 +4,7 @@ Read the [standing manuscript policy](../../references/core/manuscript-house-sty
 
 ## Headings and font
 
-APA has **five** heading levels, using only as many as the hierarchy needs. Do not impose a maximum of three or skip levels. Its baseline is title case, no heading numbering, double spacing and no extra blank lines. [Official headings guidance](https://apastyle.apa.org/style-grammar-guidelines/paper-format/headings).
+APA has **five** heading levels, using only as many as the hierarchy needs. Do not impose a maximum of three or skip levels. Its baseline is title case, unnumbered headings, double spacing and no extra blank lines. April explicitly overrides the unnumbered default with hierarchical decimal numbering in her house-prepared manuscripts; journal adaptations may change this when required. [Official headings guidance](https://apastyle.apa.org/style-grammar-guidelines/paper-format/headings).
 
 | Level | APA baseline |
 |---|---|

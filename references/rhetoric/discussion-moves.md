@@ -2,6 +2,8 @@
 
 Inspired by the APA Style *Discussion Phrases Guide* (7th ed. instructional aid: https://apastyle.apa.org/instructional-aids/discussion-phrases-guide.pdf). Categories and functions are retained; stems are paraphrased for APRIL British English house style (no em dashes; avoid default “not X but Y” antithesis). Adapt freely; do not paste clumps.
 
+For the manuscript's organisation, follow the [Discussion stage's RQ-ordered guidance](../../april-05-discussion/SKILL.md). The categories below are selectable phrase functions, not a required subsection sequence.
+
 **Tense:** Discussion is usually written in the **present** when interpreting lasting claims; past tense for what the study *did* or *found* is fine in summary sentences.
 
 Also apply `../../references/reporting/jars-quant.md` or `../../references/reporting/jars-qual.md` Discussion items and `../../april-08-language/SKILL.md` for hedging and Phrasebank moves.

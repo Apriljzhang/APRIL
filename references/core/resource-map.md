@@ -14,9 +14,9 @@ APRIL Commons is an internal reference layer, not a separately invoked skill. Lo
 
 ## Manuscript finishing routes
 
-- Manuscript presentation audit/requested fixes: `../../april-13-manuscript-formatting/SKILL.md`; its rules live only in `manuscript-house-style.md`.
-- Post-revision first-reader sentence contribution, narrative flow and residue comments: `../../april-14-fresh-eyes/SKILL.md`; preserve manuscript text and review markup.
-- Keep these distinct from Stage 08 language editing, Stage 09 journal submission specifications and Stage 10 broader editorial review. Do not automatically run both.
+- Manuscript presentation audit/requested fixes: `../../april-09-formatting/SKILL.md`; its rules live only in `manuscript-house-style.md`.
+- Post-revision first-reader sentence contribution, narrative flow and residue comments: `../../april-13-fresh-eyes/SKILL.md`; preserve manuscript text and review markup.
+- The established Stage 09 is the single merged Formatting workflow. Keep it distinct from Stage 08 language editing and Stage 10 broader editorial review. Do not automatically run both.
 
 ## Loading rule
 

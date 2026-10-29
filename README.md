@@ -21,22 +21,21 @@ Uploaded manuscripts, datasets, variable descriptions, and references provide co
 | 02 | [`april-02-literature`](april-02-literature/SKILL.md) | Search, verify, and synthesise literature, including Zotero and local PDF evidence |
 | 03 | [`april-03-methodology`](april-03-methodology/SKILL.md) | Select and critique the research design and prepare the analysis handoff |
 | 04 | [`april-04-analysis`](april-04-analysis/SKILL.md) | Select and execute empirical analyses, diagnostics, tables, figures, and requested Results/Findings |
-| 05 | [`april-05-discussion`](april-05-discussion/SKILL.md) | Interpret locked findings against verified literature without introducing new results |
+| 05 | [`april-05-discussion`](april-05-discussion/SKILL.md) | Interpret locked findings in RQ order against verified literature, then address warranted implications, limitations and future research |
 | 06 | [`april-06-framing`](april-06-framing/SKILL.md) | Draft the specifically requested Introduction or Conclusion |
 | 07 | [`april-07-abstract`](april-07-abstract/SKILL.md) | Write or revise an evidence-bounded abstract within the target journal's current requirements |
 | 08 | [`april-08-language`](april-08-language/SKILL.md) | Edit academic prose while preserving evidence, terminology, citations, quotations, and analytic meaning |
-| 09 | [`april-09-formatting`](april-09-formatting/SKILL.md) | Apply journal, APA, table, figure, caption, and submission formatting |
+| 09 | [`april-09-formatting`](april-09-formatting/SKILL.md) | Prepare/audit/fix the house manuscript, author information and Word properties, then adapt the submission copy to journal requirements |
 | 10 | [`april-10-review`](april-10-review/SKILL.md) | Review the requested scope through methodological, literature, contribution, clarity, ethics, and journal-editor lenses |
 | 11 | [`april-11-revision`](april-11-revision/SKILL.md) | Revise selected comments or sections and prepare response-to-reviewer materials |
 | 12 | [`april-12-email`](april-12-email/SKILL.md) | Draft and revise clean, clear, warm professional and academic emails |
-| 13 | [`april-13-manuscript-formatting`](april-13-manuscript-formatting/SKILL.md) | Audit or fix manuscript presentation and honest Word metadata against April's standing rules |
-| 14 | [`april-14-fresh-eyes`](april-14-fresh-eyes/SKILL.md) | Give the revised manuscript a first-reader pass for sentence contribution, research-story progression and possible revision residue, with comments rather than rewriting |
+| 13 | [`april-13-fresh-eyes`](april-13-fresh-eyes/SKILL.md) | Give the revised manuscript a first-reader pass for sentence contribution, research-story progression and possible revision residue, with comments rather than rewriting |
 
-Stages are numbered consecutively from 01 to 14. Stage 12 is a professional correspondence extension used whenever the user asks for an email; it is not an automatic final step in the manuscript workflow. Emails use dynamic length and paragraph structure, with clear purposes, natural courtesy, and less defensive wording. Journal formatting and reporting checklists apply to manuscripts, not email bodies.
+Stages are numbered consecutively from 01 to 13. Stage 12 is a professional correspondence extension used whenever the user asks for an email; it is not an automatic final step in the manuscript workflow. Emails use dynamic length and paragraph structure, with clear purposes, natural courtesy, and less defensive wording. Journal formatting and reporting checklists apply to manuscripts, not email bodies.
 
 ### The two manuscript finishing skills
 
-Use **APRIL Manuscript Formatting** (13) for a house-style audit or requested fixes. It reads the shared [standing manuscript rules](references/core/manuscript-house-style.md), rather than maintaining another copy. Use **APRIL Fresh Eyes** (14) for a final post-revision reader's comments on sentence contribution, smooth research narrative, empty/repeated wording and possible revision residue; Word reviews normally return a separate commented copy. Both preserve scientific content and existing revisions. They can be invoked separately or in sequence with distinct outputs, and do not run automatically together. Stage 09 remains the journal-specification formatting route, Stage 08 prose editing, and Stage 10 broader editorial review.
+Use **APRIL Manuscript Formatting** (09) for a house-style audit or requested fixes. It reads the shared [standing manuscript rules](references/core/manuscript-house-style.md), rather than maintaining another copy. Use **APRIL Fresh Eyes** (13) for a final post-revision reader's comments on sentence contribution, smooth research narrative, empty/repeated wording and possible revision residue; Word reviews normally return a separate commented copy. Both preserve scientific content and existing revisions. They can be invoked separately or in sequence with distinct outputs, and do not run automatically together. Formatting is consolidated in the established Stage 09, with house preparation followed by journal adaptation; Stage 08 remains prose editing and Stage 10 broader editorial review.
 
 Example requests:
 

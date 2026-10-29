@@ -1,7 +1,7 @@
 ---
-name: april-14-fresh-eyes
+name: april-13-fresh-eyes
 description: >-
-  APRIL stage 14 Fresh Eyes: a final post-revision first-time-reader pass for
+  APRIL stage 13 Fresh Eyes: a final post-revision first-time-reader pass for
   sentence contribution, smooth research narrative, first-use terminology/notation,
   empty/repeated wording and revision residue. Leave actionable anchored comments, normally in a separate Word copy,
   without rewriting. Distinct from language polishing and methodological peer review.
@@ -13,7 +13,7 @@ description: >-
 
 Read `../references/core/operating-contract.md`. This is April's final first-reader pass after revisions, before sharing a manuscript with someone who has never read it. Apply the standing manuscript policy within this comment-only scope; it does not authorise formatting changes to the reviewed copy. Preserve explicit limits, anonymity and scientific evidence.
 
-Keep the neighbouring skills distinct: stage 08 edits prose and language; stage 10 evaluates the manuscript as an editor/referee; stage 13 audits or fixes presentation. Fresh Eyes identifies where the current text fails to communicate or carry its weight and leaves comments for April. It is not a full methodological/JARS audit, novelty assessment, acceptance verdict or automatic language rewrite. Do not run the other skills automatically.
+Keep the neighbouring skills distinct: stage 08 edits prose and language; stage 10 evaluates the manuscript as an editor/referee; stage 09 audits or fixes presentation. Fresh Eyes identifies where the current text fails to communicate or carry its weight and leaves comments for April. It is not a full methodological/JARS audit, novelty assessment, acceptance verdict or automatic language rewrite. Do not run the other skills automatically.
 
 ## Read the current manuscript as a newcomer
 
@@ -27,6 +27,8 @@ Keep the neighbouring skills distinct: stage 08 edits prose and language; stage 
 Read [the first-reader narrative guidance](references/reader-story-guidance.md) for its verified academic-writing sources and scoped operational questions. Can a newcomer follow why this problem matters, the question or purpose driving the paper, why each section appears, what was found and what it means? Check promise and delivery across the whole paper, missing conceptual bridges, and whether the answer closes the question the reader was led to expect. Use `../references/rhetoric/empirical-storytelling.md` for its evidence-bounded question–evidence–answer principle; do not import its optional puzzle, mechanism, surprise or boundary-condition moves as universal requirements.
 
 Judge smoothness through logical progression and reader understanding, not drama, universally shorter sentences or a fixed narrative template. Respect qualitative, mixed-methods and other legitimate structures. Never improve the story by inventing novelty, hype or causal inference, concealing discrepant findings, or making the evidence appear more decisive than it is. Comment on the missing connection or mismatched promise; do not reconstruct the story silently.
+
+When checking Discussion promise and delivery, use [stage 05's RQ-ordered organisation](../april-05-discussion/SKILL.md) as the structural reference: does the reader find each stated question's answer and its interpretation? Keep this a first-reader comment check, not permission to draft or run the Discussion stage.
 
 ## What deserves a comment
 

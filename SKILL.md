@@ -29,23 +29,22 @@ Read `references/core/operating-contract.md` before routing or producing work. U
 | 02 | `april-02-literature` | Search and synthesise literature |
 | 03 | `april-03-methodology` | Design the study |
 | 04 | `april-04-analysis` | Analyse data and write findings |
-| 05 | `april-05-discussion` | Interpret results against the literature |
+| 05 | `april-05-discussion` | Interpret findings in RQ order, then warranted implications, limitations and future research |
 | 06 | `april-06-framing` | Write the Introduction or Conclusion |
 | 07 | `april-07-abstract` | Write or revise the evidence-bounded abstract |
 | 08 | `april-08-language` | Polish academic language while preserving meaning |
-| 09 | `april-09-formatting` | Format to dynamic journal requirements, APA, and caption rules |
+| 09 | `april-09-formatting` | House preparation, audit/fixes, authorship/Word properties and journal adaptation |
 | 10 | `april-10-review` | Review like an editor/referee |
 | 11 | `april-11-revision` | Revise and write the response letter |
 | 12 | `april-12-email` | Write clean, clear, warm professional and academic emails |
-| 13 | `april-13-manuscript-formatting` | Audit or fix manuscript presentation against April's standing rules |
-| 14 | `april-14-fresh-eyes` | Check post-revision sentence contribution, research-story progression and possible residue through anchored comments |
+| 13 | `april-13-fresh-eyes` | Check post-revision sentence contribution, research-story progression and possible residue through anchored comments |
 
 Stage 12 is a professional correspondence extension. Route email drafting, replies, translation, and revision to `april-12-email/SKILL.md` whenever requested. It is independent of the manuscript pipeline and uses dynamic message length and paragraph structure; journal formatting and JARS checklists do not apply to the email body.
 
 ## Manuscript review routing
 
-- **“Use APRIL Manuscript Formatting”** routes to `april-13-manuscript-formatting/SKILL.md`: check only by default, or fix presentation/metadata when requested. The standing policy remains the single source of truth. Stage 09 remains available for journal submission specifications, length and caption requirements.
-- **“Use APRIL Fresh Eyes”** or a final post-revision first-time-reader pass routes to `april-14-fresh-eyes/SKILL.md`: comments on sentence contribution, smooth research narrative, empty/repeated wording and possible revision residue; for Word, a separate copy with anchored comments when supported. Stage 08 remains prose editing; Stage 10 remains the broader editorial/methodological review.
+- **“Use APRIL Manuscript Formatting”** routes to `april-09-formatting/SKILL.md`: check only by default, or fix presentation/metadata when requested. The standing policy remains the single source of truth. Stage 09 is the single merged Formatting workflow: prepare the house copy first, then adapt a separate submission version to the current journal requirements when in scope.
+- **“Use APRIL Fresh Eyes”** or a final post-revision first-time-reader pass routes to `april-13-fresh-eyes/SKILL.md`: comments on sentence contribution, smooth research narrative, empty/repeated wording and possible revision residue; for Word, a separate copy with anchored comments when supported. Stage 08 remains prose editing; Stage 10 remains the broader editorial/methodological review.
 - Invoke these separately or in the requested sequence with distinct outputs. Their availability does not authorise running both or altering any manuscript.
 
 ## How to use
@@ -87,8 +86,8 @@ The target journal's current author instructions and the user's requirements det
 - **Output scope and stopping rules:** `references/core/operating-contract.md`
 - **Cross-stage decisions:** `references/core/manuscript-contract.md`
 - **Standing manuscript presentation and metadata rules:** `references/core/manuscript-house-style.md`
-- **Controlled manuscript formatting audit/fixes:** `april-13-manuscript-formatting/SKILL.md`
-- **First-reader comprehension comments:** `april-14-fresh-eyes/SKILL.md`
+- **Controlled manuscript formatting audit/fixes:** `april-09-formatting/SKILL.md`
+- **First-reader comprehension comments:** `april-13-fresh-eyes/SKILL.md`
 - **Shared-resource routing:** `references/core/resource-map.md`
 - **Evidence and citation integrity:** `references/evidence/evidence-integrity.md`
 - **Local quotation search and page pinning:** `references/evidence/pdf-quote-search.md`
