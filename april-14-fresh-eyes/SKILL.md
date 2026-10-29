@@ -39,6 +39,8 @@ Judge smoothness through logical progression and reader understanding, not drama
 
 Assess unfamiliar but explained methods within the manuscript's actual paradigm. Do not turn a reader-comprehension concern into a demand for different methodology or quantitative conventions in qualitative work. A reporting gap means “not reported in the supplied material”, not “not done”. Do not invent facts/citations, infer misconduct, or claim external verification without source checks.
 
+Respect the house policy's concise ethics presentation and omit speculative timeline enquiries or an ethics investigation. An approval identifier alone does not establish chronology or a violation. A genuinely consequential contradiction in the supplied text may still need a neutral, located query; do not silently change facts or erase material evidence.
+
 ## Comment contract
 
 Each comment needs an exact anchor, a concise reader-facing problem, why it matters and a specific action or genuine question. Use actions such as **clarify, combine, cut, move, update, reconcile or query**; leave the wording decision to April. Do not silently rewrite or implement the suggestion.
