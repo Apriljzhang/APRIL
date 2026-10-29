@@ -43,6 +43,8 @@ Within the requested formatting/submission scope, check the current official tar
 
 In check-only mode, flag missing or misplaced items. In authorised fix mode, add/place required items only from verified source facts and the user's instructions. Never assume no funding, no conflicts, consent or ethical approval, invent identifiers, or expose identifying information in a blinded file. Query missing facts or clearly flag what remains unresolved. Preserve existing truthful declarations. Journal-required placement governs these ancillary items; retain house style elsewhere and surface material conflicts.
 
+For manuscript-production AI declarations, check the current official journal disclosure requirements within journal adaptation and preserve required factual disclosures. Use [Fresh Eyes' unintended-AI-mention check](../april-13-fresh-eyes/SKILL.md#what-deserves-a-comment) to flag accidental drafting/tool commentary; it does not authorise deleting intentional/required declarations, concealing substantive AI methods or claiming no AI use without evidence.
+
 For verified ethics approval and study timing, apply the policy's concise Methods-sentence and duration/design presentation preference. Do not insert a generic approval assertion, invent a study duration or use formatting to conceal a material unresolved contradiction.
 
 If the journal is unknown, mark journal-specific compliance unverified and ask for the target only when it is needed to complete the requested outcome. For an authorised batch, check each paper's own target and supported declarations separately; do not carry another paper's funding, ethics or conflict statements across.
