@@ -256,7 +256,7 @@ After:
 
 ### Context-sensitive precision of broad nouns
 
-Review vague or repeated *account* and *tension* when they obscure what is actually being described, explained, interpreted or contrasted. Check the intended meaning and whether a more precise expression is supported. Keep necessary technical/literal uses, established constructs and exact quotations; do not impose a blanket word ban. An alternative such as *explanation*, *description*, *interpretation*, *disagreement* or *mismatch* is appropriate only when it expresses the actual meaning more accurately. Do not rotate synonyms for variety, change a construct or treat these words as evidence of AI authorship.
+Review vague or repeated *account*, *tension* and *boundaries* when they obscure what is actually being described, explained, interpreted, delimited or contrasted. Check the intended meaning and whether a more precise expression is supported. Keep necessary technical/literal uses, established constructs (including actual theoretical boundary conditions) and exact quotations; do not impose a blanket word ban. An alternative such as *explanation*, *description*, *interpretation*, *disagreement*, *mismatch*, *limits*, *scope*, *conditions* or *distinctions* is appropriate only when it expresses the actual meaning more accurately. Do not rotate synonyms for variety, change a construct or treat these words as evidence of AI authorship.
 
 ### Abstract vocabulary clusters
 
