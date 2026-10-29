@@ -93,6 +93,8 @@ At ideation stage, journal-article scope means:
 - contribution-focused rather than topic-broad
 - shaped toward defensible RQs that can support a real article, not a general project theme
 
+For an authorised proposed RQ list, apply the [shared RQ-label style](../references/core/manuscript-house-style.md#research-question-labels): bold RQ-plus-number labels, normal question text. Preserve the agreed order/wording and do not add questions merely to fill a list.
+
 ## Problem / purpose / RQs
 Distinguish **problem**, **purpose**, and **RQs/hypotheses**. Follow `../references/framing/purpose-statements.md`. Tag primary / secondary / exploratory aims (JARS–Quant) when confirmatory.
 

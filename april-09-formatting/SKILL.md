@@ -51,6 +51,8 @@ If the journal is unknown, mark journal-specific compliance unverified and ask f
 
 Apply the [working-draft placeholder/query rule](../references/core/manuscript-house-style.md#working-draft-placeholders-and-author-questions): use actual yellow Word text highlighting with black font only on genuine unresolved placeholders/author-input queries, not ordinary brackets, citations or statistical notation. Preserve unknowns and surface concise located questions through an available user-input tool or chat; do not invent facts or a popup capability. Verify the highlight property and rendered draft appearance.
 
+Check the [shared RQ-label rule](../references/core/manuscript-house-style.md#research-question-labels): listed questions use bold `RQ1:`, `RQ2:`, etc., with normal question text by default, preserving wording/order and consistent cross-references. Verify label-run bold formatting rather than making whole questions bold or treating RQs as section headings.
+
 ## Author-information consistency
 
 Audit the visible author block separately from DOCX properties. For the user's identified manuscripts, compare the intended author's confirmed name, affiliation, preferred email, ORCID and verified institutional/office postal address across the supplied title page, author note, correspondence and submission fields within scope. Read the private profile at `$CODEX_HOME/manuscript-author-profile.md` (or `~/.codex/manuscript-author-profile.md` when unset); if unavailable, use user-provided/verified sources and flag missing fields. Never infer a personal office from a school's general contact footer or invent a room/postcode.

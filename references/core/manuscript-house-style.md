@@ -41,6 +41,10 @@ For the identified house-prepared copy, use the same layout across manuscripts w
 - Keep all of this text black, left-aligned and Times New Roman 12 pt. Contact details and identifiers must belong to their stated owners; do not make the user the corresponding author by default or attach one person's ORCID to another. Query ambiguous ownership rather than guess.
 - Standardise the layout, not an example's author list, number of authors, affiliations, order or correspondence designation. Apply journal-adapted placement/style requirements and blinded-submission safeguards explicitly.
 
+### Research-question labels
+
+When presenting a research-question list, use sequential bold labels `RQ1:`, `RQ2:`, and so on, followed by normally styled question text (for example **RQ1:** What does the study examine?). Bold the RQ-plus-number label, not the entire question by default. Preserve the actual question wording, order and any legitimate source emphasis; do not invent missing questions or relabel hypotheses/aims as RQs without instruction. Keep RQ identifiers consistent in cross-references. These are question labels, not numbered section headings; journal adaptations may follow an explicit alternative requirement while retaining the house copy.
+
 ### Heading hierarchy
 
 | Level | April's APA-based presentation |

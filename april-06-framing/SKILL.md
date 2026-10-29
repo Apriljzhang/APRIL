@@ -18,7 +18,7 @@ Read `../references/core/manuscript-contract.md` and draft only from verified ar
 2. Give focused background that orients the reader to the conversation, not a mini literature review. Define key terms only if they are contested, central, or likely unfamiliar.
 3. Narrow from topic to debate, then identify the specific gap, inconsistency, limitation, or unresolved question in the literature with evidence.
 4. State why the gap matters: theoretical, empirical, methodological, and/or practical significance.
-5. Present the study's purpose, aims, and RQs (and hypotheses if applicable) in a form that clearly follows from the gap.
+5. Present the study's purpose, aims, and RQs (and hypotheses if applicable) in a form that clearly follows from the gap. Use the [shared RQ-label style](../references/core/manuscript-house-style.md#research-question-labels) when listing questions, preserving the actual wording/order.
 6. Briefly indicate the research approach when readers need it to understand what this study does differently.
 7. End with a concise contribution preview and roadmap for the rest of the paper.
 
