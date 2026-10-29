@@ -254,6 +254,10 @@ Before:
 After:
 > Research on written feedback has examined its form, learner uptake, and delivery mode, but findings differ across face-to-face and online settings (Smith, 2021; Lee, 2022; Chen, 2023).
 
+### Context-sensitive precision of broad nouns
+
+Review vague or repeated *account* and *tension* when they obscure what is actually being described, explained, interpreted or contrasted. Check the intended meaning and whether a more precise expression is supported. Keep necessary technical/literal uses, established constructs and exact quotations; do not impose a blanket word ban. An alternative such as *explanation*, *description*, *interpretation*, *disagreement* or *mismatch* is appropriate only when it expresses the actual meaning more accurately. Do not rotate synonyms for variety, change a construct or treat these words as evidence of AI authorship.
+
 ### Abstract vocabulary clusters
 
 Review clusters of *delve*, *multifaceted*, *intricate interplay*, *holistic*, *dynamic landscape*, *valuable insights*, *robust understanding*, and *nuanced tapestry*. Do not blacklist words in isolation. Keep them when they are the clearest technical choice.
