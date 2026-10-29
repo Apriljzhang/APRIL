@@ -53,6 +53,8 @@ Audit the visible author block separately from DOCX properties. For the user's i
 
 Normalise only the intended author's supported details. Preserve all coauthors, author order, contributions, existing corresponding-author choices and genuine study-specific affiliation requirements. A preferred email does not make that person the corresponding author. Do not insert the user into unrelated papers or alter names in published reference entries. Apply journal-required placement, and keep author details out of blinded copies. Keep private profiles/contact dossiers outside public skill repositories; public instructions contain the checking workflow, not personal address data.
 
+Audit the [shared author-block layout](../references/core/manuscript-house-style.md#author-block-layout): comma-separated actual byline with superscript affiliation markers and the actual correspondence asterisk, mapped affiliation lines, then separate corresponding-author, `Email:`, `Address:` and `ORCID:` lines. Use the shortened labels and the correct owners' verified details; preserve the paper-specific author list/order/roles, unknown-field queries, journal adaptation and blinding.
+
 ## Word document properties
 
 Audit the actual DOCX `docProps/core.xml` and `docProps/app.xml`, not merely the filename or Finder dates. Include this audit in the formatting report and, in fix mode, verify the saved properties again:
@@ -79,6 +81,8 @@ Use the available Word/document skill and its existing tools for DOCX operations
 - For network figures, preserve node placement, edge scaling, signs and legends across comparisons; define relevant encodings and uncertainty/stability information. Do not independently rescale panels or silently recast scientific data. Flag missing supporting edge/bridge/comparison or stability reporting rather than run unrequested analyses. Use accessible encodings beyond colour alone.
 - Before whole-manuscript pre-submission export, read `../references/reporting/reporting-router.md` and run the complete applicable JARS pack (all three design files for Mixed; relevant Quant modules and REC items). Record met/not met/not applicable/unclear with locations. Prefer official APA checklist PDFs for formal attestation. Missing reporting is an author flag, not permission to invent content.
 - Retain APRIL's journal-article core. For an explicitly different genre, consult `../references/genres/academic-genres.md` only as needed.
+
+Before saving a Word manuscript output, apply the [shared filename convention](../references/core/manuscript-house-style.md#manuscript-filenames-and-output-separation): `Manuscript-with authors-[2–3 topic keywords]-YYYYMMDD.docx`, with a literal version marker and the output-creation date in UTC+8. Delimiter hyphens have no adjacent spaces; spaces inside the marker/topic remain. Use an accurate blinded marker for anonymous copies, stage folders for formatted/commented/revised/journal-adapted versions and collision checks that preserve originals. Validate this separately from genuine DOCX metadata dates; do not bulk rename unrelated existing files.
 
 ## Deliverable
 

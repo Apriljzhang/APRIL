@@ -23,6 +23,16 @@ For manuscript preparation, apply these house rules first. When journal adaptati
 - Keep table/figure notes to the minimum needed for independent interpretation: omit repeated narrative and boilerplate, but retain necessary abbreviations, symbols, units, denominators, uncertainty/statistical indicators and attribution/licence details as applicable. Use notes only when needed; never strip essential information to meet an arbitrary word cap.
 - Italicise direct quotations from interviews and other qualitative datasets, inline or block, while preserving exact wording, attribution, confidentiality, participant identifiers and the declared transcription/translation policy. Keep applicable APA quotation punctuation and source details; quotations of 40 or more words retain block formatting. Do not invent participant references or extend this italic rule automatically to quotations from published literature.
 
+### Author-block layout
+
+For the identified house-prepared copy, use the same layout across manuscripts while preserving each paper's actual identities and roles:
+
+- Put the actual byline names on one comma-separated line in their established order, with superscript affiliation numbers and an asterisk on the actual corresponding author. Preserve multiple affiliations and the correct author-to-number mapping.
+- Put the numbered affiliations on the following lines, matching the byline markers. Query an unknown extra affiliation instead of inventing it or carrying a placeholder into other papers.
+- Leave a blank line after the affiliations, then put each item on a separate line: `* Corresponding author: [actual name].`, `Email: [verified email]`, `Address: [verified postal address]`, and `ORCID: [verified identifier]`. Use the short labels `Email:` and `Address:`, not `Corresponding email:` or `Correspondence address:`.
+- Keep all of this text black, left-aligned and Times New Roman 12 pt. Contact details and identifiers must belong to their stated owners; do not make the user the corresponding author by default or attach one person's ORCID to another. Query ambiguous ownership rather than guess.
+- Standardise the layout, not an example's author list, number of authors, affiliations, order or correspondence designation. Apply journal-adapted placement/style requirements and blinded-submission safeguards explicitly.
+
 ### Heading hierarchy
 
 | Level | April's APA-based presentation |
@@ -70,6 +80,14 @@ Author-block consistency is separate from file metadata: use the user's private 
 - When revising or exporting a continuation of an existing document, preserve its genuine original creation time and meaningful metadata. Update modified time for the actual revision. If creation metadata is missing or demonstrably invalid, report it and use a transparent repair; do not invent historical provenance or reset it merely because a new output filename is used.
 - A genuinely new Word document starts `docProps/app.xml` `TotalTime` at `0` minutes. Existing files retain legitimate accumulated editing time. Never derive editing duration from wall-clock age or invent elapsed minutes. Automatic accumulation after creation depends on Microsoft Word/the editing application and cannot be guaranteed by file generation alone; disclose that limitation when relevant.
 - Do not falsify filesystem creation/modification timestamps. Filesystem dates, OOXML document properties and Word's accumulated editing time are separate records.
+
+## Manuscript filenames and output separation
+
+Name identified Word manuscript outputs `Manuscript-with authors-[2–3 topic keywords]-YYYYMMDD.docx`. The words `with authors` are a literal identified-version marker, not a place to insert author names. Do not put spaces immediately before or after delimiter hyphens; preserve spaces within `with authors` and within the topic words. Choose two or three concise topic keywords from the actual manuscript; use the user's local UTC+8 calendar date when the output is created, in eight digits. Do not reuse a template date, invent topic/author details or backdate document properties to match a filename.
+
+For anonymous submissions, replace `with authors` with a clear `without authors` or `blinded` marker so the filename accurately signals the version. Keep house-formatted, commented, revised and journal-adapted copies in clear stage folders to avoid collisions while retaining canonical filenames. Preserve originals, never overwrite a different copy silently, and avoid arbitrary suffixes where stage folders suffice. This applies to authorised outputs, not a retroactive bulk rename of unrelated files.
+
+Validate the saved output's marker, two/three topic keywords, extension, eight-digit UTC+8 date and destination/collision handling separately from the Word-properties audit. A filename date does not authorise resetting genuine creation history or inventing editing time.
 
 ## Delivery check
 
