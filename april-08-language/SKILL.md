@@ -254,9 +254,9 @@ Before:
 After:
 > Research on written feedback has examined its form, learner uptake, and delivery mode, but findings differ across face-to-face and online settings (Smith, 2021; Lee, 2022; Chen, 2023).
 
-### Context-sensitive precision of broad nouns
+### Context-sensitive lexical precision
 
-Review vague or repeated *account*, *tension* and *boundaries* when they obscure what is actually being described, explained, interpreted, delimited or contrasted. Check the intended meaning and whether a more precise expression is supported. Keep necessary technical/literal uses, established constructs (including actual theoretical boundary conditions) and exact quotations; do not impose a blanket word ban. An alternative such as *explanation*, *description*, *interpretation*, *disagreement*, *mismatch*, *limits*, *scope*, *conditions* or *distinctions* is appropriate only when it expresses the actual meaning more accurately. Do not rotate synonyms for variety, change a construct or treat these words as evidence of AI authorship.
+Review vague or repeated *account*, *tension*, *boundaries* and *plausible* when they obscure what is actually being described, explained, interpreted, delimited or contrasted. Check the intended meaning and whether a more precise expression is supported. Keep necessary technical/literal uses, established constructs (including actual theoretical boundary conditions) and exact quotations; do not impose a blanket word ban. An alternative such as *explanation*, *description*, *interpretation*, *disagreement*, *mismatch*, *limits*, *scope*, *conditions* or *distinctions* is appropriate only when it expresses the actual meaning more accurately. For *plausible*, prefer an exact statement of what the evidence supports and what remains uncertain when that is clearer; never replace it with wording that increases certainty beyond the evidence. Do not rotate synonyms for variety, change a construct or treat these words as evidence of AI authorship.
 
 ### Abstract vocabulary clusters
 
