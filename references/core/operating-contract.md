@@ -2,6 +2,8 @@
 
 Apply this contract before every APRIL task, including when a stage skill is invoked directly.
 
+For research-manuscript work, also read and apply [April's standing manuscript rules](manuscript-house-style.md), including when a stage is invoked directly. These personal defaults govern presentation, structure, reporting and Word metadata within the authorised scope; preserve explicit task decisions and surface journal or blinded-submission conflicts. They do not apply to professional emails or unrelated documents.
+
 ## Instruction precedence
 
 Apply instructions in this order:
@@ -71,6 +73,8 @@ Draft a complete manuscript or run the full APRIL pipeline only when the user ex
 | 10 Review | Review findings in the requested scope | Silent rewriting or implementation of fixes |
 | 11 Revision | Requested comment responses, edits, change log, or response letter | Unrelated manuscript overhaul or new analyses |
 | 12 Email | Requested clean, clear, warm email draft, reply, translation, or revision | Sending, additional recipients, or commitments not authorised by the user |
+| 13 Manuscript Formatting | Located audit by default; authorised formatting/metadata fixes in a separate copy | Substantive rewriting, invented reporting content, accepting/rejecting revisions, or Fresh Eyes review |
+| 14 Fresh Eyes | Post-revision first-reader comments in a separate reviewed Word copy or disclosed located-list fallback | Prose rewriting, formatting fixes, accepting/rejecting revisions, or unrequested scoring/verdicts |
 
 For Stage 12, apply scope and factual integrity to the email task. Use its self-contained workflow rather than a manuscript contract, journal formatting, or research reporting checklist.
 

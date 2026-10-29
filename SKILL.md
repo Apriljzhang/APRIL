@@ -4,7 +4,8 @@ description: >-
   APRIL — Academic Paper Research & Inquiry Lab. Helps plan, write, and revise
   academic journal papers through staged skills: ideation, literature,
   methodology, analysis, discussion, framing and abstract, language, formatting,
-  review, revision, and clear, warm professional emails. Use for a complete article workflow, for choosing the
+  review, revision, manuscript formatting audits/fixes, Fresh Eyes post-revision reader comments,
+  and clear, warm professional emails. Use for a complete article workflow, for choosing the
   correct APRIL stage, or when work must comply with APA JARS reporting standards.
   Follow the user's requested stage and deliverables without silently expanding
   into unrequested manuscript sections or a complete paper.
@@ -36,8 +37,16 @@ Read `references/core/operating-contract.md` before routing or producing work. U
 | 10 | `april-10-review` | Review like an editor/referee |
 | 11 | `april-11-revision` | Revise and write the response letter |
 | 12 | `april-12-email` | Write clean, clear, warm professional and academic emails |
+| 13 | `april-13-manuscript-formatting` | Audit or fix manuscript presentation against April's standing rules |
+| 14 | `april-14-fresh-eyes` | Check post-revision sentence contribution, research-story progression and possible residue through anchored comments |
 
 Stage 12 is a professional correspondence extension. Route email drafting, replies, translation, and revision to `april-12-email/SKILL.md` whenever requested. It is independent of the manuscript pipeline and uses dynamic message length and paragraph structure; journal formatting and JARS checklists do not apply to the email body.
+
+## Manuscript review routing
+
+- **“Use APRIL Manuscript Formatting”** routes to `april-13-manuscript-formatting/SKILL.md`: check only by default, or fix presentation/metadata when requested. The standing policy remains the single source of truth. Stage 09 remains available for journal submission specifications, length and caption requirements.
+- **“Use APRIL Fresh Eyes”** or a final post-revision first-time-reader pass routes to `april-14-fresh-eyes/SKILL.md`: comments on sentence contribution, smooth research narrative, empty/repeated wording and possible revision residue; for Word, a separate copy with anchored comments when supported. Stage 08 remains prose editing; Stage 10 remains the broader editorial/methodological review.
+- Invoke these separately or in the requested sequence with distinct outputs. Their availability does not authorise running both or altering any manuscript.
 
 ## How to use
 
@@ -77,6 +86,9 @@ The target journal's current author instructions and the user's requirements det
 - **Reporting completeness:** `references/reporting/reporting-router.md`, then the applicable full checklist files beside it
 - **Output scope and stopping rules:** `references/core/operating-contract.md`
 - **Cross-stage decisions:** `references/core/manuscript-contract.md`
+- **Standing manuscript presentation and metadata rules:** `references/core/manuscript-house-style.md`
+- **Controlled manuscript formatting audit/fixes:** `april-13-manuscript-formatting/SKILL.md`
+- **First-reader comprehension comments:** `april-14-fresh-eyes/SKILL.md`
 - **Shared-resource routing:** `references/core/resource-map.md`
 - **Evidence and citation integrity:** `references/evidence/evidence-integrity.md`
 - **Local quotation search and page pinning:** `references/evidence/pdf-quote-search.md`

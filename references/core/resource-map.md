@@ -4,13 +4,19 @@ APRIL Commons is an internal reference layer, not a separately invoked skill. Lo
 
 | Family | Governs | Canonical resources |
 |---|---|---|
-| Core | Scope, precedence, continuity, stopping | `operating-contract.md`, `manuscript-contract.md` |
+| Core | Scope, precedence, continuity, stopping | `operating-contract.md`, `manuscript-contract.md`, `manuscript-house-style.md` |
 | Reporting | What study information must be disclosed | `../reporting/reporting-router.md` and applicable standards |
 | Evidence | Citation, quotation, data, and claim integrity | `../evidence/evidence-integrity.md`, `../evidence/pdf-quote-search.md` |
 | Methods | Selection of a defensible analytical family | `../methods/method-index.md`; detailed cards remain in Stage 04 |
 | Rhetoric | Optional empirical story enhancement, academic moves, stance, cohesion, and house style | `../rhetoric/empirical-storytelling.md` and other files under `../rhetoric/` |
 | Framing | Shared problem, purpose, and contribution distinctions | files under `../framing/` |
 | Genres | Minimal calibration beyond journal articles | `../genres/academic-genres.md` |
+
+## Manuscript finishing routes
+
+- Manuscript presentation audit/requested fixes: `../../april-13-manuscript-formatting/SKILL.md`; its rules live only in `manuscript-house-style.md`.
+- Post-revision first-reader sentence contribution, narrative flow and residue comments: `../../april-14-fresh-eyes/SKILL.md`; preserve manuscript text and review markup.
+- Keep these distinct from Stage 08 language editing, Stage 09 journal submission specifications and Stage 10 broader editorial review. Do not automatically run both.
 
 ## Loading rule
 
