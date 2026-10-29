@@ -29,6 +29,14 @@ Use stage 09 when the task is primarily interpreting journal submission specific
 4. Formatting-only work does not authorise restructuring substantive text or moving interpretive claims between sections. Flag missing sections, misplaced content and JARS reporting gaps for the author; never invent content to satisfy them. For an authorised complete reporting/pre-submission check, follow `../references/reporting/reporting-router.md` and its applicable full packs; distinguish reporting gaps from presentation defects.
 5. Change figure fonts only when an editable source supports a faithful export. Preserve plotted data, scales, labels and scientific encodings; do not silently redraw a scientific figure or substitute an approximation. Flag inaccessible figure sources or fonts.
 
+## Journal-required ancillary matter
+
+Within the requested formatting/submission scope, check the current official target-journal author guidelines, relevant article type and blinded-submission instructions when the journal is known. Record required ancillary items and their required locations: declarations, funding, conflicts of interest, data availability, ethics/consent and other applicable author information. These are permitted journal-required additions outside the six main scholarly sections, not a reason to restructure the research argument.
+
+In check-only mode, flag missing or misplaced items. In authorised fix mode, add/place required items only from verified source facts and the user's instructions. Never assume no funding, no conflicts, consent or ethical approval, invent identifiers, or expose identifying information in a blinded file. Query missing facts or clearly flag what remains unresolved. Preserve existing truthful declarations. Journal-required placement governs these ancillary items; retain house style elsewhere and surface material conflicts.
+
+If the journal is unknown, mark journal-specific compliance unverified and ask for the target only when it is needed to complete the requested outcome. For an authorised batch, check each paper's own target and supported declarations separately; do not carry another paper's funding, ethics or conflict statements across.
+
 ## Word document properties
 
 Audit the actual DOCX `docProps/core.xml` and `docProps/app.xml`, not merely the filename or Finder dates. Include this audit in the formatting report and, in fix mode, verify the saved properties again:
