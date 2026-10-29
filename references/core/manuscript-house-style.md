@@ -23,6 +23,14 @@ For manuscript preparation, apply these house rules first. When journal adaptati
 - Keep table/figure notes to the minimum needed for independent interpretation: omit repeated narrative and boilerplate, but retain necessary abbreviations, symbols, units, denominators, uncertainty/statistical indicators and attribution/licence details as applicable. Use notes only when needed; never strip essential information to meet an arbitrary word cap.
 - Italicise direct quotations from interviews and other qualitative datasets, inline or block, while preserving exact wording, attribution, confidentiality, participant identifiers and the declared transcription/translation policy. Keep applicable APA quotation punctuation and source details; quotations of 40 or more words retain block formatting. Do not invent participant references or extend this italic rule automatically to quotations from published literature.
 
+### Working-draft placeholders and author questions
+
+Highlight actual unresolved manuscript placeholders and author-input queries in yellow using Word text highlight (`w:highlight` value `yellow`), retaining black text. This is an explicit working-draft exception to the monochrome rule, including a genuine placeholder inside a table; it is not coloured table-cell/background shading. Do not highlight ordinary brackets, citations, statistical notation, code, participant labels or valid reported values merely because they resemble placeholders. Preserve truthful query text and never fill unknown facts by guessing. Clear the highlight only after the input is genuinely resolved; flag outstanding queries before submission rather than hide them.
+
+For a decision that cannot be made confidently, raise a concise project-specific question with file/section, exact location, what is unknown and the decision/input needed. Use a supported user-input mechanism when available, otherwise ask in chat; do not claim that a popup was displayed unless the tool actually supports and produces one. Preserve anchored review comments and avoid re-asking resolved or speculative ethics/timeline questions.
+
+For manuscript-production AI/tool residue, follow [Fresh Eyes' scoped modes](../../april-13-fresh-eyes/SKILL.md#review-and-authorised-revision-modes): comment-only reviews preserve body text; authorised revisions may directly remove clear accidental production scaffolding with an original and traceable change record. Preserve ambiguous/intentional or required disclosures and substantive methods pending a specific decision; never conceal required facts or invent a no-use statement.
+
 ### Author-block layout
 
 For the identified house-prepared copy, use the same layout across manuscripts while preserving each paper's actual identities and roles:
@@ -42,6 +50,8 @@ For the identified house-prepared copy, use the same layout across manuscripts w
 | 3 | Left-aligned, bold italic, title case; text starts a new paragraph |
 | 4 | Left-aligned paragraph with a 0.5-inch first-line indent; bold, title case, ending with a full stop; text continues on the same line |
 | 5 | Left-aligned paragraph with a 0.5-inch first-line indent; bold italic, title case, ending with a full stop; text continues on the same line |
+
+Heading-number glyphs must match their heading text: bold for bold headings, bold italic for bold-italic headings, with the same Times New Roman 12 pt black formatting. For automatic Word numbering, check the effective numbering-level/override run properties as well as the heading text runs; verify the rendered glyphs.
 
 All levels remain 12 pt. Left alignment is compatible with the first-line indentation of run-in Levels 4 and 5. April's Level 1 left alignment overrides APA's centred default. Do not add blank lines for heading spacing or invent different sizes to distinguish levels; preserve a logical outline through semantic styles.
 

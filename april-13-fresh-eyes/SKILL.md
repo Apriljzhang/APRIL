@@ -4,16 +4,24 @@ description: >-
   APRIL stage 13 Fresh Eyes: a final post-revision first-time-reader pass for
   sentence contribution, smooth research narrative, first-use terminology/notation,
   empty/repeated wording and revision residue. Leave actionable anchored comments, normally in a separate Word copy,
-  without rewriting. Distinct from language polishing and methodological peer review.
+  comments by default, with scoped residue cleanup when revisions are authorised. Distinct from language polishing and methodological peer review.
 ---
 
 # APRIL Fresh Eyes
 
 ## Purpose and boundaries
 
-Read `../references/core/operating-contract.md`. This is April's final first-reader pass after revisions, before sharing a manuscript with someone who has never read it. Apply the standing manuscript policy within this comment-only scope; it does not authorise formatting changes to the reviewed copy. Preserve explicit limits, anonymity and scientific evidence.
+Read `../references/core/operating-contract.md`. This is April's final first-reader pass after revisions, before sharing a manuscript with someone who has never read it. Apply the standing manuscript policy within the selected mode below; comments-only scope does not authorise body or formatting changes. Preserve explicit limits, anonymity and scientific evidence.
 
 Keep the neighbouring skills distinct: stage 08 edits prose and language; stage 10 evaluates the manuscript as an editor/referee; stage 09 audits or fixes presentation. Fresh Eyes identifies where the current text fails to communicate or carry its weight and leaves comments for April. It is not a full methodological/JARS audit, novelty assessment, acceptance verdict or automatic language rewrite. Do not run the other skills automatically.
+
+## Review and authorised revision modes
+
+- **Comments only** is the default unless revisions are authorised: leave located comments and preserve body text. A request to create/update this skill does not authorise manuscript edits.
+- **Authorised revision:** when the user requests revisions, including an already authorised batch revision, directly remove only CLEAR accidental manuscript-production scaffolding (for example assistant self-reference, prompt/tool leftovers or editorial drafting notes). Preserve the original and record each deletion's location, original text and reason through supported tracked edits or a concise change log. Do not accept/reject existing tracked changes or make unrelated prose changes.
+- **Cannot decide:** preserve the passage and ask a specific project-level question with its exact location and decision needed. Ambiguous or intentional AI-use statements, substantive research methods and journal-required declarations must not be silently removed. Check applicable current journal disclosure requirements when relevant; retain required truthful details and never fabricate a no-AI statement or infer use from style.
+
+Highlight genuine unresolved draft placeholders/author-input queries in yellow with black text under the shared policy; a comment-only review should leave an anchored comment and flag the required highlighting instead of silently changing formatting. Use an available user-input tool for concise questions, otherwise ask in chat; do not promise unsupported popups or repeat resolved/speculative timeline questions.
 
 ## Read the current manuscript as a newcomer
 
@@ -36,7 +44,7 @@ When checking Discussion promise and delivery, use [stage 05's RQ-ordered organi
 - **Repetition without progression:** near-duplicate sentences, paragraphs or recycled section endings that repeat the same point without development. Distinguish this from legitimate abstract/conclusion summaries, a necessary reminder of an RQ or construct, and a purposeful return that adds evidence, interpretation or scope.
 - **Disconnected flow:** an orphan sentence, unexplained transition, ambiguous referent, undefined term or assumed drafting context that makes the reader guess the connection. Check paragraph purpose and sentence order, not just grammar. Do not impose a novel finding in every sentence; a transition, signpost, bounded qualification or concise recap can earn its place.
 - **First-use clarity and consistent meaning:** check unfamiliar or ambiguous acronyms, abbreviations, symbols, notation, labels and codes at their first relevant use, and check that their meaning stays intelligible across the paper. Do not guess a meaning from a letter or code; request a definition when the manuscript does not establish it. Treat the abstract and main body as potentially independently read, and check that standalone table/figure labels remain understandable; minimum notes still allow necessary definitions. Avoid needless expansion of conventional notation where its standard contextual meaning is clear, but flag genuine ambiguity or a conflicting meaning. Where confidentiality matters, ask for the coding scheme or anonymous label's meaning, never a real identity. These checks apply across fields; particular kinds of codes are examples, not a fixed taxonomy.
-- **Unintended manuscript-production AI mentions:** alert on actual passages that mention AI assistance preparing the manuscript without a clearly intentional disclosure, assistant self-reference, prompt remnants, tool commentary or drafting-process notes. Anchor the occurrence and ask whether it is intentional and whether disclosure is required; do not remove it automatically. Distinguish prose-production assistance from AI as the substantive study topic, intervention, dataset or analysis/method, and preserve methodological facts and evidence. Retain intentional disclosures and any current journal-required AI declaration, flagging compliance needs instead of concealing use or writing a false no-use statement. Do not infer AI use from style, run a detector-style judgement, impose a quota or invent occurrences. If removal is later requested, assess the exact scope and applicable disclosure obligations first; never falsify required facts.
+- **Unintended manuscript-production AI mentions:** identify actual assistant/prompt/tool/drafting residue and apply the selected mode above: alert only in comments-only reviews; directly remove clearly accidental scaffolding in authorised revisions with an original and traceable edit record. Ask about uncertain passages and retain them pending decision. Distinguish AI as a substantive study topic, intervention, dataset or analysis/method from preparing prose. Preserve those facts, intentional disclosures and required journal declarations; no blanket removal, false no-use statements, detector-style claims or invented occurrences.
 - **Possible revision residue:** duplicated old/new claims, terminology or labels that change unexpectedly, inconsistent counts/timepoints/units, stale table/figure/section references, incompatible explanations, outdated abstract/conclusion claims or section promises that the current text no longer fulfils. Check legitimate analytic subsets, exclusions or contextual differences before calling numbers contradictory. Describe an inconsistency demonstrated in the current text; call its origin “possible residue” unless version evidence establishes it.
 - **Reader-facing cross-section/display mismatch:** a table/figure that the prose describes differently, a caption that does not explain the display, or a conclusion that no longer matches the stated current findings. Judge interpretability and internal agreement, not routine table/figure formatting or a fresh study-validity review.
 
@@ -46,14 +54,14 @@ Respect the house policy's concise ethics presentation and omit speculative time
 
 ## Comment contract
 
-Each comment needs an exact anchor, a concise reader-facing problem, why it matters and a specific action or genuine question. Use actions such as **clarify, combine, cut, move, update, reconcile or query**; leave the wording decision to April. Do not silently rewrite or implement the suggestion.
+Each comment needs an exact anchor, a concise reader-facing problem, why it matters and a specific action or genuine question. Use actions such as **clarify, combine, cut, move, update, reconcile or query**; leave the wording decision to April. In comments-only mode, do not implement suggestions. In authorised revision mode, only the clear residue cleanup above or other separately specified edits may be applied, with a record.
 
 Before retaining a comment, ask what the reader understands before the passage, what the passage adds in this location, whether the concern is textual rather than preference, and the smallest useful remedy. Needed signposting, summaries, qualifications and immediate later definitions should pass this check.
 
 - Distinguish **demonstrated issue** (quote conflicting or redundant evidence) from **reader question / possible ambiguity** or **possible revision residue**. The current manuscript alone cannot prove editing history or intended meaning.
 - Calibrate severity separately from certainty: **high** materially changes the reader's understanding of the central account; **medium** interrupts a substantive connection or passage; **low** is a supported local comprehension issue. No arbitrary quota, cosmetic preference list, scores or acceptance/rejection verdict unless requested.
 - Anchor to the exact words or smallest sufficient paragraph/table/figure passage. For duplicates or contradictions, identify and quote the other location too. Resolve repeated wording using section/paragraph and surrounding text; never trust a helper's first substring match without checking its anchor. Put one central comment where the remedy belongs and cross-reference related locations.
-- Preserve body text, data, quotations, citations, fields, existing comments and pending revisions. Do not accept/reject tracked changes, change formatting or perform fixes without separate instruction. Read current visible text and distinguish pending insertions/deletions when they affect interpretation.
+- Preserve data, quotations, citations, fields, existing comments and pending revisions. In comments-only mode preserve body text and formatting; in authorised revision mode limit changes to the scoped, logged edits and authorised placeholder highlighting. Do not accept/reject existing tracked changes or perform unrelated fixes. Read current visible text and distinguish pending insertions/deletions when they affect interpretation.
 
 ## Word review copy and verification
 
@@ -61,13 +69,13 @@ For a supplied Word manuscript, the default deliverable is a **separate reviewed
 
 Append comments with non-colliding IDs and valid range-start/range-end/reference markers. Check `comments.xml`, document relationships and content-type registration; verify every new anchor covers its intended passage. Preserve existing comment threads, supported extended parts and revision markup; avoid a lossy re-save.
 
-Verify body preservation by comparing before/after visible text and underlying content/field/revision elements with only the new comment markers removed; compare unaffected package parts as appropriate. Render and inspect the reviewed copy through the document workflow for layout preservation. Rendering alone cannot prove comments exist or are correctly anchored.
+In comments-only mode verify body preservation by comparing before/after text and content/field/revision elements with new comment markers removed. In authorised revision mode reconcile every body/highlight change to the authorised edit record, and verify no unlogged changes to evidence or unaffected fields/parts. Render and inspect the reviewed copy through the document workflow for layout preservation. Rendering alone cannot prove comments exist or are correctly anchored.
 
 If native comments cannot be produced safely, disclose that limitation and give a located comment list with section, paragraph/table/figure identifier, exact quoted anchor, issue classification, impact and actionable comment. Use page numbers only when verified in a render. Never claim inline Word comments were inserted when only a list was produced. If rendering is unavailable, report that separately from structural verification.
 
 ## Deliverable and stopping point
 
-Return the reviewed copy (or explicitly disclosed located-list fallback) with a short prioritised overview of the most consequential reader concerns and verification limits. The overview accompanies the actual comments; it does not replace them. Preserve manuscript text and leave decisions to April. If formatting and Fresh Eyes are both requested, follow the requested sequence with distinct outputs and no silent prose corrections.
+Return the reviewed copy (or explicitly disclosed located-list fallback) with a short prioritised overview of the most consequential reader concerns and verification limits. The overview accompanies the actual comments; it does not replace them. Preserve manuscript text outside authorised scoped cleanup, include its change record and unresolved questions, and leave uncertain decisions to April. If formatting and Fresh Eyes are both requested, follow the requested sequence with distinct outputs and no silent prose corrections.
 
 For an authorised batch, apply the checks to each named manuscript independently, with separate reviewed copies and per-file concerns. A definition supplied in one paper or earlier conversation does not silently define a code in another paper. This skill does not itself authorise selecting or revising a batch.
 
