@@ -99,9 +99,15 @@ Author-block consistency is separate from file metadata: use the user's private 
 
 Name identified Word manuscript outputs `Manuscript-with authors-[2–3 topic keywords]-YYYYMMDD.docx`. The words `with authors` are a literal identified-version marker, not a place to insert author names. Do not put spaces immediately before or after delimiter hyphens; preserve spaces within `with authors` and within the topic words. Choose two or three concise topic keywords from the actual manuscript; use the user's local UTC+8 calendar date when the output is created, in eight digits. Do not reuse a template date, invent topic/author details or backdate document properties to match a filename.
 
-For anonymous submissions, replace `with authors` with a clear `without authors` or `blinded` marker so the filename accurately signals the version. Keep house-formatted, commented, revised and journal-adapted copies in clear stage folders to avoid collisions while retaining canonical filenames. Preserve originals, never overwrite a different copy silently, and avoid arbitrary suffixes where stage folders suffice. This applies to authorised outputs, not a retroactive bulk rename of unrelated files.
+For anonymous submissions, replace `with authors` with a clear `without authors` or `blinded` marker so the filename accurately signals the version. Keep one comprehensive final manuscript in the project's final/root output location, plus a separate journal-adapted final only when needed (for example in a `Journal formatted` subfolder to avoid a filename collision). Do not deliver separate Formatted/Commented/Revised stage copies. Preserve original user files and never silently overwrite a different original. This applies to authorised outputs, not a retroactive bulk rename of unrelated files.
 
 Validate the saved output's marker, two/three topic keywords, extension, eight-digit UTC+8 date and destination/collision handling separately from the Word-properties audit. A filename date does not authorise resetting genuine creation history or inventing editing time.
+
+### Final-product-only delivery
+
+For authorised manuscript preparation/revision, deliver one comprehensive final manuscript containing the requested material, remaining anchored review comments and yellow-highlighted author queries. Add a journal-adapted final only when that version is needed; do not export stage-by-stage duplicates or an automatic clean/commented/revised bundle. An explicitly requested comments-only review can return one commented final copy. This delivery preference does not expand a narrow section/task into a whole manuscript or authorise invented missing content.
+
+Keep originals, traceability/change records and QA intermediates internally without cluttering the user-facing final output. Summarise material changes and outstanding decisions in the response; provide extra logs/files only when requested or integral to the requested deliverable. Generated intermediates may be cleaned up recoverably within the approved scope; do not broadly or permanently delete original/unrelated user files. For a batch, deliver one comprehensive final per manuscript, plus its journal final only when needed.
 
 ## Delivery check
 

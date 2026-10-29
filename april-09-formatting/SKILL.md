@@ -16,14 +16,14 @@ Read `../references/core/operating-contract.md`, then [the standing manuscript r
 Read [the concise APA presentation reference](references/apa-presentation.md) to distinguish official APA 7 baseline rules, JARS reporting requirements and April's house overrides. Use the chosen uniform 12-point Times New Roman and APA five-level hierarchy as needed, with the policy's left alignment; do not infer a 16/14/12-point ladder or a three-level cap.
 
 - **Check only** is the default for an audit, check, or unspecified invocation: report located issues and make no document changes.
-- **Fix** applies when the user asks to format, correct, or fix presentation. Make only authorised formatting/metadata corrections in a separate copy by default; follow an explicit in-place request. Do not ask again when permission to fix is already clear.
+- **Fix** applies when the user asks to format, correct, or fix presentation. Make only authorised formatting/metadata corrections and deliver one comprehensive final copy, preserving original user files; follow an explicit in-place request. Do not ask again when permission to fix is already clear.
 - This skill's creation or availability does not authorise processing any manuscript. Never run Fresh Eyes automatically. If both are requested, keep the outputs and purposes distinct.
 
 This is APRIL's single Formatting sub-skill: it combines the existing journal/APA/length/export guidance with today's standing-rule audit, controlled fixes, author-information consistency and Word-property checks. Do not route to a second Formatting skill.
 
 ## House preparation and journal adaptation
 
-For manuscript preparation, apply the standing house rules first. Then, when a target journal/submission version is in scope, check the current official journal instructions and adapt a separate journal-ready copy, retaining the house-prepared copy. In audit mode report the differences without changing files; in fix mode produce the requested copy/copies. A narrow house-only or element-level task remains narrow.
+For manuscript preparation, apply the standing house rules first. Then, when a target journal/submission version is in scope, check the current official journal instructions and adapt a separate journal-ready copy, retaining the house-prepared copy. In audit mode report the differences without changing files; in fix mode deliver the comprehensive final and a journal-adapted final only when needed, with no stage-by-stage deliverables. A narrow house-only or element-level task remains narrow.
 
 Journal-specific required presentation governs the journal-adapted version, including requirements that alter house numbering, page breaks, alignment or ancillary placement. These adaptations do not permanently change the global house policy. Report the adaptations; do not repeatedly seek permission for journal formatting already authorised by this workflow. Resolve factual gaps separately rather than inventing declarations.
 
@@ -88,11 +88,11 @@ Use the available Word/document skill and its existing tools for DOCX operations
 - Before whole-manuscript pre-submission export, read `../references/reporting/reporting-router.md` and run the complete applicable JARS pack (all three design files for Mixed; relevant Quant modules and REC items). Record met/not met/not applicable/unclear with locations. Prefer official APA checklist PDFs for formal attestation. Missing reporting is an author flag, not permission to invent content.
 - Retain APRIL's journal-article core. For an explicitly different genre, consult `../references/genres/academic-genres.md` only as needed.
 
-Before saving a Word manuscript output, apply the [shared filename convention](../references/core/manuscript-house-style.md#manuscript-filenames-and-output-separation): `Manuscript-with authors-[2–3 topic keywords]-YYYYMMDD.docx`, with a literal version marker and the output-creation date in UTC+8. Delimiter hyphens have no adjacent spaces; spaces inside the marker/topic remain. Use an accurate blinded marker for anonymous copies, stage folders for formatted/commented/revised/journal-adapted versions and collision checks that preserve originals. Validate this separately from genuine DOCX metadata dates; do not bulk rename unrelated existing files.
+Before saving a Word manuscript output, apply the [shared filename convention](../references/core/manuscript-house-style.md#manuscript-filenames-and-output-separation): `Manuscript-with authors-[2–3 topic keywords]-YYYYMMDD.docx`, with a literal version marker and the output-creation date in UTC+8. Delimiter hyphens have no adjacent spaces; spaces inside the marker/topic remain. Use an accurate blinded marker for anonymous copies, one comprehensive final in the final/root output location, and an optional journal-final subfolder when needed; use collision checks that preserve original user files. Validate this separately from genuine DOCX metadata dates; do not bulk rename unrelated existing files.
 
 ## Deliverable
 
-For check-only mode, give a concise issue list with section/paragraph or verified page location, observed defect, applicable rule and proposed correction. For fix mode, return the corrected copy with a short account of fixes, preservation/verification and unresolved items. Do not create a rewritten manuscript, extra section or Fresh Eyes review unless requested.
+For check-only mode, give a concise issue list with section/paragraph or verified page location, observed defect, applicable rule and proposed correction. For fix mode, follow the [final-product-only delivery rule](../references/core/manuscript-house-style.md#final-product-only-delivery): one comprehensive final with remaining comments/yellow queries, plus a journal-adapted final only when needed. Summarise fixes, verification and unresolved items; keep stage copies and traceability/QA internal rather than deliver duplicate variants. Do not create a rewritten manuscript, extra section or Fresh Eyes review unless requested.
 
 ---
 **APRIL — Academic Research Skills by April**

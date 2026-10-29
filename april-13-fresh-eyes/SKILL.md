@@ -68,7 +68,7 @@ Before retaining a comment, ask what the reader understands before the passage, 
 
 ## Word review copy and verification
 
-For a supplied Word manuscript, the default deliverable is a **separate reviewed DOCX with real anchored Word comments**, retaining the source intact. Use the available document skill's comment workflow and tools. Apply the house policy's truthful file metadata; label new comment authorship `APRIL Fresh Eyes (AI-assisted review)` rather than impersonating April or another human reviewer. Preserve existing comment authors and dates.
+For an explicitly requested comments-only Word review, return **one commented final DOCX with real anchored comments**, preserving original user files. For authorised revisions, deliver one comprehensive final containing the approved corrections and remaining comments/yellow queries; do not also deliver separate formatted/commented/revised variants. Apply the [shared final-product-only rule](../references/core/manuscript-house-style.md#final-product-only-delivery), with a journal-adapted final only when needed. Use the available document skill's comment workflow and tools. Apply the house policy's truthful file metadata; label new comment authorship `APRIL Fresh Eyes (AI-assisted review)` rather than impersonating April or another human reviewer. Preserve existing comment authors and dates.
 
 Append comments with non-colliding IDs and valid range-start/range-end/reference markers. Check `comments.xml`, document relationships and content-type registration; verify every new anchor covers its intended passage. Preserve existing comment threads, supported extended parts and revision markup; avoid a lossy re-save.
 
@@ -78,9 +78,9 @@ If native comments cannot be produced safely, disclose that limitation and give 
 
 ## Deliverable and stopping point
 
-Return the reviewed copy (or explicitly disclosed located-list fallback) with a short prioritised overview of the most consequential reader concerns and verification limits. The overview accompanies the actual comments; it does not replace them. Preserve manuscript text outside authorised scoped cleanup, include its change record and unresolved questions, and leave uncertain decisions to April. If formatting and Fresh Eyes are both requested, follow the requested sequence with distinct outputs and no silent prose corrections.
+Return the one final manuscript (or the disclosed located-list fallback for a comments-only review when native comments are unsupported), with a short prioritised overview of consequential reader concerns and verification limits. The overview accompanies the actual comments; it does not replace them. Preserve manuscript text outside authorised scoped cleanup, retain its change record internally and include unresolved questions, and leave uncertain decisions to April. If formatting and Fresh Eyes are both requested, follow the requested sequence but combine the authorised work into the final product, with no silent prose corrections or stage-output bundle.
 
-For an authorised batch, apply the checks to each named manuscript independently, with separate reviewed copies and per-file concerns. A definition supplied in one paper or earlier conversation does not silently define a code in another paper. This skill does not itself authorise selecting or revising a batch.
+For an authorised batch, apply the checks to each named manuscript independently, with one comprehensive final per paper and per-file concerns; add a journal final only when needed. A definition supplied in one paper or earlier conversation does not silently define a code in another paper. This skill does not itself authorise selecting or revising a batch.
 
 ---
 **APRIL — Academic Research Skills by April**

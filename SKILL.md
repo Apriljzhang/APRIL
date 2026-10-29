@@ -44,8 +44,8 @@ Stage 12 is a professional correspondence extension. Route email drafting, repli
 ## Manuscript review routing
 
 - **“Use APRIL Manuscript Formatting”** routes to `april-09-formatting/SKILL.md`: check only by default, or fix presentation/metadata when requested. The standing policy remains the single source of truth. Stage 09 is the single merged Formatting workflow: prepare the house copy first, then adapt a separate submission version to the current journal requirements when in scope.
-- **“Use APRIL Fresh Eyes”** or a final post-revision first-time-reader pass routes to `april-13-fresh-eyes/SKILL.md`: comments on sentence contribution, smooth research narrative, empty/repeated wording and possible revision residue; for Word, a separate copy with anchored comments when supported. Stage 08 remains prose editing; Stage 10 remains the broader editorial/methodological review.
-- Invoke these separately or in the requested sequence with distinct outputs. Their availability does not authorise running both or altering any manuscript.
+- **“Use APRIL Fresh Eyes”** or a final post-revision first-time-reader pass routes to `april-13-fresh-eyes/SKILL.md`: comments on sentence contribution, smooth research narrative, empty/repeated wording and possible revision residue; for an explicit comments-only Word review, one commented final; for authorised revisions, one comprehensive final with remaining anchored comments/queries. Stage 08 remains prose editing; Stage 10 remains the broader editorial/methodological review.
+- Invoke these separately or in the requested sequence, delivering one comprehensive final rather than stage copies, plus a journal final only when needed. Their availability does not authorise running both or altering any manuscript.
 
 ## How to use
 

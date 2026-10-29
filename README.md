@@ -35,11 +35,11 @@ Stages are numbered consecutively from 01 to 13. Stage 12 is a professional corr
 
 ### The two manuscript finishing skills
 
-Use **APRIL Manuscript Formatting** (09) for a house-style audit or requested fixes. It reads the shared [standing manuscript rules](references/core/manuscript-house-style.md), rather than maintaining another copy. Use **APRIL Fresh Eyes** (13) for a final post-revision reader's comments on sentence contribution, smooth research narrative, empty/repeated wording and possible revision residue; Word reviews normally return a separate commented copy. Both preserve scientific content and existing revisions. They can be invoked separately or in sequence with distinct outputs, and do not run automatically together. Formatting is consolidated in the established Stage 09, with house preparation followed by journal adaptation; Stage 08 remains prose editing and Stage 10 broader editorial review.
+Use **APRIL Manuscript Formatting** (09) for a house-style audit or requested fixes. It reads the shared [standing manuscript rules](references/core/manuscript-house-style.md), rather than maintaining another copy. Use **APRIL Fresh Eyes** (13) for a final post-revision reader's comments on sentence contribution, smooth research narrative, empty/repeated wording and possible revision residue; An explicit comments-only Word review returns one commented final; authorised revisions return one comprehensive final with remaining comments/queries. Both preserve scientific content and existing revisions. They can be invoked separately or in sequence with one comprehensive final deliverable, plus a journal-adapted final only when needed, and do not run automatically together. Formatting is consolidated in the established Stage 09, with house preparation followed by journal adaptation; Stage 08 remains prose editing and Stage 10 broader editorial review.
 
 Example requests:
 
-- “Use APRIL Manuscript Formatting to fix the formatting of this Word manuscript using my standing rules. Preserve all text and return a separate corrected copy.”
+- “Use APRIL Manuscript Formatting to fix the formatting of this Word manuscript using my standing rules. Preserve the content and original source files, and return the comprehensive final manuscript.”
 - “Use APRIL Fresh Eyes on this revised manuscript as if reading it for the first time. Comment on sentences that add no useful meaning, repetition without progression, unclear flow and possible revision residue. Preserve necessary signposting and leave anchored Word comments; do not rewrite.”
 
 ## APRIL Commons
