@@ -56,6 +56,8 @@ When interpretive themes are the intended output, distinguish a topic or categor
 ## Systematic reviews
 If SLR/scoping: follow `../references/reporting/prisma.md` before analysis/synthesis writing.
 
+For authorised manuscript Method text, apply the [shared ethics-presentation rule](../references/core/manuscript-house-style.md#structure-and-pagination) for the verified approval sentence's placement within Participants and Context. Preserve necessary ethics/consent/confidentiality reporting and unresolved factual queries; this presentation preference does not replace ethical design or justify invented approval.
+
 ## Outputs
 Design rationale; threats table; diagram; pointer to the primary analysis card; and, when justified, a sequenced multi-method and integration plan.
 
