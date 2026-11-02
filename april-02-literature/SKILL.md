@@ -1,9 +1,10 @@
 ---
 name: april-02-literature
 description: >-
-  APRIL stage 02: literature review — search, triage, synthesis, citation integrity,
-  Zotero library search (PapersGPT/pz), and integrated local PDF quotation search
-  with physical-page pinning.
+  APRIL stage 02: literature review and study-specific theoretical framework
+  development — search, triage, synthesis, citation integrity, Zotero library
+  search (PapersGPT/pz), and integrated local PDF quotation search with
+  physical-page pinning.
 ---
 
 # april-02-literature
@@ -29,6 +30,12 @@ Build a credible, synthesised evidence base. Prefer the user’s local library a
 5. **Pin quotes** from local PDFs when page-accurate citation is needed. Read `../references/evidence/pdf-quote-search.md` before running APRIL's integrated locator.
 6. **Integrity gate** — no invented DOIs/pages; flag unverified items.
 7. Hand matrix to methodology or drafting stages.
+
+## Theoretical framework requests
+
+When asked to define, propose or develop a theoretical framework, read [the focused framework guidance](references/theoretical-framework.md). Develop a literature-grounded argument that conceptualises and justifies the particular investigation: establish its problem/question and explain why the proposed approach is defensible. An established named theory may help, but is not a universal prerequisite. Use both empirical and theoretical scholarship, preserve inductive/descriptive designs, and keep evidence, assumptions and proposed relationships distinct.
+
+For a framework-only request, return the coherent study-specific argument, necessary concepts and supported relationships/assumptions, rationale for the selected perspective, connections to the RQs and approach, and accurate citations with verification limits. An optional diagram summarises the established prose logic. Keep the requested scope; do not automatically add a full literature review, search-log bundle or other manuscript sections.
 
 ## Zotero (APRIL workflow)
 
