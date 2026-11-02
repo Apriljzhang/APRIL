@@ -24,7 +24,7 @@ Use two routing levels: **primary approach** describes the evidence logic; **ana
 | Goal | Card |
 |---|---|
 | Linear, logistic, ordinal, count, or rate regression | `regression-glm.md` |
-| Experimental, quasi-experimental, factorial, repeated, or group comparisons | `experimental-group-comparisons.md` |
+| Experimental, quasi-experimental, factorial, repeated, or group comparisons, including rank-based nonparametric longitudinal/factorial analysis with nparLD | `experimental-group-comparisons.md` |
 | Mediation, moderation, interaction, or conditional process | `mediation-moderation.md` |
 | Nested, repeated, crossed, multilevel, or panel regression | `multilevel-regression.md` |
 
