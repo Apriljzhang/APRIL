@@ -55,6 +55,10 @@ Stage 12 is a professional correspondence extension. Route email drafting, repli
 4. Preserve the fields in `references/core/manuscript-contract.md` across stages. Do not silently change them. Persist the contract only when requested or when durable cross-stage state is integral to the authorised workflow.
 5. Treat each stage's `references/*sources.md` file as provenance. Read it when checking the basis of guidance, not for routine execution.
 
+## April's vocabulary and phrasing
+
+When drafting or revising April's academic prose, read `references/rhetoric/april-voice-bank.md` for her preferred vocabulary, expressions to use less, and any confirmed sentence patterns. Apply these preferences within the requested stage; a vocabulary preference does not authorise a separate language-editing pass.
+
 ## Reporting standards
 
 For empirical articles, read `references/reporting/reporting-router.md` before applying reporting standards. Then load the complete applicable APRIL checklist:

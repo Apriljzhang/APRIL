@@ -35,6 +35,12 @@ Apply these priorities in order. A later preference must not damage an earlier o
 
 Never invent a citation, statistic, participant detail, educational context, theory, or methodological step to make prose sound more specific.
 
+## April's vocabulary and phrasing
+
+Read `../references/rhetoric/april-voice-bank.md` before drafting or revising April's prose. Use its confirmed preferences when choosing vocabulary and sentence patterns, alongside the priorities above. Consider preferred expressions where their meaning and register fit; avoid forced insertion, repetition, fixed usage targets and automatic substitutions. Review expressions marked "use less" in context and state the intended relationship directly where possible.
+
+When April supplies a new preferred expression, an expression to use less, or a sentence pattern for the bank, update the shared bank within the authorised scope. Record her preference separately from editor-written usage guidance and illustrative examples. Do not infer a lasting preference from an incidental occurrence in a manuscript or conversation.
+
 ## Authorial stance and paragraph rhythm
 
 - Write with a clear, assured scholarly voice. Avoid defensive explanations, repeated self-justification, apologetic meta-discourse, and replies to criticisms the reader has not raised.
