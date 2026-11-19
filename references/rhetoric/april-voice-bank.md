@@ -28,6 +28,24 @@ April's preference: use more. Confirmed 20261107; supplied as "Contrariwise". Ca
 
 Usage guidance: introduces an opposing proposition or the reverse relationship. Use when the preceding argument establishes a clear point of contrast and the formal register fits. It is stronger than a general transition such as *however*; preserve the actual logical relationship.
 
+### pertain
+
+April's preference: use more. Confirmed 20261119.
+
+Usage guidance: usually *pertain to*, meaning concern, relate to or apply to a specified topic or context. Useful forms include *pertains to* and *pertaining to*. Choose the form that fits the sentence; preserve the precise relationship being described.
+
+### divulge
+
+April's preference: use more. Confirmed 20261119.
+
+Usage guidance: disclose information previously unknown or kept private. Use when that act of disclosure is part of the intended meaning. It can imply secrecy or sensitivity, so do not substitute it for every occurrence of *state*, *report* or *describe*, or imply a confidentiality breach without evidence.
+
+### conveyed
+
+April's preference: use more. Confirmed 20261119; supplied in this inflected form.
+
+Usage guidance: communicated or expressed a meaning, impression, feeling or stance through words or other signs. Identify what was conveyed and through which wording or action when the evidence supports that detail. Use the tense and form needed by the passage. Describing what a statement conveyed does not establish the truth of its content.
+
 ## Expressions to use less
 
 ### rather than
