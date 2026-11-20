@@ -46,6 +46,18 @@ April's preference: use more. Confirmed 20261119; supplied in this inflected for
 
 Usage guidance: communicated or expressed a meaning, impression, feeling or stance through words or other signs. Identify what was conveyed and through which wording or action when the evidence supports that detail. Use the tense and form needed by the passage. Describing what a statement conveyed does not establish the truth of its content.
 
+### postulate
+
+April's preference: use more. Confirmed 20261120.
+
+April's intended use: mark a theoretical proposition or conceptual relationship being proposed for subsequent examination. Distinguish this from *demonstrate*, which commits the writer to showing that a claim is supported by evidence or argument.
+
+Usage guidance: useful forms include *we postulate that ...* and *the model postulates ...*. Use when proposing a theoretical relationship or explicitly adopting an assumption for reasoning; make that role clear in context. Explain the available theoretical rationale without presenting the proposition as an established empirical finding. Preserve the actual evidence status when choosing between *postulate*, *hypothesise*, *suggest* and *demonstrate*; they are not automatic substitutes.
+
+User-supplied example; source not specified:
+
+> we postulate that LAE is a multi-layered system
+
 ## Expressions to use less
 
 ### rather than
