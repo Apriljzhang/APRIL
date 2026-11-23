@@ -58,6 +58,14 @@ User-supplied example; source not specified:
 
 > we postulate that LAE is a multi-layered system
 
+### veer towards
+
+April's preference: use more. Confirmed 20261123.
+
+Usage guidance: expresses a change in direction, emphasis or position, often a departure from an earlier course. Useful forms include *veers towards*, *veered towards* and *veering towards*. Use when the argument or evidence supports that shift; preserve any distinction between an observed change and a possible tendency. Retain the British English form *towards*.
+
+Illustrative wording, not a research finding: "The discussion veered towards procedural concerns."
+
 ## Expressions to use less
 
 ### rather than
